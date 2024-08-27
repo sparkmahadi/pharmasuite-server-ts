@@ -1,0 +1,162 @@
+[
+    {
+      "_id": "5fd0e58a3cb3e821687096c9",
+      "generic_name": [],
+      "images": [
+        {
+          "img": "products/sepnil-extra-mild-hand-wash-tea-oil-200-ml-1633954615501.webp"
+        }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 11062,
+          "variation_option_id": 2,
+          "price": 105,
+          "regular_price": 105,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Pc"
+        }
+      ],
+      "cat_id": "61d4321937005564c2588116",
+      "cat_name": "covid-essentials",
+      "manufacturers": "Square Toiletries Limited",
+      "manufacturers_alias": "square-toiletries-limited",
+      "sku_type": "Hand Wash",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "item_name": "Sepnil Extra Mild Hand Wash (Tea Oil) 200 ml",
+      "alias": "sepnil-extra-mild-hand-wash-tea-oil-200-ml-hand-wash",
+      "path": "healthcare-product/covid-essentials/sepnil-extra-mild-hand-wash-tea-oil-200-ml"
+    },
+    {
+      "_id": "5fd0e5ea3cb3e821687096ca",
+      "generic_name": [],
+      "images": [
+        {
+          "img": "products/untitled-1-1633955388704.webp"
+        }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 11063,
+          "variation_option_id": 2,
+          "price": 150,
+          "regular_price": 150,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Pc"
+        }
+      ],
+      "cat_id": "61d4321937005564c2588116",
+      "cat_name": "covid-essentials",
+      "manufacturers": "Square Toiletries Limited",
+      "manufacturers_alias": "square-toiletries-limited",
+      "sku_type": "Hand Sanitizer",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "item_name": "Sepnil Instant Hand Sanitizer 100 ml",
+      "alias": "hand-sanitizer",
+      "path": "healthcare-product/covid-essentials/sepnil-instant-hand-sanitizer-100-ml"
+    },
+    {
+      "_id": "5fd1a81e3cb3e821687096d6",
+      "generic_name": [],
+      "images": [
+        {
+          "img": "products/2-1634619410685.webp"
+        }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 11071,
+          "variation_option_id": 2,
+          "price": 130,
+          "regular_price": 130,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 165,
+          "capacity": "1 Pc"
+        }
+      ],
+      "cat_id": "61d4321937005564c2588116",
+      "cat_name": "covid-essentials",
+      "manufacturers": "Dr. Rhazes ",
+      "manufacturers_alias": "dr.-rhazes",
+      "sku_type": "Gel",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "item_name": "Dr Rhazes Ultra Protect 100 ml",
+      "alias": "dr-rhazes-ultra-protect-100-ml-gel",
+      "path": "healthcare-product/covid-essentials/dr-rhazes-ultra-protect-100-ml"
+    },
+    {
+      "_id": "5fd1abf33cb3e821687096d9",
+      "generic_name": [],
+      "images": [
+        {
+          "img": "products/dr-rhazes-surface-disinfectant-shield-1634555806211.webp"
+        }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 11074,
+          "variation_option_id": 2,
+          "price": 400,
+          "regular_price": 400,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 18,
+          "capacity": "1 Pc"
+        }
+      ],
+      "cat_id": "61d4321937005564c2588116",
+      "cat_name": "covid-essentials",
+      "manufacturers": "Dr. Rhazes ",
+      "manufacturers_alias": "dr.-rhazes",
+      "sku_type": "Spray",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "item_name": "Dr Rhazes Surface Disinfectant Shield 250 ml",
+      "alias": "dr-rhazes-surface-disinfectant-shield-spray",
+      "path": "healthcare-product/covid-essentials/dr-rhazes-surface-disinfectant-shield-250-ml"
+    },
+    {
+      "_id": "5fd1b27d3cb3e821687096f3",
+      "generic_name": [],
+      "images": [
+        {
+          "img": "products/sepnil-disinfectant-spray-300-ml-1629197147643.webp"
+        }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 11088,
+          "variation_option_id": 2,
+          "price": 350,
+          "regular_price": 350,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 2,
+          "capacity": "1 Pc"
+        }
+      ],
+      "cat_id": "61d4321937005564c2588116",
+      "cat_name": "covid-essentials",
+      "manufacturers": "Square Toiletries Limited",
+      "manufacturers_alias": "square-toiletries-limited",
+      "sku_type": "Spray",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "item_name": "Sepnil Disinfectant 300 ml",
+      "alias": "sepnil-disinfectant-300-ml-spray",
+      "path": "healthcare-product/covid-essentials/sepnil-disinfectant-300-ml"
+    }
+  ]

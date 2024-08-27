@@ -1,0 +1,707 @@
+[
+    {
+      "generic_name": [],
+      "images": [
+        { "img": "products/coral-dotted-extra-time-1650694385052.webp" }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27740,
+          "variation_option_id": 2,
+          "price": 50,
+          "regular_price": 50,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 5,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28934,
+          "variation_option_id": 74,
+          "price": 500,
+          "regular_price": 500,
+          "variation_option_name": "1 Box = 10 Pc",
+          "qty_in_pcs": 10,
+          "stock_qty": 0,
+          "capacity": "1 Box = 10 Pc"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "EUROLATEX SDN BHD",
+      "manufacturers_alias": "eurolatex-sdn-bhd",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "60c739e3b8eb9b544fececa3",
+      "item_name": "Coral Dotted  Extra Time",
+      "alias": "coral-dotted-extra-time-condom",
+      "path": "healthcare-product/sexual-wellness/coral-dotted-extra-time"
+    },
+    {
+      "generic_name": [],
+      "images": [{ "img": "products/carex-condoms-1633404925340.webp" }],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27742,
+          "variation_option_id": 2,
+          "price": 40,
+          "regular_price": 40,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 1,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27743,
+          "variation_option_id": 93,
+          "price": 960,
+          "regular_price": 960,
+          "variation_option_name": "1 Box = 24 Pcs",
+          "qty_in_pcs": 24,
+          "stock_qty": 0,
+          "capacity": "1 Box = 24 Pcs"
+        }
+      ],
+      "cat_id": "61b9dd26eea8070eace5a41c",
+      "manufacturers": "Joly Surgical and cosmetic",
+      "manufacturers_alias": "joly-surgical-and-cosmetic",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "60c73b31b8eb9b544fecece1",
+      "item_name": "Carex Condoms",
+      "alias": "condom",
+      "path": "healthcare-product/condoms/carex-condoms"
+    },
+    {
+      "generic_name": [],
+      "images": [{ "img": "products/durex-1637666365631.webp" }],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27847,
+          "variation_option_id": 2,
+          "price": 120,
+          "regular_price": 120,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 56,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27848,
+          "variation_option_id": 73,
+          "price": 720,
+          "regular_price": 720,
+          "variation_option_name": "1 Box = 6 Pc",
+          "qty_in_pcs": 6,
+          "stock_qty": 9,
+          "capacity": "1 Box = 6 Pc"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Reckitt Benckiser (Bangladesh) Ltd.",
+      "manufacturers_alias": "reckitt-benckiser-bangladesh-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "60e54c3d3646515dec84e658",
+      "item_name": "Durex Thin Feel",
+      "alias": "durex-thin-feel",
+      "path": "healthcare-product/sexual-wellness/durex-thin-feel"
+    },
+    {
+      "generic_name": [],
+      "images": [
+        { "img": "products/ky-jelly-personal-lubricant-1633952962640.webp" }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27873,
+          "variation_option_id": 2,
+          "price": 350,
+          "regular_price": 350,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Pc"
+        }
+      ],
+      "cat_id": "61b9dd34eea8070eace5a41d",
+      "manufacturers": "Johnson and Johnson",
+      "manufacturers_alias": "johnson-and-johnson",
+      "sku_type": "Personal jelly",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "60ed126ada8cca4bd67615ce",
+      "item_name": "K.Y Jelly",
+      "alias": "ky-jelly-personal-lubricant",
+      "path": "healthcare-product/lubricants/ky-jelly"
+    },
+    {
+      "generic_name": [],
+      "images": [
+        {
+          "img": "products/durex-pleasure-me-condoms-3-pcs-pack-1664703983447.webp"
+        }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27905,
+          "variation_option_id": 2,
+          "price": 120,
+          "regular_price": 120,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 26,
+          "capacity": "1 Pc"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Reckitt Benckiser (Bangladesh) Ltd.",
+      "manufacturers_alias": "reckitt-benckiser-bangladesh-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "610799a2e89872711fe2ec06",
+      "item_name": "Durex Pleasure Me",
+      "alias": "durex-pleasure-me-condom",
+      "path": "healthcare-product/sexual-wellness/durex-pleasure-me"
+    },
+    {
+      "generic_name": [],
+      "images": [
+        { "img": "products/moods-gold-1500-dots-condoms-1633405524065.webp" }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27911,
+          "variation_option_id": 40,
+          "price": 100,
+          "regular_price": 100,
+          "variation_option_name": "1 Box",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Box"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Renata Pharma Ltd",
+      "manufacturers_alias": "renata-pharma-ltd",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "610a7209433ccb18af4ef924",
+      "item_name": "Moods Gold 1500 Dots",
+      "alias": "moods-gold-1500-dots-condoms",
+      "path": "healthcare-product/sexual-wellness/moods-gold-1500-dots"
+    },
+    {
+      "generic_name": [],
+      "images": [
+        { "img": "products/sensation-dotted-coffee-1633405662938.webp" }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27938,
+          "variation_option_id": 2,
+          "price": 40,
+          "regular_price": 40,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 7,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 27939,
+          "variation_option_id": 53,
+          "price": 480,
+          "regular_price": 480,
+          "variation_option_name": "1 Box = 12 Pcs",
+          "qty_in_pcs": 12,
+          "stock_qty": 0,
+          "capacity": "1 Box = 12 Pcs"
+        }
+      ],
+      "cat_id": "61b9dd26eea8070eace5a41c",
+      "manufacturers": "Social Marketing Company (SMC)",
+      "manufacturers_alias": "social-marketing-company-smc",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "61134ddd5ab80c2f041c31c6",
+      "item_name": "Sensation Dotted Coffee",
+      "alias": "sensation-dotted-coffee-condom",
+      "path": "healthcare-product/condoms/sensation-dotted-coffee"
+    },
+    {
+      "generic_name": [],
+      "images": [{ "img": "products/durex-extra-thin-1633405828500.webp" }],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 38243,
+          "variation_option_id": 40,
+          "price": 750,
+          "regular_price": 750,
+          "variation_option_name": "1 Box",
+          "qty_in_pcs": 1,
+          "stock_qty": 1,
+          "capacity": "1 Box"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Reckitt Benckiser (Bangladesh) Ltd.",
+      "manufacturers_alias": "reckitt-benckiser-bangladesh-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "61358ffccef3d15484c15a2b",
+      "item_name": "Durex Extra Thin (10 Pcs)",
+      "alias": "durex-extra-thin-condom",
+      "path": "healthcare-product/sexual-wellness/durex-extra-thin-10-pcs"
+    },
+    {
+      "generic_name": [],
+      "images": [
+        { "img": "products/coral-natural-3-fruits-flavours-1633406044079.webp" }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28246,
+          "variation_option_id": 2,
+          "price": 35,
+          "regular_price": 35,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28935,
+          "variation_option_id": 74,
+          "price": 350,
+          "regular_price": 350,
+          "variation_option_name": "1 Box = 10 Pc",
+          "qty_in_pcs": 10,
+          "stock_qty": 0,
+          "capacity": "1 Box = 10 Pc"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "EUROLATEX SDN BHD",
+      "manufacturers_alias": "eurolatex-sdn-bhd",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "613c355628df930e9d17ab10",
+      "item_name": "Coral Natural 3 Fruits Flavours",
+      "alias": "coral-natural-3-fruits-flavours-condom",
+      "path": "healthcare-product/sexual-wellness/coral-natural-3-fruits-flavours"
+    },
+    {
+      "generic_name": [],
+      "images": [{ "img": "products/panther-banana-1633406216714.webp" }],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28774,
+          "variation_option_id": 2,
+          "price": 25,
+          "regular_price": 25,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28775,
+          "variation_option_id": 53,
+          "price": 300,
+          "regular_price": 300,
+          "variation_option_name": "1 Box = 12 Pcs",
+          "qty_in_pcs": 12,
+          "stock_qty": 0,
+          "capacity": "1 Box = 12 Pcs"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Social Marketing Company (SMC)",
+      "manufacturers_alias": "social-marketing-company-smc",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "614800c23f7f7608a786eec8",
+      "item_name": "Panther Banana",
+      "alias": "panther-banana-condom",
+      "path": "healthcare-product/sexual-wellness/panther-banana"
+    },
+    {
+      "generic_name": [],
+      "images": [{ "img": "products/manforce-strawberry-1633406387693.webp" }],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28851,
+          "variation_option_id": 2,
+          "price": 80,
+          "regular_price": 80,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 1,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28852,
+          "variation_option_id": 53,
+          "price": 960,
+          "regular_price": 960,
+          "variation_option_name": "1 Box = 12 Pcs",
+          "qty_in_pcs": 12,
+          "stock_qty": 0,
+          "capacity": "1 Box = 12 Pcs"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Mankind Pharma Ltd.",
+      "manufacturers_alias": "mankind-pharma-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "614f17c58bd8410cdb46b2d4",
+      "item_name": "Manforce Strawberry",
+      "alias": "manforce-strawberry-condom",
+      "path": "healthcare-product/sexual-wellness/manforce-strawberry"
+    },
+    {
+      "generic_name": [],
+      "images": [{ "img": "products/manforce-cocktail-1633406573060.webp" }],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28853,
+          "variation_option_id": 2,
+          "price": 50,
+          "regular_price": 50,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28854,
+          "variation_option_id": 53,
+          "price": 600,
+          "regular_price": 600,
+          "variation_option_name": "1 Box = 12 Pcs",
+          "qty_in_pcs": 12,
+          "stock_qty": 0,
+          "capacity": "1 Box = 12 Pcs"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Mankind Pharma Ltd.",
+      "manufacturers_alias": "mankind-pharma-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "614f19ee8bd8410cdb46bf09",
+      "item_name": "Manforce Cocktail",
+      "alias": "manforce-cocktail-condom",
+      "path": "healthcare-product/sexual-wellness/manforce-cocktail"
+    },
+    {
+      "generic_name": [],
+      "images": [
+        { "img": "products/manforce-sunny-edition-1633406740684.webp" }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28855,
+          "variation_option_id": 2,
+          "price": 100,
+          "regular_price": 100,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28856,
+          "variation_option_id": 53,
+          "price": 1200,
+          "regular_price": 1200,
+          "variation_option_name": "1 Box = 12 Pcs",
+          "qty_in_pcs": 12,
+          "stock_qty": 0,
+          "capacity": "1 Box = 12 Pcs"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Mankind Pharma Ltd.",
+      "manufacturers_alias": "mankind-pharma-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "614f1e0c8bd8410cdb46cf95",
+      "item_name": "Manforce Sunny Edition",
+      "alias": "manforce-sunny-edition-condom",
+      "path": "healthcare-product/sexual-wellness/manforce-sunny-edition"
+    },
+    {
+      "generic_name": [],
+      "images": [
+        { "img": "products/manforce-strawberry-mini-pack-1633407020584.webp" }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 38428,
+          "variation_option_id": 40,
+          "price": 220,
+          "regular_price": 220,
+          "variation_option_name": "1 Box",
+          "qty_in_pcs": 1,
+          "stock_qty": 1,
+          "capacity": "1 Box"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Mankind Pharma Ltd.",
+      "manufacturers_alias": "mankind-pharma-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "614f1f648bd8410cdb46d4bd",
+      "item_name": "Manforce Strawberry Mini Pack (10)",
+      "alias": "manforce-strawberry-mini-pack-condom",
+      "path": "healthcare-product/sexual-wellness/manforce-strawberry-mini-pack-10"
+    },
+    {
+      "generic_name": [],
+      "images": [
+        { "img": "products/manforce-stamina-orange-1633407195834.webp" }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28859,
+          "variation_option_id": 2,
+          "price": 100,
+          "regular_price": 100,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 29871,
+          "variation_option_id": 53,
+          "price": 1200,
+          "regular_price": 1200,
+          "variation_option_name": "1 Box = 12 Pcs",
+          "qty_in_pcs": 12,
+          "stock_qty": 0,
+          "capacity": "1 Box = 12 Pcs"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Mankind Pharma Ltd.",
+      "manufacturers_alias": "mankind-pharma-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "614f20248bd8410cdb46d929",
+      "item_name": "Manforce Stamina-Orange",
+      "alias": "manforce-stamina-orange-condom",
+      "path": "healthcare-product/sexual-wellness/manforce-stamina-orange"
+    },
+    {
+      "generic_name": [],
+      "images": [{ "img": "products/manforce-chocolate-1633612431480.webp" }],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28945,
+          "variation_option_id": 2,
+          "price": 80,
+          "regular_price": 80,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 1,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28946,
+          "variation_option_id": 53,
+          "price": 960,
+          "regular_price": 960,
+          "variation_option_name": "1 Box = 12 Pcs",
+          "qty_in_pcs": 12,
+          "stock_qty": 0,
+          "capacity": "1 Box = 12 Pcs"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Mankind Pharma Ltd.",
+      "manufacturers_alias": "mankind-pharma-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "615ec52735a6bf4fc9f2eaa6",
+      "item_name": "Manforce Chocolate",
+      "alias": "manforce-chocolate-condom",
+      "path": "healthcare-product/sexual-wellness/manforce-chocolate"
+    },
+    {
+      "generic_name": [],
+      "images": [
+        { "img": "products/coral-chocolate-flavour-1634206848971.webp" }
+      ],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28964,
+          "variation_option_id": 2,
+          "price": 30,
+          "regular_price": 30,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 16,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 28965,
+          "variation_option_id": 74,
+          "price": 300,
+          "regular_price": 300,
+          "variation_option_name": "1 Box = 10 Pc",
+          "qty_in_pcs": 10,
+          "stock_qty": 1,
+          "capacity": "1 Box = 10 Pc"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "EUROLATEX SDN BHD",
+      "manufacturers_alias": "eurolatex-sdn-bhd",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "6162b90eb3436c4ad9c2f236",
+      "item_name": "Coral Chocolate Flavour",
+      "alias": "coral-chocolate-flavour-condom",
+      "path": "healthcare-product/sexual-wellness/coral-chocolate-flavour"
+    },
+    {
+      "generic_name": [],
+      "images": [{ "img": "products/durex-extra-safe-1646047428769.webp" }],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 29012,
+          "variation_option_id": 2,
+          "price": 120,
+          "regular_price": 120,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 7,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 29020,
+          "variation_option_id": 73,
+          "price": 720,
+          "regular_price": 720,
+          "variation_option_name": "1 Box = 6 Pc",
+          "qty_in_pcs": 6,
+          "stock_qty": 1,
+          "capacity": "1 Box = 6 Pc"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "Reckitt Benckiser (Bangladesh) Ltd.",
+      "manufacturers_alias": "reckitt-benckiser-bangladesh-ltd.",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "6171363549b9c801cadb8caf",
+      "item_name": "Durex Extra Safe",
+      "alias": "durex-extra-safe-condom",
+      "path": "healthcare-product/sexual-wellness/durex-extra-safe"
+    },
+    {
+      "generic_name": [],
+      "images": [{ "img": "products/coral-mint-flavour-1635305446539.webp" }],
+      "inventory": [
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 29013,
+          "variation_option_id": 2,
+          "price": 30,
+          "regular_price": 30,
+          "variation_option_name": "1 Pc",
+          "qty_in_pcs": 1,
+          "stock_qty": 0,
+          "capacity": "1 Pc"
+        },
+        {
+          "discount": "0.00",
+          "item_variation_option_id": 38289,
+          "variation_option_id": 74,
+          "price": 300,
+          "regular_price": 300,
+          "variation_option_name": "1 Box = 10 Pc",
+          "qty_in_pcs": 10,
+          "stock_qty": 0,
+          "capacity": "1 Box = 10 Pc"
+        }
+      ],
+      "cat_id": "61b9d572c407792bd45399e8",
+      "cat_name": "sexual-wellness",
+      "manufacturers": "EUROLATEX SDN BHD",
+      "manufacturers_alias": "eurolatex-sdn-bhd",
+      "sku_type": "Condom",
+      "item_type": "healthcare-product",
+      "is_showcasing": 0,
+      "_id": "617141d949b9c801cadbb18f",
+      "item_name": "Coral Mint Flavour",
+      "alias": "coral-mint-flavour-condom",
+      "path": "healthcare-product/sexual-wellness/coral-mint-flavour"
+    }
+  ]
