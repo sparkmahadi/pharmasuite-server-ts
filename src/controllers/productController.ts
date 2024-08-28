@@ -1,10 +1,9 @@
 import { Request, Response } from 'express';
-import { getDb } from '../db/mongodbClient';
+import { db } from '../db/connectToDB';
 import { IProduct } from '../models/productModel';
 
 export const getAllProducts = async (req: Request, res: Response): Promise<void> => {
   try {
-    const db = await getDb();
     const productsCollection = db.collection<IProduct>('products');
     const products = await productsCollection.find().toArray();
     res.json(products);
@@ -13,9 +12,9 @@ export const getAllProducts = async (req: Request, res: Response): Promise<void>
   }
 };
 
+
 export const getProductById = async (req: Request, res: Response): Promise<void> => {
   try {
-    const db = await getDb();
     const productsCollection = db.collection<IProduct>('products');
     const product = await productsCollection.findOne({ _id: req.params.id });
     if (product) {
