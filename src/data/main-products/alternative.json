@@ -1,0 +1,110 @@
+[
+    {
+        "item_id": 2789,
+        "item_name": "Betameson-N 15",
+        "sku_type": "Cream",
+        "generic_or_category_name": "Betamethasone 0.10 %,Neomycin Sulphate 0.50 %",
+        "images": [
+            {
+                "img": "medicine/1605072210902.png"
+            }
+        ],
+        "mongodb_id": "5faac7aeab2711182cc3f4be",
+        "alias": "betameson-n-15-cream",
+        "manufacturer_name": "Square Pharmaceuticals Limited",
+        "discount": "5.00",
+        "buy_price": "30.81",
+        "regular_price": "35.00",
+        "variation_option_name": "1 Pc",
+        "price": "33.25",
+        "sell_price": "33.25",
+        "stock_qty": 3
+    },
+    {
+        "item_id": 3819,
+        "item_name": "Neobet 10",
+        "sku_type": "Cream",
+        "generic_or_category_name": "Betamethasone 0.10 %,Neomycin Sulphate 0.50 %",
+        "images": [
+            {
+                "img": "medicine/neobet-10gm-removebg-preview-1630298320997.webp"
+            }
+        ],
+        "mongodb_id": "5fed8daa4b9cae045a6e43ba",
+        "alias": "neobet-10-cream",
+        "manufacturer_name": "The ACME Laboratories Ltd.",
+        "is_showcasing": {
+            "type": "Buffer",
+            "data": [
+                0
+            ]
+        },
+        "discount": "5.00",
+        "buy_price": "18.99",
+        "regular_price": "22.15",
+        "item_variation_option_id": 11897,
+        "variation_option_name": "1 Pc",
+        "price": "21.04",
+        "sell_price": "21.04",
+        "stock_qty": 0,
+        "cnt": 10
+    },
+    {
+        "item_id": 1640,
+        "item_name": "Betavate-N",
+        "sku_type": "Cream",
+        "generic_or_category_name": "Betamethasone 0.10 %,Neomycin Sulphate 0.50 %",
+        "images": [
+            {
+                "img": "medicine/Betavate-N.png"
+            }
+        ],
+        "mongodb_id": "5fa149a7f64adca220a520fe",
+        "alias": "betavate-n-cream",
+        "manufacturer_name": "Drug International Limited",
+        "is_showcasing": {
+            "type": "Buffer",
+            "data": [
+                0
+            ]
+        },
+        "discount": "5.00",
+        "buy_price": "19.11",
+        "regular_price": "22.00",
+        "item_variation_option_id": 4473,
+        "variation_option_name": "1 Pc",
+        "price": "20.90",
+        "sell_price": "20.90",
+        "stock_qty": 3,
+        "cnt": 10
+    },
+    {
+        "item_id": 4147,
+        "item_name": "Betaval N 5",
+        "sku_type": "Cream",
+        "generic_or_category_name": "Betamethasone 0.10 %,Neomycin Sulphate 0.50 %",
+        "images": [
+            {
+                "img": "medicine/betaval-n-cream-5gm-1630306635578.webp"
+            }
+        ],
+        "mongodb_id": "5ff414f719c3974ffc664e6a",
+        "alias": "betaval-n-5-cream",
+        "manufacturer_name": "Healthcare Pharmaceuticals Limited",
+        "is_showcasing": {
+            "type": "Buffer",
+            "data": [
+                0
+            ]
+        },
+        "discount": "5.00",
+        "buy_price": "16.29",
+        "regular_price": "18.51",
+        "item_variation_option_id": 12679,
+        "variation_option_name": "1 Pc",
+        "price": "17.58",
+        "sell_price": "17.58",
+        "stock_qty": 16,
+        "cnt": 8
+    }
+]

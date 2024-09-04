@@ -1,0 +1,641 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/oral-b-soft-brush-removebg-preview-1630206561648.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11276,
+                "variation_option_id": 2,
+                "price": 60,
+                "regular_price": 60,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "Procter and Gamble Bangladesh PVT Ltd",
+        "manufacturers_alias": "procter-and-gamble-bangladesh-pvt-ltd",
+        "sku_type": "Tooth Brush",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe0862371931e63f4f7e119",
+        "item_name": "Oral-B Exceed Toothbrush",
+        "alias": "oral-b-soft-brush-tooth-brush",
+        "path": "healthcare-product/health-dental/oral-b-exceed-toothbrush"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dabur-red-paste-50-gm-1633959486490.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11516,
+                "variation_option_id": 2,
+                "price": 30,
+                "regular_price": 30,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "Dabur Limited",
+        "manufacturers_alias": "dabur-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe82bb6f4e54163742635c1",
+        "item_name": "Dabur Red Paste 50 gm",
+        "alias": "dabur-red-paste-50-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/dabur-red-paste-50-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dabur-red-past-200-gm-1633959401894.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11517,
+                "variation_option_id": 2,
+                "price": 95,
+                "regular_price": 95,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "Dabur Limited",
+        "manufacturers_alias": "dabur-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe82c6af4e54163742635c2",
+        "item_name": "Dabur Red Paste 100 gm",
+        "alias": "dabur-red-paste-100-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/dabur-red-paste-100-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dabur-red-past-200-gm-1633959341971.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11518,
+                "variation_option_id": 2,
+                "price": 155,
+                "regular_price": 155,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "Dabur Limited",
+        "manufacturers_alias": "dabur-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe82cfef4e54163742635c3",
+        "item_name": "Dabur Red Past 200 gm",
+        "alias": "dabur-red-past-200-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/dabur-red-past-200-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dabur-meswak-tooth-paste-50-gm-1633959156999.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11519,
+                "variation_option_id": 2,
+                "price": 30,
+                "regular_price": 30,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "Dabur Limited",
+        "manufacturers_alias": "dabur-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe82d74f4e54163742635c4",
+        "item_name": "Dabur Meswak Tooth Paste 50 gm",
+        "alias": "dabur-meswak-tooth-paste-50-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/dabur-meswak-tooth-paste-50-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dabur-meswak-tooth-paste-100-gm-1633958921986.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11520,
+                "variation_option_id": 2,
+                "price": 95,
+                "regular_price": 95,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f131106b25db7f097336cf",
+        "manufacturers": "Dabur Limited",
+        "manufacturers_alias": "dabur-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe82debf4e54163742635c5",
+        "item_name": "Dabur Meswak Tooth Paste 100 gm",
+        "alias": "dabur-meswak-tooth-paste-100-gm-tooth-paste",
+        "path": "healthcare-product/oral-care/dabur-meswak-tooth-paste-100-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dabur-meswak-tooth-paste-200-gm-1633959043801.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11521,
+                "variation_option_id": 2,
+                "price": 155,
+                "regular_price": 155,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "Dabur Limited",
+        "manufacturers_alias": "dabur-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe82e38f4e54163742635c6",
+        "item_name": "Dabur Meswak Tooth Paste 200 gm",
+        "alias": "dabur-meswak-tooth-paste-200-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/dabur-meswak-tooth-paste-200-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-360-1611639942677.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22582,
+                "variation_option_id": 111,
+                "price": 165,
+                "regular_price": 165,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth Brush",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac8ac604562478640e1a",
+        "item_name": "Colgate 360",
+        "alias": "colgate-360-tooth-brush",
+        "path": "healthcare-product/health-dental/colgate-360"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-ACTIVE-SALT-100-GM-1611639947117.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22583,
+                "variation_option_id": 111,
+                "price": 90,
+                "regular_price": 90,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac8fc604562478640e1b",
+        "item_name": "COLGATE ACTIVE SALT 100 GM",
+        "alias": "colgate-active-salt-100-gm",
+        "path": "healthcare-product/health-dental/colgate-active-salt-100-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-ACTIVE-SALT-200-GM-1611639951637.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22584,
+                "variation_option_id": 111,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac94c604562478640e1c",
+        "item_name": "Colgate active salt 200 gm",
+        "alias": "colgate-active-salt-200-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/colgate-active-salt-200-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/colgate-active-salt-48-gm-1633501219149.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22585,
+                "variation_option_id": 111,
+                "price": 45,
+                "regular_price": 45,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac9ac604562478640e1d",
+        "item_name": "Colgate active salt 48 gm",
+        "alias": "colgate-active-salt-48-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/colgate-active-salt-48-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/colgate-active-salt-54-gm-1633501523270.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22586,
+                "variation_option_id": 111,
+                "price": 45,
+                "regular_price": 45,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac9ec604562478640e1e",
+        "item_name": "Colgate active salt 54 gm",
+        "alias": "colgate-active-salt-54-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/colgate-active-salt-54-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/colgate-dental-100-gm-1633501763915.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22587,
+                "variation_option_id": 111,
+                "price": 85,
+                "regular_price": 85,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600faca3c604562478640e1f",
+        "item_name": "Colgate dental 100 gm",
+        "alias": "colgate-dental-100-gm-",
+        "path": "healthcare-product/health-dental/colgate-dental-100-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-DENTAL-CREAM-200-GM-1611639971391.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22588,
+                "variation_option_id": 111,
+                "price": 135,
+                "regular_price": 135,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600faca7c604562478640e20",
+        "item_name": "Colgate dental 200 gm",
+        "alias": "tooth-paste",
+        "path": "healthcare-product/health-dental/colgate-dental-200-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/colgate-dental-50-gm-1633502486971.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22589,
+                "variation_option_id": 111,
+                "price": 35,
+                "regular_price": 35,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600facaac604562478640e21",
+        "item_name": "Colgate dental 50 gm",
+        "alias": "colgate-dental-50-gm-",
+        "path": "healthcare-product/health-dental/colgate-dental-50-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/colgate-herbal-100-gm-1633502734966.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22591,
+                "variation_option_id": 111,
+                "price": 125,
+                "regular_price": 125,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fad8e8339d66cd0c15835",
+        "item_name": "Colgate herbal 100 gm",
+        "alias": "colgate-herbal-100-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/colgate-herbal-100-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-HERBAL-200GM-1611640207382.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22592,
+                "variation_option_id": 111,
+                "price": 150,
+                "regular_price": 150,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fad948339d66cd0c15836",
+        "item_name": "Colgate herbal 200 gm",
+        "alias": "colgate-herbal-200-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/colgate-herbal-200-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-MAXFRESH-150-GM-1611640221948.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22595,
+                "variation_option_id": 111,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fada28339d66cd0c15839",
+        "item_name": "COLGATE MAXFRESH RED GEL 150 GM",
+        "alias": "colgate-maxfresh-red-gel-150-gm-tooth-paste",
+        "path": "healthcare-product/health-dental/colgate-maxfresh-red-gel-150-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-MAXFRESH-80-GM-1611640226741.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22596,
+                "variation_option_id": 111,
+                "price": 80,
+                "regular_price": 80,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fada78339d66cd0c1583a",
+        "item_name": "Colgate Max Fresh 80 g",
+        "alias": "colgate-max-fresh-80-g-tooth-paste",
+        "path": "healthcare-product/health-dental/colgate-max-fresh-80-g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-NEEM-200-GM-1611640231884.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22597,
+                "variation_option_id": 111,
+                "price": 130,
+                "regular_price": 130,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f130c16b25db7f09732cc5",
+        "cat_name" : "Dental Health",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth paste",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fadac8339d66cd0c1583b",
+        "item_name": "Colgate neem 200 g",
+        "alias": "colgate-neem-200-g-tooth-paste",
+        "path": "healthcare-product/health-dental/colgate-neem-200-g"
+    }
+]   

@@ -1,0 +1,642 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/meril-petroleum-jelly-15-ml-1633940367786.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11082,
+                "variation_option_id": 2,
+                "price": 25,
+                "regular_price": 25,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Gel",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b0a53cb3e821687096e5",
+        "item_name": "Meril Petroleum Jelly 15 ml",
+        "alias": "meril-petroleum-jelly-15-ml-gel",
+        "path": "healthcare-product/personal-care-products/meril-petroleum-jelly-15-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/44-1633929220487.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11083,
+                "variation_option_id": 2,
+                "price": 175,
+                "regular_price": 175,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Glycerine",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b0f53cb3e821687096e7",
+        "item_name": "Meril Rose Water 120 ml",
+        "alias": "meril-rose-water-120-ml-glycerine",
+        "path": "healthcare-product/personal-care-products/meril-rose-water-120-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/meril-olive-150-ml-1633939632630.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11085,
+                "variation_option_id": 2,
+                "price": 350,
+                "regular_price": 350,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 6,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Oil",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b1b93cb3e821687096eb",
+        "item_name": "Meril Olive 150 ml",
+        "alias": "meril-olive-150-ml-oil",
+        "path": "healthcare-product/personal-care-products/meril-olive-150-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/revive-perfect-fairness-talcum-powder-100-gm-1633941003488.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "5.00",
+                "item_variation_option_id": 11086,
+                "variation_option_id": 2,
+                "price": 47.5,
+                "regular_price": 50,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 4,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b2063cb3e821687096ec",
+        "item_name": "Revive Perfect Fairness Talcum Powder 100 gm",
+        "alias": "revive-perfect-fairness-talcum-powder-100-gm-powder",
+        "path": "healthcare-product/personal-care-products/revive-perfect-fairness-talcum-powder-100-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/revive-perfect-fairness-talcum-powder-100-gm-1633941155782.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11087,
+                "variation_option_id": 2,
+                "price": 90,
+                "regular_price": 90,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b22f3cb3e821687096ee",
+        "item_name": "Revive Perfect Fairness Talcum Powder 200 gm",
+        "alias": "revive-perfect-fairness-talcum-powder-200-gm-powder",
+        "path": "healthcare-product/personal-care-products/revive-perfect-fairness-talcum-powder-200-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/meril-conditioning-nail-polish-remover-1633939130758.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11089,
+                "variation_option_id": 2,
+                "price": 40,
+                "regular_price": 40,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Liquid",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b30e3cb3e821687096f7",
+        "item_name": "Meril Nail Polish Remover 40 ml",
+        "alias": "liquid",
+        "path": "healthcare-product/personal-care-products/meril-nail-polish-remover-40-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/33-1633929058832.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11090,
+                "variation_option_id": 2,
+                "price": 115,
+                "regular_price": 115,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Glycerine",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b4193cb3e821687096fb",
+        "item_name": "Meril 120 gm",
+        "alias": "meril-120-gm-glycerine",
+        "path": "healthcare-product/personal-care-products/meril-120-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/33-1633929106421.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11091,
+                "variation_option_id": 2,
+                "price": 65,
+                "regular_price": 65,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 6,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Glycerine",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b4ff3cb3e82168709700",
+        "item_name": "Meril 60 gm",
+        "alias": "meril-60-gm-glycerine",
+        "path": "healthcare-product/personal-care-products/meril-60-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/4-1633932981036.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 0,
+                "item_variation_option_id": 11126,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": 300,
+                "regular_price": 300,
+                "stock_qty": 2,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Mouthwash",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1e0e03cb3e82168709748",
+        "item_name": "Close Up Natural Boost 300 ml",
+        "alias": "close-up-natural-boost-300-ml-mouthwash",
+        "path": "healthcare-product/personal-care-products/close-up-natural-boost-300-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633958154740.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11510,
+                "variation_option_id": 2,
+                "price": 100,
+                "regular_price": 100,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "R. S. Traders",
+        "manufacturers_alias": "r-s-traders",
+        "sku_type": "Tablet",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe8283e4da7463a3b281e8e",
+        "item_name": "Hajmola Regular 120",
+        "alias": "hajmola-regular-120-tablet",
+        "path": "healthcare-product/personal-care-products/hajmola-regular-120"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633958458243.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11511,
+                "variation_option_id": 2,
+                "price": 90,
+                "regular_price": 90,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "R. S. Traders",
+        "manufacturers_alias": "r-s-traders",
+        "sku_type": "Tablet",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe828ccf4e54163742635bd",
+        "item_name": "Hajmola Imli",
+        "alias": "hajmola-emly-120-tablet",
+        "path": "healthcare-product/personal-care-products/hajmola-imli"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633958334655.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11512,
+                "variation_option_id": 2,
+                "price": 90,
+                "regular_price": 90,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "R. S. Traders",
+        "manufacturers_alias": "r-s-traders",
+        "sku_type": "Tablet",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe8294cf4e54163742635be",
+        "item_name": "Hajmola Borhani 120",
+        "alias": "hajmola-borhani-120-tablet",
+        "path": "healthcare-product/personal-care-products/hajmola-borhani-120"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/ggg-1633957965737.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11522,
+                "variation_option_id": 2,
+                "price": 210,
+                "regular_price": 210,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "R. S. Traders",
+        "manufacturers_alias": "r-s-traders",
+        "sku_type": "Cream",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe82e82f4e54163742635c7",
+        "item_name": "Odomos 100 g",
+        "alias": "odomos-100-g-cream",
+        "path": "healthcare-product/personal-care-products/odomos-100-g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/eugica-herbal-mouth-spray-1630383040312.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 13348,
+                "variation_option_id": 2,
+                "price": 540,
+                "regular_price": 540,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "International Agencies (Bd.) Ltd. (IABL)",
+        "manufacturers_alias": "international-agencies-bd.-ltd.-iabl",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6006812fc80b37146d8f2c09",
+        "item_name": "Eugica Herbal Mouth Spray",
+        "alias": "eugica-herbal-mouth-spray-spray",
+        "path": "healthcare-product/personal-care-products/eugica-herbal-mouth-spray"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/aci-sandal-soap-125-1633500334054.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22576,
+                "variation_option_id": 111,
+                "price": 44,
+                "regular_price": 44,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Soap",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac70c604562478640e14",
+        "item_name": "ACI sandal soap 125",
+        "alias": "aci-sandal-soap-125-soap",
+        "path": "healthcare-product/personal-care-products/aci-sandal-soap-125"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/aci-sandal-soap-125-1633500410009.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22577,
+                "variation_option_id": 111,
+                "price": 25,
+                "regular_price": 25,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Soap",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac75c604562478640e15",
+        "item_name": "ACI sandal soap 75",
+        "alias": "aci-sandal-soap-75-soap",
+        "path": "healthcare-product/personal-care-products/aci-sandal-soap-75"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-DENTAL-CREAM-54-GM-1611639978761.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 0,
+                "item_variation_option_id": 22590,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": 45,
+                "regular_price": 45,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Cream",
+        "item_type": "healthcare-product",
+        "is_showcasing": 1,
+        "_id": "600facaec604562478640e22",
+        "item_name": "Colgate dental 54 gm",
+        "alias": "colgate-dental-54-gm-cream",
+        "path": "healthcare-product/personal-care-products/colgate-dental-54-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/COLGATE-SUPER-SHINE-TOOTH-BRUSH-1611640251344.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 0,
+                "item_variation_option_id": 22601,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": 40,
+                "regular_price": 40,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Tooth Brush",
+        "item_type": "healthcare-product",
+        "is_showcasing": 1,
+        "_id": "600fadbf8339d66cd0c1583f",
+        "item_name": "Colgate super shine",
+        "alias": "colgate-super-shine-tooth-brush",
+        "path": "healthcare-product/personal-care-products/colgate-super-shine"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/common-image.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22627,
+                "variation_option_id": 111,
+                "price": 50,
+                "regular_price": 50,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Glycerine",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fae358339d66cd0c15859",
+        "item_name": "Glycerine ACI",
+        "alias": "glycerine-aci-glycerine",
+        "path": "healthcare-product/personal-care-products/glycerine-aci"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/SAVLON-RESPECT-ADULT-DIAPER-(L)-8P-1611641004573.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22659,
+                "variation_option_id": 111,
+                "price": 850,
+                "regular_price": 850,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "5f72f9804ff3e17a905c4ef3",
+        "cat_name": "personal care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fb0b1d798c57adc7d4102",
+        "item_name": "Savlon Respect Adult (L) 8P",
+        "alias": "savlon-respect-adult-l-8p-diaper",
+        "path": "healthcare-product/personal-care-products/savlon-respect-adult-l-8p"
+    }
+]

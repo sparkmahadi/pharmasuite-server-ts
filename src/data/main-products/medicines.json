@@ -1,0 +1,443 @@
+[
+  {
+    "_id": "5f69cb125ac1c82f568a42c2",
+    "item_desc": "A topical ointment used to treat skin conditions like eczema, dermatitis, and allergies.",
+    "generic_name": [
+      "Betamethasone 0.10%",
+      "Neomycin Sulphate 0.50%"
+    ],
+    "images": [
+      {
+        "img": "medicine/901-neocort-1629602228027.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 3026,
+        "variation_option_id": 2,
+        "price": 17.79,
+        "regular_price": 18.53,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 14,
+        "capacity": "1 Pc",
+        "qty": 0
+      }
+    ],
+    "discount": 4,
+    "cat_id": null,
+    "cat_name": "Topical Ointment",
+    "manufacturers": "The IBN SINA Pharmaceutical Industry Ltd.",
+    "manufacturers_alias": "the-ibn-sina-pharmaceutical-industry-ltd.",
+    "sku_type": "Ointment",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Neocort",
+    "item_type_id": 1,
+    "alias": "neocort-ointment",
+    "generic_alias": "betamethasone-0.10-percentage-and-neomycin-sulphate-0.50-percentage",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 3
+  },
+  {
+    "_id": "5f69cb125ac1c82f568a42d3",
+    "item_desc": "A pain reliever and fever reducer used to treat mild to moderate pain.",
+    "generic_name": [
+      "Ibuprofen 200 mg"
+    ],
+    "images": [
+      {
+        "img": "medicine/902-ibuprofen-1629602228030.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 5,
+        "item_variation_option_id": 3027,
+        "variation_option_id": 3,
+        "price": 5.50,
+        "regular_price": 5.79,
+        "variation_option_name": "1 Bottle",
+        "qty_in_pcs": 50,
+        "stock_qty": 100,
+        "capacity": "1 Bottle",
+        "qty": 0
+      }
+    ],
+    "discount": 5,
+    "cat_id": null,
+    "cat_name": "Pain Reliever",
+    "manufacturers": "XYZ Pharmaceuticals Ltd.",
+    "manufacturers_alias": "xyz-pharmaceuticals-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Ibuprofen",
+    "item_type_id": 2,
+    "alias": "ibuprofen-tablet",
+    "generic_alias": "ibuprofen-200-mg",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 50
+  },
+  {
+    "_id": "5f69cb125ac1c82f568a42e4",
+    "item_desc": "An antacid used to relieve heartburn, acid indigestion, and upset stomach.",
+    "generic_name": [
+      "Calcium Carbonate 500 mg"
+    ],
+    "images": [
+      {
+        "img": "medicine/903-tums-1629602228035.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 3,
+        "item_variation_option_id": 3028,
+        "variation_option_id": 4,
+        "price": 3.29,
+        "regular_price": 3.39,
+        "variation_option_name": "1 Pack",
+        "qty_in_pcs": 24,
+        "stock_qty": 60,
+        "capacity": "1 Pack",
+        "qty": 0
+      }
+    ],
+    "discount": 3,
+    "cat_id": null,
+    "cat_name": "Antacid",
+    "manufacturers": "ABC Pharma Inc.",
+    "manufacturers_alias": "abc-pharma-inc.",
+    "sku_type": "Chewable Tablet",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Tums",
+    "item_type_id": 3,
+    "alias": "tums-chewable-tablet",
+    "generic_alias": "calcium-carbonate-500-mg",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 24
+  },
+  {
+    "_id": "5f69cb125ac1c82f568a42f5",
+    "item_desc": "An antihistamine used to relieve allergy symptoms such as runny nose, sneezing, and itching.",
+    "generic_name": [
+      "Loratadine 10 mg"
+    ],
+    "images": [
+      {
+        "img": "medicine/904-loratadine-1629602228040.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 2,
+        "item_variation_option_id": 3029,
+        "variation_option_id": 5,
+        "price": 8.99,
+        "regular_price": 9.19,
+        "variation_option_name": "1 Box",
+        "qty_in_pcs": 30,
+        "stock_qty": 80,
+        "capacity": "1 Box",
+        "qty": 0
+      }
+    ],
+    "discount": 2,
+    "cat_id": null,
+    "cat_name": "Antihistamine",
+    "manufacturers": "DEF Healthcare Pvt. Ltd.",
+    "manufacturers_alias": "def-healthcare-pvt-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Loratadine",
+    "item_type_id": 4,
+    "alias": "loratadine-tablet",
+    "generic_alias": "loratadine-10-mg",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 30
+  },
+  {
+    "_id": "5f69cb125ac1c82f568a4306",
+    "item_desc": "A cough suppressant used to relieve cough caused by minor throat and bronchial irritation.",
+    "generic_name": [
+      "Dextromethorphan 15 mg"
+    ],
+    "images": [
+      {
+        "img": "medicine/905-dextromethorphan-1629602228045.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 3,
+        "item_variation_option_id": 3030,
+        "variation_option_id": 6,
+        "price": 6.49,
+        "regular_price": 6.69,
+        "variation_option_name": "1 Bottle",
+        "qty_in_pcs": 100,
+        "stock_qty": 50,
+        "capacity": "1 Bottle",
+        "qty": 0
+      }
+    ],
+    "discount": 3,
+    "cat_id": null,
+    "cat_name": "Cough Suppressant",
+    "manufacturers": "GHI Pharma Ltd.",
+    "manufacturers_alias": "ghi-pharma-ltd.",
+    "sku_type": "Syrup",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Dextromethorphan",
+    "item_type_id": 5,
+    "alias": "dextromethorphan-syrup",
+    "generic_alias": "dextromethorphan-15-mg",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 100
+  },
+  {
+    "_id": "5f69cb125ac1c82f568a4317",
+    "item_desc": "An anti-inflammatory gel used to relieve pain and reduce inflammation in muscles and joints.",
+    "generic_name": [
+      "Diclofenac Sodium 1%"
+    ],
+    "images": [
+      {
+        "img": "medicine/906-diclofenac-1629602228050.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 3031,
+        "variation_option_id": 7,
+        "price": 12.99,
+        "regular_price": 13.49,
+        "variation_option_name": "1 Tube",
+        "qty_in_pcs": 20,
+        "stock_qty": 75,
+        "capacity": "1 Tube",
+        "qty": 0
+      }
+    ],
+    "discount": 4,
+    "cat_id": null,
+    "cat_name": "Anti-Inflammatory",
+    "manufacturers": "JKL Pharmaceuticals",
+    "manufacturers_alias": "jkl-pharmaceuticals",
+    "sku_type": "Gel",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Diclofenac Gel",
+    "item_type_id": 6,
+    "alias": "diclofenac-gel",
+    "generic_alias": "diclofenac-sodium-1-percentage",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 20
+  },
+  {
+    "_id": "5f69cb125ac1c82f568a4328",
+    "item_desc": "A laxative used to relieve occasional constipation and irregularity.",
+    "generic_name": [
+      "Polyethylene Glycol 3350"
+    ],
+    "images": [
+      {
+        "img": "medicine/907-peg-1629602228055.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 3,
+        "item_variation_option_id": 3032,
+        "variation_option_id": 8,
+        "price": 14.99,
+        "regular_price": 15.49,
+        "variation_option_name": "1 Bottle",
+        "qty_in_pcs": 500,
+        "stock_qty": 40,
+        "capacity": "1 Bottle",
+        "qty": 0
+      }
+    ],
+    "discount": 3,
+    "cat_id": null,
+    "cat_name": "Laxative",
+    "manufacturers": "MNO Pharmaceuticals",
+    "manufacturers_alias": "mno-pharmaceuticals",
+    "sku_type": "Powder",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Polyethylene Glycol",
+    "item_type_id": 7,
+    "alias": "peg-powder",
+    "generic_alias": "polyethylene-glycol-3350",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 500
+  },
+  {
+    "_id": "5f69cb125ac1c82f568a4339",
+    "item_desc": "A decongestant used to relieve nasal congestion due to colds, allergies, or sinus infections.",
+    "generic_name": [
+      "Pseudoephedrine 30 mg"
+    ],
+    "images": [
+      {
+        "img": "medicine/908-pseudoephedrine-1629602228060.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 2,
+        "item_variation_option_id": 3033,
+        "variation_option_id": 9,
+        "price": 7.99,
+        "regular_price": 8.19,
+        "variation_option_name": "1 Box",
+        "qty_in_pcs": 24,
+        "stock_qty": 65,
+        "capacity": "1 Box",
+        "qty": 0
+      }
+    ],
+    "discount": 2,
+    "cat_id": null,
+    "cat_name": "Decongestant",
+    "manufacturers": "PQR Healthcare Ltd.",
+    "manufacturers_alias": "pqr-healthcare-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Pseudoephedrine",
+    "item_type_id": 8,
+    "alias": "pseudoephedrine-tablet",
+    "generic_alias": "pseudoephedrine-30-mg",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 24
+  },
+  {
+    "_id": "5f69cb125ac1c82f568a434a",
+    "item_desc": "An antidiarrheal used to control symptoms of diarrhea.",
+    "generic_name": [
+      "Loperamide 2 mg"
+    ],
+    "images": [
+      {
+        "img": "medicine/909-loperamide-1629602228065.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 3,
+        "item_variation_option_id": 3034,
+        "variation_option_id": 10,
+        "price": 4.99,
+        "regular_price": 5.19,
+        "variation_option_name": "1 Box",
+        "qty_in_pcs": 20,
+        "stock_qty": 100,
+        "capacity": "1 Box",
+        "qty": 0
+      }
+    ],
+    "discount": 3,
+    "cat_id": null,
+    "cat_name": "Antidiarrheal",
+    "manufacturers": "STU Pharmaceuticals",
+    "manufacturers_alias": "stu-pharmaceuticals",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Loperamide",
+    "item_type_id": 9,
+    "alias": "loperamide-tablet",
+    "generic_alias": "loperamide-2-mg",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 20
+  },
+  {
+    "_id": "5f69cb125ac1c82f568a435b",
+    "item_desc": "An antifungal cream used to treat athlete's foot, jock itch, and ringworm.",
+    "generic_name": [
+      "Clotrimazole 1%"
+    ],
+    "images": [
+      {
+        "img": "medicine/910-clotrimazole-1629602228070.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 3035,
+        "variation_option_id": 11,
+        "price": 9.99,
+        "regular_price": 10.39,
+        "variation_option_name": "1 Tube",
+        "qty_in_pcs": 15,
+        "stock_qty": 55,
+        "capacity": "1 Tube",
+        "qty": 0
+      }
+    ],
+    "discount": 4,
+    "cat_id": null,
+    "cat_name": "Antifungal",
+    "manufacturers": "VWX Pharmaceuticals",
+    "manufacturers_alias": "vwx-pharmaceuticals",
+    "sku_type": "Cream",
+    "item_type": "medicine",
+    "is_featured": false,
+    "comes_under": "otc",
+    "is_prescription_required": 0,
+    "item_name": "Clotrimazole Cream",
+    "item_type_id": 10,
+    "alias": "clotrimazole-cream",
+    "generic_alias": "clotrimazole-1-percentage",
+    "is_available": true,
+    "alternative_items": [],
+    "related_items": [],
+    "available_stock_qty_in_pc": 15
+  }
+]

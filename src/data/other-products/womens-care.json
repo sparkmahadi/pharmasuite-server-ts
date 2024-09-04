@@ -1,0 +1,653 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/1604846651373.png"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8517,
+                "variation_option_id": 40,
+                "price": 120,
+                "regular_price": 120,
+                "variation_option_name": "1 Box",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Box"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Social Marketing Company (SMC)",
+        "manufacturers_alias": "social-marketing-company-smc",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa80452eb8f9c00087dffe0",
+        "item_name": "Joya All Night 8 Pads",
+        "alias": "joya-all-night-8-pads-sanitary-napkin",
+        "path": "healthcare-product/womens-care/joya-all-night-8-pads"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1632990204327.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "5.00",
+                "item_variation_option_id": 11051,
+                "variation_option_id": 2,
+                "price": 114,
+                "regular_price": 120,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd0df663cb3e821687096bd",
+        "item_name": "Senora Confidence Wings (Folded) Regular Flow 10 pads",
+        "alias": "senora-confidence-wings-folded-reular-flow-10-pads-sanitary-napkin",
+        "path": "healthcare-product/womens-care/senora-confidence-wings-folded-regular-flow-10-pads"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1632991878663.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11052,
+                "variation_option_id": 2,
+                "price": 160,
+                "regular_price": 160,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd0e1133cb3e821687096be",
+        "item_name": "Senora confidence wings (folded) regular flow (14+2) pads",
+        "alias": "senora-confidence-wings-folded-regular-flow-142-pads-sanitary-napkin",
+        "path": "healthcare-product/womens-care/senora-confidence-wings-folded-regular-flow-142-pads"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1632992274048.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11053,
+                "variation_option_id": 2,
+                "price": 100,
+                "regular_price": 100,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 9,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd0e22e3cb3e821687096bf",
+        "item_name": "Senora sanitary napkin regular pack (belt system) 10 pads",
+        "alias": "senora-sanitary-napkin-regular-pack-belt-system-10-pads-sanitary-napkin",
+        "path": "healthcare-product/womens-care/senora-sanitary-napkin-regular-pack-belt-system-10-pads"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1632992779828.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11055,
+                "variation_option_id": 2,
+                "price": 100,
+                "regular_price": 100,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 10,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd0e2c43cb3e821687096c1",
+        "item_name": "Senora sanitary napkin regular pack (panty system) 10 pads",
+        "alias": "senora-sanitary-napkin-regular-pack-panty-system-10-pads-sanitary-napkin",
+        "path": "healthcare-product/womens-care/senora-sanitary-napkin-regular-pack-panty-system-10-pads"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/senora-sanitary-napkin-economy-pack-panty-system-15-pads-1650100236455.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11059,
+                "variation_option_id": 2,
+                "price": 130,
+                "regular_price": 130,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd0e3e33cb3e821687096c6",
+        "item_name": "Senora sanitary napkin economy pack (panty system) 15 pads",
+        "alias": "senora-sanitary-napkin-economy-pack-panty-system-15-pads-sanitary-napkin",
+        "path": "healthcare-product/womens-care/senora-sanitary-napkin-economy-pack-panty-system-15-pads"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/sunsilk-shampoo-hijab-refresh-180-ml-1633934149042.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11096,
+                "variation_option_id": 2,
+                "price": 180,
+                "regular_price": 180,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b8d43cb3e8216870970e",
+        "item_name": "Sunsilk Shampoo Hijab Refresh 180 ml",
+        "alias": "sunsilk-shampoo-hijab-refresh-180-ml-shampoo",
+        "path": "healthcare-product/womens-care/sunsilk-shampoo-hijab-refresh-180-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/sunsilk-shampoo-hijab-anti-breakage-180-ml-1633933286705.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11097,
+                "variation_option_id": 2,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b9443cb3e8216870970f",
+        "item_name": "Sunsilk Shampoo Hijab Anti Breakage 180 ml",
+        "alias": "sunsilk-shampoo-hijab-anti-breakage-180-ml-shampoo",
+        "path": "healthcare-product/womens-care/sunsilk-shampoo-hijab-anti-breakage-180-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/sunsilk-shampoo-hijab-anti-dandruff-180-ml-1633935170596.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11098,
+                "variation_option_id": 2,
+                "price": 180,
+                "regular_price": 180,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b9f83cb3e82168709711",
+        "item_name": "Sunsilk Shampoo Hijab Anti Dandruff 180 ml",
+        "alias": "sunsilk-shampoo-hijab-anti-dandruff-180-ml-shampoo",
+        "path": "healthcare-product/womens-care/sunsilk-shampoo-hijab-anti-dandruff-180-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/sunsilk-shampoo-thick-long-180-ml-1633934413055.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11099,
+                "variation_option_id": 2,
+                "price": 320,
+                "regular_price": 320,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1ba3e3cb3e82168709712",
+        "item_name": "Sunsilk Shampoo Thick & Long 375 ml",
+        "alias": "sunsilk-shampoo-thick-long-375-ml-shampoo",
+        "path": "healthcare-product/womens-care/sunsilk-shampoo-thick-long-375-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/sunsilk-shampoo-hair-fall-solution-375-ml-1633933578509.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11100,
+                "variation_option_id": 2,
+                "price": 320,
+                "regular_price": 320,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1bbaa3cb3e82168709714",
+        "item_name": "Sunsilk Shampoo Hair Fall Solution 375 ml",
+        "alias": "sunsilk-shampoo-hair-fall-solution-375-ml-shampoo",
+        "path": "healthcare-product/womens-care/sunsilk-shampoo-hair-fall-solution-375-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/sunsilk-shampoo-thick-long-180-ml-1633934344039.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11101,
+                "variation_option_id": 2,
+                "price": 185,
+                "regular_price": 185,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1bc1c3cb3e82168709716",
+        "item_name": "Sunsilk Shampoo Thick & long 180 ml",
+        "alias": "sunsilk-shampoo-thick-long-180-ml-shampoo",
+        "path": "healthcare-product/womens-care/sunsilk-shampoo-thick-long-180-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/sunsilk-shampoo-hair-fall-solution-180-ml-1633933440192.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11102,
+                "variation_option_id": 2,
+                "price": 185,
+                "regular_price": 185,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1bd343cb3e82168709718",
+        "item_name": "Sunsilk Shampoo Hair Fall Solution 180 ml",
+        "alias": "sunsilk-shampoo-hair-fall-solution-180-ml-shampoo",
+        "path": "healthcare-product/womens-care/sunsilk-shampoo-hair-fall-solution-180-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/sunsilk-shampoo-hijab-anti-breakage-375-ml-1633933757386.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11103,
+                "variation_option_id": 2,
+                "price": 335,
+                "regular_price": 335,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1bd883cb3e8216870971a",
+        "item_name": "Sunsilk Shampoo Hijab Anti Breakage 375 ml",
+        "alias": "sunsilk-shampoo-hijab-anti-breakage-375-ml-shampoo",
+        "path": "healthcare-product/womens-care/sunsilk-shampoo-hijab-anti-breakage-375-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whisper-maxi-fit-15-pads-l-wings-1629198895763.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11262,
+                "variation_option_id": 2,
+                "price": 330,
+                "regular_price": 330,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Procter and Gamble Bangladesh PVT Ltd",
+        "manufacturers_alias": "procter-and-gamble-bangladesh-pvt-ltd",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fdf503671931e63f4f7e0fa",
+        "item_name": "Whisper Maxi Fit 15 Pads L Wings",
+        "alias": "whisper-maxi-fit-15-pads-l-wings-sanitary-napkin",
+        "path": "healthcare-product/womens-care/whisper-maxi-fit-15-pads-l-wings"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1632993793719.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11264,
+                "variation_option_id": 2,
+                "price": 460,
+                "regular_price": 460,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 6,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "Procter and Gamble Bangladesh PVT Ltd",
+        "manufacturers_alias": "procter-and-gamble-bangladesh-pvt-ltd",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fdf5b2071931e63f4f7e0fe",
+        "item_name": "New Whisper Maxi Nights (15 Pads)",
+        "alias": "new-whisper-maxi-nights-15-pads-sanitary-napkin",
+        "path": "healthcare-product/womens-care/new-whisper-maxi-nights-15-pads"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/maxresdefault-1-1630173350374.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11483,
+                "variation_option_id": 2,
+                "price": 85,
+                "regular_price": 85,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11484,
+                "variation_option_id": 74,
+                "price": 850,
+                "regular_price": 850,
+                "variation_option_name": "1 Box = 10 Pc",
+                "qty_in_pcs": 10,
+                "stock_qty": 0,
+                "capacity": "1 Box = 10 Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Device",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe727234da7463a3b281e70",
+        "item_name": "Freedom Pregnancy test Cassette",
+        "alias": "freedom-pregnancy-test-cassette-device",
+        "path": "healthcare-product/womens-care/freedom-pregnancy-test-cassette"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2023-03-28-at-33503-pm-removebg-preview-1679997099292.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22605,
+                "variation_option_id": 111,
+                "price": 90,
+                "regular_price": 90,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fadd18339d66cd0c15843",
+        "item_name": "Freedom Sanitary Napkin Regular Flow Belt System 10 Pads",
+        "alias": "freedom-cotton-soft",
+        "path": "healthcare-product/womens-care/freedom-sanitary-napkin-regular-flow-belt-system-10-pads"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/Freedom-Cotton-soft-belt-system-15-1611640274200.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22606,
+                "variation_option_id": 111,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fadd68339d66cd0c15844",
+        "item_name": "Freedom Cotton soft belt system 15 pads",
+        "alias": "freedom-cotton-soft-belt-system-15-pads",
+        "path": "healthcare-product/womens-care/freedom-cotton-soft-belt-system-15-pads"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1632994013729.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22607,
+                "variation_option_id": 111,
+                "price": 60,
+                "regular_price": 60,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 17,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b9bb22e362b6cb7fbfc",
+        "cat_name": "women's care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Sanitary Napkin",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600faddb8339d66cd0c15845",
+        "item_name": "Freedom cotton soft belt system 8 Pad",
+        "alias": "freedom-cotton-soft-belt-system-8-pad-sanitary-napkin",
+        "path": "healthcare-product/womens-care/freedom-cotton-soft-belt-system-8-pad"
+    }
+]

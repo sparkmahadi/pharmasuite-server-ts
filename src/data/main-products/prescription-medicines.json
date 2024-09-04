@@ -1,0 +1,6589 @@
+[
+  {
+    "generic_name": ["Fluconazole 50mg"],
+    "images": [
+      {
+        "img": "medicine/canazole-50-1631504141049.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 62,
+        "variation_option_id": 2,
+        "price": 7.73,
+        "regular_price": 8.05,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 63,
+        "variation_option_id": 4,
+        "price": 77.28,
+        "regular_price": 80.5,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 64,
+        "variation_option_id": 11,
+        "price": 231.84,
+        "regular_price": 241.5,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "ACI Limited",
+    "manufacturers_alias": "aci-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3a3d750fffb00fa9708115",
+    "item_name": "Canazole 50",
+    "alias": "canazole-50mg",
+    "path": "medicine/prescription-medicine/canazole-50"
+  },
+  {
+    "generic_name": ["Omeprazole 20mg"],
+    "images": [
+      {
+        "img": "medicine/xeldrin-20-capsule-1629199630543-1629954357454.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 81,
+        "variation_option_id": 2,
+        "price": 5.76,
+        "regular_price": 6,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 82,
+        "variation_option_id": 4,
+        "price": 57.6,
+        "regular_price": 60,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 83,
+        "variation_option_id": 6,
+        "price": 576,
+        "regular_price": 600,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 0,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "ACI Limited",
+    "manufacturers_alias": "aci-limited",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3a4d6c0fffb00fa970812d",
+    "item_name": "Xeldrin 20",
+    "alias": "xeldrin-20mg",
+    "path": "medicine/otc-medicine/xeldrin-20"
+  },
+  {
+    "generic_name": [
+      "Vitamin B1 100mg",
+      "Vitamin B6 200mg",
+      "Vitamin B12 200mg"
+    ],
+    "images": [
+      {
+        "img": "medicine/neucos-b-5001-1631433879701.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 103,
+        "variation_option_id": 4,
+        "price": 115.2,
+        "regular_price": 120,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 104,
+        "variation_option_id": 10,
+        "price": 576,
+        "regular_price": 600,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Radiant Pharmaceuticals Ltd.",
+    "manufacturers_alias": "radiant-pharmaceuticals-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3a823a0fffb00fa9708141",
+    "item_name": "Neucos-B 500",
+    "alias": "neucos-b-500mg",
+    "path": "medicine/otc-medicine/neucos-b-500"
+  },
+  {
+    "generic_name": ["Linagliptin 2.50mg", "Metformin Hydrochloride 500mg"],
+    "images": [
+      {
+        "img": "medicine/linamet-25-500-1642414719915.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 6253,
+        "variation_option_id": 4,
+        "price": 124.8,
+        "regular_price": 130,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 20,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6254,
+        "variation_option_id": 11,
+        "price": 374.4,
+        "regular_price": 390,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 6,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Popular Pharmaceuticals Ltd.",
+    "manufacturers_alias": "popular-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f40fd28880fd24eca4cea32",
+    "item_name": "Linamet 2.5/500",
+    "alias": "linamet-25-500",
+    "path": "medicine/prescription-medicine/linamet-25-500"
+  },
+  {
+    "generic_name": ["Aspirin 75mg"],
+    "images": [
+      {
+        "img": "medicine/whatsapp-image-2022-04-26-at-104351-am-1-removebg-preview-600x600-1650949130082.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 191,
+        "variation_option_id": 4,
+        "price": 7.68,
+        "regular_price": 8,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f410102880fd24eca4cea36",
+    "item_name": "Ecosprin 75",
+    "alias": "ecosprin-75-mg-tablet",
+    "path": "medicine/prescription-medicine/ecosprin-75"
+  },
+  {
+    "generic_name": ["Mecobalamin 0.5mg"],
+    "images": [
+      {
+        "img": "medicine/mecobal-500-1631434136854.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 8731,
+        "variation_option_id": 4,
+        "price": 38.78,
+        "regular_price": 40.4,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 2,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 8732,
+        "variation_option_id": 10,
+        "price": 193.92,
+        "regular_price": 202,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "GENERAL Pharmaceuticals Ltd.",
+    "manufacturers_alias": "general-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3a7ea90fffb00fa970813e",
+    "item_name": "Mecobal 0.5",
+    "alias": "mecobal-500mg",
+    "path": "medicine/otc-medicine/mecobal-05"
+  },
+  {
+    "generic_name": ["Domperidone Maleate 10mg"],
+    "images": [
+      {
+        "img": "medicine/efodio-101-1631508706515.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 123,
+        "variation_option_id": 2,
+        "price": 4.32,
+        "regular_price": 4.5,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 124,
+        "variation_option_id": 4,
+        "price": 43.2,
+        "regular_price": 45,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 125,
+        "variation_option_id": 6,
+        "price": 432,
+        "regular_price": 450,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 0,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Radiant Pharmaceuticals Ltd.",
+    "manufacturers_alias": "radiant-pharmaceuticals-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3bdb6d90ea08267a649827",
+    "item_name": "Efodio 10",
+    "alias": "efodio-10mg",
+    "path": "medicine/prescription-medicine/efodio-10"
+  },
+  {
+    "generic_name": ["Ebastine 10mg"],
+    "images": [
+      {
+        "img": "medicine/ebatin-fast-1631443135028.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 6207,
+        "variation_option_id": 2,
+        "price": 11.52,
+        "regular_price": 12,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6208,
+        "variation_option_id": 4,
+        "price": 115.2,
+        "regular_price": 120,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6209,
+        "variation_option_id": 11,
+        "price": 345.6,
+        "regular_price": 360,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Popular Pharmaceuticals Ltd.",
+    "manufacturers_alias": "popular-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f40ef46880fd24eca4cea2d",
+    "item_name": "Ebatin Fast",
+    "alias": "ebatin-fast",
+    "path": "medicine/prescription-medicine/ebatin-fast"
+  },
+  {
+    "generic_name": ["Bisoprolol Fumarate 5mg", "Hydrochlorothiazide 6.25mg"],
+    "images": [
+      {
+        "img": "medicine/bisoren-plus-5-1629969225859.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 6507,
+        "variation_option_id": 2,
+        "price": 9.6,
+        "regular_price": 10,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 10,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6508,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 1,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6509,
+        "variation_option_id": 11,
+        "price": 288,
+        "regular_price": 300,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Renata Pharma Ltd",
+    "manufacturers_alias": "renata-pharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3beb3b90ea08267a64982d",
+    "item_name": "Bisoren Plus 5",
+    "alias": "bisoren-plus-5mg",
+    "path": "medicine/prescription-medicine/bisoren-plus-5"
+  },
+  {
+    "generic_name": ["Doxycycline Hydrochloride 100mg"],
+    "images": [
+      {
+        "img": "medicine/dexciko-img-new-removebg-preview-1629096073029.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 6576,
+        "variation_option_id": 2,
+        "price": 2.11,
+        "regular_price": 2.2,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6577,
+        "variation_option_id": 4,
+        "price": 21.12,
+        "regular_price": 22,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6578,
+        "variation_option_id": 6,
+        "price": 211.2,
+        "regular_price": 220,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 0,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Renata Pharma Ltd",
+    "manufacturers_alias": "renata-pharma-ltd",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3bded690ea08267a649828",
+    "item_name": "Doxicap 100",
+    "alias": "doxicap-100mg",
+    "path": "medicine/prescription-medicine/doxicap-100"
+  },
+  {
+    "generic_name": ["Betamethasone Valerate 0.10%"],
+    "images": [
+      {
+        "img": "medicine/bet-a-15-1631507099808.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 186,
+        "variation_option_id": 2,
+        "price": 33.6,
+        "regular_price": 35,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Ointment",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f40fdf6880fd24eca4cea34",
+    "item_name": "Bet-A 15",
+    "alias": "bet-a-15-ointment",
+    "path": "medicine/prescription-medicine/bet-a-15"
+  },
+  {
+    "generic_name": ["Gliclazide 80mg"],
+    "images": [
+      {
+        "img": "medicine/dimerol-removebg-preview-600x600-1650949298871.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 151,
+        "variation_option_id": 27,
+        "price": 107.52,
+        "regular_price": 112,
+        "variation_option_name": "1 Strip = 14 Pcs",
+        "qty_in_pcs": 14,
+        "stock_qty": 140,
+        "capacity": "1 Strip = 14 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 152,
+        "variation_option_id": 7,
+        "price": 430.08,
+        "regular_price": 448,
+        "variation_option_name": "1 Box = 4 Strips",
+        "qty_in_pcs": 56,
+        "stock_qty": 35,
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Drug International Limited",
+    "manufacturers_alias": "drug-international-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3bf11e90ea08267a649830",
+    "item_name": "Dimerol 80",
+    "alias": "dimerol-80mg",
+    "path": "medicine/prescription-medicine/dimerol-80"
+  },
+  {
+    "generic_name": ["Clobetasol Propionate [Topical Preparation] 0.05%"],
+    "images": [
+      {
+        "img": "medicine/aclobet-10-1635156238951-1659159940239.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 185,
+        "variation_option_id": 2,
+        "price": 48.13,
+        "regular_price": 50.14,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Ointment",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f40fd35880fd24eca4cea33",
+    "item_name": "Aclobet 15g",
+    "alias": "aclobet-ointment",
+    "path": "medicine/prescription-medicine/aclobet-15g"
+  },
+  {
+    "generic_name": ["Metformin Hydrochloride 500mg", "Sitagliptin 50mg"],
+    "images": [
+      {
+        "img": "medicine/janmet-5002-1631433521915.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 118,
+        "variation_option_id": 4,
+        "price": 172.8,
+        "regular_price": 180,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 119,
+        "variation_option_id": 11,
+        "price": 518.4,
+        "regular_price": 540,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3bd8f390ea08267a649825",
+    "item_name": "Janmet 500",
+    "alias": "janmet-500mg",
+    "path": "medicine/prescription-medicine/janmet-500"
+  },
+  {
+    "generic_name": ["Glimepiride 1mg"],
+    "images": [
+      {
+        "img": "medicine/amaryl-105-1631441623676.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 105,
+        "variation_option_id": 2,
+        "price": 6.64,
+        "regular_price": 6.92,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 106,
+        "variation_option_id": 26,
+        "price": 99.65,
+        "regular_price": 103.8,
+        "variation_option_name": "1 Strip = 15 Pcs",
+        "qty_in_pcs": 15,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 15 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 107,
+        "variation_option_id": 7,
+        "price": 398.59,
+        "regular_price": 415.2,
+        "variation_option_name": "1 Box = 4 Strips",
+        "qty_in_pcs": 60,
+        "stock_qty": 0,
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Sanofi Bangladesh ltd.",
+    "manufacturers_alias": "sanofi-bangladesh-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3b9bae90ea08267a649821",
+    "item_name": "Amaryl 1.0",
+    "alias": "amaryl-1mg",
+    "path": "medicine/prescription-medicine/amaryl-10"
+  },
+  {
+    "generic_name": ["Dexlansoprazole 30mg"],
+    "images": [
+      {
+        "img": "medicine/delanzo-30-mg-1629969350542.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 132,
+        "variation_option_id": 2,
+        "price": 9.6,
+        "regular_price": 10,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 133,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 39912,
+        "variation_option_id": 10,
+        "price": 480,
+        "regular_price": 500,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Nuvista Pharma Limited",
+    "manufacturers_alias": "nuvista-pharma-limited",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3be29790ea08267a64982a",
+    "item_name": "Delanzo 30",
+    "alias": "delanzo-30mg",
+    "path": "medicine/prescription-medicine/delanzo-30"
+  },
+  {
+    "generic_name": ["Clonazepam 0.50mg"],
+    "images": [
+      {
+        "img": "medicine/rivotril-053-1631438565181.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 147,
+        "variation_option_id": 2,
+        "price": 8.64,
+        "regular_price": 9,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 148,
+        "variation_option_id": 4,
+        "price": 86.4,
+        "regular_price": 90,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 149,
+        "variation_option_id": 29,
+        "price": 691.2,
+        "regular_price": 720,
+        "variation_option_name": "1 Box = 8 Strips",
+        "qty_in_pcs": 80,
+        "stock_qty": 0,
+        "capacity": "1 Box = 8 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Radiant Pharmaceuticals Ltd.",
+    "manufacturers_alias": "radiant-pharmaceuticals-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3beeb190ea08267a64982f",
+    "item_name": "Rivotril 0.5",
+    "alias": "rivotril-05mg",
+    "path": "medicine/prescription-medicine/rivotril-05"
+  },
+  {
+    "generic_name": ["Calcium Acetate 667mg"],
+    "images": [
+      {
+        "img": "medicine/hypophos1-1631502743689.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 6223,
+        "variation_option_id": 26,
+        "price": 86.4,
+        "regular_price": 90,
+        "variation_option_name": "1 Strip = 15 Pcs",
+        "qty_in_pcs": 15,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 15 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6224,
+        "variation_option_id": 7,
+        "price": 345.6,
+        "regular_price": 360,
+        "variation_option_name": "1 Box = 4 Strips",
+        "qty_in_pcs": 60,
+        "stock_qty": 0,
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Popular Pharmaceuticals Ltd.",
+    "manufacturers_alias": "popular-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f40f995880fd24eca4cea30",
+    "item_name": "Hypophos",
+    "alias": "hypophos",
+    "path": "medicine/prescription-medicine/hypophos"
+  },
+  {
+    "generic_name": ["Levothyroxine Sodium 50mcg"],
+    "images": [
+      {
+        "img": "medicine/whatsapp-image-2022-10-19-at-123451-removebg-preview-1666161354311.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 163,
+        "variation_option_id": 31,
+        "price": 63.36,
+        "regular_price": 66,
+        "variation_option_name": "1 Strip = 30 Pcs",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 30 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 164,
+        "variation_option_id": 11,
+        "price": 190.08,
+        "regular_price": 198,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 90,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Renata Pharma Ltd",
+    "manufacturers_alias": "renata-pharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3bf75690ea08267a649834",
+    "item_name": "Thyrox 50",
+    "alias": "thyrox-50mg",
+    "path": "medicine/prescription-medicine/thyrox-50"
+  },
+  {
+    "generic_name": ["Ketotifen Fumarate (Oral) 1mg"],
+    "images": [
+      {
+        "img": "medicine/ketifen-100-ml-syrup-removebg-preview-1629124973763.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 10743,
+        "variation_option_id": 9,
+        "price": 57.6,
+        "regular_price": 60,
+        "variation_option_name": "1 Bottle",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Bottle"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Syrup",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f40fbe6880fd24eca4cea31",
+    "item_name": "Ketifen 100 ml",
+    "alias": "ketifen-100ml",
+    "path": "medicine/prescription-medicine/ketifen-100-ml"
+  },
+  {
+    "generic_name": ["Betamethasone 0.05%", "Clotrimazole 1%"],
+    "images": [
+      {
+        "img": "medicine/bet-cl-1631447522644.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 177,
+        "variation_option_id": 2,
+        "price": 28.03,
+        "regular_price": 29.2,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 3,
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Cream",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f40f8c8880fd24eca4cea2f",
+    "item_name": "Bet-Cl 10g",
+    "alias": "bet-cl",
+    "path": "medicine/prescription-medicine/bet-cl-10g"
+  },
+  {
+    "generic_name": [
+      "Calcium Carbonate [Coral source] 500mg",
+      "Vitamin D3 200IU"
+    ],
+    "images": [
+      {
+        "img": "medicine/c-orabon--1631444277568.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 139,
+        "variation_option_id": 4,
+        "price": 96.29,
+        "regular_price": 100.3,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 15,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 140,
+        "variation_option_id": 10,
+        "price": 481.44,
+        "regular_price": 501.5,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 3,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Nuvista Pharma Limited",
+    "manufacturers_alias": "nuvista-pharma-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3be8f090ea08267a64982c",
+    "item_name": "Corabon-D 500",
+    "alias": "corabon-d",
+    "path": "medicine/otc-medicine/corabon-d-500"
+  },
+  {
+    "generic_name": ["Fenofibrate 200mg"],
+    "images": [
+      {
+        "img": "medicine/lipidof-20011-1631437860844.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 166,
+        "variation_option_id": 4,
+        "price": 67.49,
+        "regular_price": 70.3,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 38766,
+        "variation_option_id": 11,
+        "price": 202.46,
+        "regular_price": 210.9,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f40eb3c880fd24eca4cea2b",
+    "item_name": "Lipidof 200",
+    "alias": "lipidof-200mg",
+    "path": "medicine/prescription-medicine/lipidof-200"
+  },
+  {
+    "generic_name": ["Amlodipine 5mg", "Atenolol 50mg"],
+    "images": [
+      {
+        "img": "medicine/camlodin-1631450068688.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 38348,
+        "variation_option_id": 27,
+        "price": 107.52,
+        "regular_price": 112,
+        "variation_option_name": "1 Strip = 14 Pcs",
+        "qty_in_pcs": 14,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 14 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 38349,
+        "variation_option_id": 7,
+        "price": 430.08,
+        "regular_price": 448,
+        "variation_option_name": "1 Box = 4 Strips",
+        "qty_in_pcs": 56,
+        "stock_qty": 0,
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Square Pharmaceuticals Limited",
+    "manufacturers_alias": "square-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3becf790ea08267a64982e",
+    "item_name": "Camlodin Plus 50",
+    "alias": "camlodin-plus-50mg",
+    "path": "medicine/prescription-medicine/camlodin-plus-50"
+  },
+  {
+    "generic_name": ["Metformin Hydrochloride 1mg/gm"],
+    "images": [
+      {
+        "img": "medicine/untitled-1-1633491215589.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 160,
+        "variation_option_id": 22,
+        "price": 52.01,
+        "regular_price": 54.18,
+        "variation_option_name": "1 Strip = 6 Pcs",
+        "qty_in_pcs": 6,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 6 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 161,
+        "variation_option_id": 10,
+        "price": 260.06,
+        "regular_price": 270.9,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Square Pharmaceuticals Limited",
+    "manufacturers_alias": "square-pharmaceuticals-limited",
+    "sku_type": "Tablet (Extended Release)",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3bf62a90ea08267a649833",
+    "item_name": "Comet XR 1 gm",
+    "alias": "comet-xr-1gm",
+    "path": "medicine/otc-medicine/comet-xr-1-gm"
+  },
+  {
+    "generic_name": ["Domperidone Maleate 10mg"],
+    "images": [
+      {
+        "img": "medicine/domiren-10-1631513351407.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 129,
+        "variation_option_id": 2,
+        "price": 3.36,
+        "regular_price": 3.5,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 27508,
+        "variation_option_id": 4,
+        "price": 33.6,
+        "regular_price": 35,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 27509,
+        "variation_option_id": 41,
+        "price": 504,
+        "regular_price": 525,
+        "variation_option_name": "1 Box = 15 Strips",
+        "qty_in_pcs": 150,
+        "stock_qty": 0,
+        "capacity": "1 Box = 15 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Renata Pharma Ltd",
+    "manufacturers_alias": "renata-pharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f3be0cf90ea08267a649829",
+    "item_name": "Domiren 10",
+    "alias": "domiren-10mg-tablet",
+    "path": "medicine/prescription-medicine/domiren-10"
+  },
+  {
+    "generic_name": ["Cefixime Trihydrate 200mg"],
+    "images": [
+      {
+        "img": "medicine/fix-a-1631514898628.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 174,
+        "variation_option_id": 2,
+        "price": 33.6,
+        "regular_price": 35,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 14,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 175,
+        "variation_option_id": 30,
+        "price": 235.2,
+        "regular_price": 245,
+        "variation_option_name": "1 Strip = 7 Pcs",
+        "qty_in_pcs": 7,
+        "stock_qty": 2,
+        "capacity": "1 Strip = 7 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 176,
+        "variation_option_id": 19,
+        "price": 470.4,
+        "regular_price": 490,
+        "variation_option_name": "1 Box = 2 Strips",
+        "qty_in_pcs": 14,
+        "stock_qty": 1,
+        "capacity": "1 Box = 2 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f40f0f5880fd24eca4cea2e",
+    "item_name": "Fix-A",
+    "alias": "fix-a",
+    "path": "medicine/prescription-medicine/fix-a"
+  },
+  {
+    "generic_name": ["Ketotifen Fumarate (Oral) 1mg"],
+    "images": [
+      {
+        "img": "medicine/ketifen-1-mg-removebg-preview-1628927129977.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 196,
+        "variation_option_id": 2,
+        "price": 4.32,
+        "regular_price": 4.5,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 197,
+        "variation_option_id": 4,
+        "price": 43.2,
+        "regular_price": 45,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 198,
+        "variation_option_id": 6,
+        "price": 432,
+        "regular_price": 450,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 0,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4102aa880fd24eca4cea38",
+    "item_name": "Ketifen 1",
+    "alias": "ketifen-1mg",
+    "path": "medicine/prescription-medicine/ketifen-1"
+  },
+  {
+    "generic_name": ["Olmesartan Medoxomil 20mg"],
+    "images": [
+      {
+        "img": "medicine/orbas-20-1631527749908.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 239,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 6,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 240,
+        "variation_option_id": 11,
+        "price": 288,
+        "regular_price": 300,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 2,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4112ba880fd24eca4cea46",
+    "item_name": "Orbas 20",
+    "alias": "orbas-20-tablet",
+    "path": "medicine/prescription-medicine/orbas-20"
+  },
+  {
+    "generic_name": ["Butamirate Citrate 50mg"],
+    "images": [
+      {
+        "img": "medicine/tablet-askorel-sr-50-mg-removebg-preview-1629950653088.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 6822,
+        "variation_option_id": 2,
+        "qty_in_pcs": 1,
+        "price": 9.6,
+        "regular_price": 10,
+        "stock_qty": 14,
+        "variation_option_name": "1 Pc",
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6823,
+        "variation_option_id": 4,
+        "qty_in_pcs": 10,
+        "price": 96,
+        "regular_price": 100,
+        "stock_qty": 1,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6824,
+        "variation_option_id": 11,
+        "qty_in_pcs": 30,
+        "price": 288,
+        "regular_price": 300,
+        "stock_qty": 0,
+        "variation_option_name": "1 Box = 3 Strips",
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f429428880fd24eca4ceac1",
+    "item_name": "Askorel SR",
+    "alias": "askorel-sr",
+    "path": "medicine/prescription-medicine/askorel-sr"
+  },
+  {
+    "generic_name": ["Vildagliptin 50mg", "Metformin Hydrochloride 500mg"],
+    "images": [
+      {
+        "img": "medicine/158-1629968110200.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 556,
+        "variation_option_id": 4,
+        "price": 230.4,
+        "regular_price": 240,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 39803,
+        "variation_option_id": 11,
+        "price": 691.2,
+        "regular_price": 720,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4296b9880fd24eca4ceac6",
+    "item_name": "Gluvan Plus 500",
+    "alias": "gluvan-plus-500-tablet",
+    "path": "medicine/prescription-medicine/gluvan-plus-500"
+  },
+  {
+    "generic_name": ["Montelukast Sodium 10mg"],
+    "images": [
+      {
+        "img": "medicine/montair-10-1632380202536.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 7056,
+        "variation_option_id": 2,
+        "price": 16.8,
+        "regular_price": 17.5,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 7057,
+        "variation_option_id": 4,
+        "price": 168,
+        "regular_price": 175,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 7058,
+        "variation_option_id": 11,
+        "price": 504,
+        "regular_price": 525,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42acc1880fd24eca4ceaee",
+    "item_name": "Montair 10",
+    "alias": "montair-10",
+    "path": "medicine/prescription-medicine/montair-10"
+  },
+  {
+    "generic_name": ["Metformin Hydrochloride 500mg"],
+    "images": [
+      {
+        "img": "medicine/nobesit-500-1631529732018.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 7072,
+        "variation_option_id": 26,
+        "price": 57.6,
+        "regular_price": 60,
+        "variation_option_name": "1 Strip = 15 Pcs",
+        "qty_in_pcs": 15,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 15 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 7073,
+        "variation_option_id": 7,
+        "price": 230.4,
+        "regular_price": 240,
+        "variation_option_name": "1 Box = 4 Strips",
+        "qty_in_pcs": 60,
+        "stock_qty": 0,
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42b4b4880fd24eca4ceaf2",
+    "item_name": "Nobesit 500",
+    "alias": "nobesit-500-tablet",
+    "path": "medicine/prescription-medicine/nobesit-500"
+  },
+  {
+    "generic_name": ["Losartan Potassium 50mg"],
+    "images": [
+      {
+        "img": "medicine/araten-50-new-removebg-preview-1628918293256-1629967453102.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 279,
+        "variation_option_id": 2,
+        "qty_in_pcs": 1,
+        "price": 7.68,
+        "regular_price": 8,
+        "stock_qty": 90,
+        "variation_option_name": "1 Pc",
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 280,
+        "variation_option_id": 4,
+        "qty_in_pcs": 10,
+        "price": 76.8,
+        "regular_price": 80,
+        "stock_qty": 9,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 281,
+        "variation_option_id": 11,
+        "qty_in_pcs": 30,
+        "price": 230.4,
+        "regular_price": 240,
+        "stock_qty": 3,
+        "variation_option_name": "1 Box = 3 Strips",
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "UniMed UniHealth Pharmaceuticals Ltd",
+    "manufacturers_alias": "unimed-unihealth-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f420e35880fd24eca4cea57",
+    "item_name": "Araten 50",
+    "alias": "araten-50-tablet",
+    "path": "medicine/prescription-medicine/araten-50"
+  },
+  {
+    "generic_name": ["Mupirocin 2%"],
+    "images": [
+      {
+        "img": "medicine/bactoderm-1633332739542.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 282,
+        "variation_option_id": 2,
+        "price": 172.8,
+        "regular_price": 180,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "UniMed UniHealth Pharmaceuticals Ltd",
+    "manufacturers_alias": "unimed-unihealth-pharmaceuticals-ltd",
+    "sku_type": "Ointment",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f421026880fd24eca4cea58",
+    "item_name": "Bactoderm 15",
+    "alias": "bactoderm-15-ointment",
+    "path": "medicine/prescription-medicine/bactoderm-15"
+  },
+  {
+    "generic_name": [
+      "Iron Polymaltose Complex 0%",
+      "Vitamin B-Complex 0%",
+      "Zinc 0%",
+      "Folic acid 0%"
+    ],
+    "images": [
+      {
+        "img": "medicine/ipec-super1-1631528182112.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 293,
+        "variation_option_id": 22,
+        "price": 34.56,
+        "regular_price": 36,
+        "variation_option_name": "1 Strip = 6 Pcs",
+        "qty_in_pcs": 6,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 6 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 11239,
+        "variation_option_id": 10,
+        "price": 172.8,
+        "regular_price": 180,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42144a880fd24eca4cea5c",
+    "item_name": "Ipec-Super",
+    "alias": "ipec-super-capsule",
+    "path": "medicine/prescription-medicine/ipec-super"
+  },
+  {
+    "generic_name": ["Multivitamin 0%", "Multimineral 0%"],
+    "images": [
+      {
+        "img": "medicine/untitled-11-1631526725993.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 337,
+        "variation_option_id": 4,
+        "price": 28.8,
+        "regular_price": 30,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 18,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 338,
+        "variation_option_id": 10,
+        "price": 144,
+        "regular_price": 150,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 3,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f421e7e880fd24eca4cea6c",
+    "item_name": "Aristo Mom",
+    "alias": "aristo-mom-tablet",
+    "path": "medicine/prescription-medicine/aristo-mom"
+  },
+  {
+    "generic_name": ["Calcium Carbonate [Elemental] 500mg", "Vitamin D3 200IU"],
+    "images": [
+      {
+        "img": "medicine/caldical-d-1631510249424.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 384,
+        "variation_option_id": 4,
+        "qty_in_pcs": 10,
+        "price": 67.2,
+        "regular_price": 70,
+        "stock_qty": 5,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 385,
+        "variation_option_id": 10,
+        "qty_in_pcs": 50,
+        "price": 336,
+        "regular_price": 350,
+        "stock_qty": 1,
+        "variation_option_name": "1 Box = 5 Strips",
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f422ee6880fd24eca4cea7e",
+    "item_name": "Caldical-D",
+    "alias": "caldical-d-tablet",
+    "path": "medicine/prescription-medicine/caldical-d"
+  },
+  {
+    "generic_name": ["Adapalene 0.10%", "Benzoyl Peroxide 2.50%"],
+    "images": [
+      {
+        "img": "medicine/freshlook-gel-10-gm-480x480-removebg-preview-1629128343809.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 406,
+        "variation_option_id": 2,
+        "price": 153.6,
+        "regular_price": 160,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Gel",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4233bc880fd24eca4cea89",
+    "item_name": "Freshlook 10",
+    "alias": "freshlook-10-gel",
+    "path": "medicine/prescription-medicine/freshlook-10"
+  },
+  {
+    "generic_name": ["Doxophylline 400mg"],
+    "images": [
+      {
+        "img": "medicine/pulmodox-400-1629952613119.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 8140,
+        "variation_option_id": 2,
+        "price": 9.6,
+        "regular_price": 10,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 20,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 8141,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 2,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 8142,
+        "variation_option_id": 11,
+        "price": 288,
+        "regular_price": 300,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "UniMed UniHealth Pharmaceuticals Ltd",
+    "manufacturers_alias": "unimed-unihealth-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f423444880fd24eca4cea8a",
+    "item_name": "Pulmodox 400",
+    "alias": "pulmodox-400-tablet",
+    "path": "medicine/prescription-medicine/pulmodox-400"
+  },
+  {
+    "generic_name": ["Naproxen Sodium 500mg", "Esomeprazole 20mg"],
+    "images": [
+      {
+        "img": "medicine/napxon-500-1631505031503.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 453,
+        "variation_option_id": 2,
+        "price": 12.48,
+        "regular_price": 13,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 454,
+        "variation_option_id": 23,
+        "price": 99.84,
+        "regular_price": 104,
+        "variation_option_name": "1 Strip = 8 Pcs",
+        "qty_in_pcs": 8,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 8 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 455,
+        "variation_option_id": 7,
+        "price": 399.36,
+        "regular_price": 416,
+        "variation_option_name": "1 Box = 4 Strips",
+        "qty_in_pcs": 32,
+        "stock_qty": 0,
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4242a4880fd24eca4cea9c",
+    "item_name": "Napxon 500",
+    "alias": "napxon-500-tablet",
+    "path": "medicine/prescription-medicine/napxon-500"
+  },
+  {
+    "generic_name": ["Salicylic Acid 16.70%", "Lactic acid 16.70%"],
+    "images": [
+      {
+        "img": "medicine/salitic-15-ml--1631528899829.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 10749,
+        "variation_option_id": 9,
+        "price": 240,
+        "regular_price": 250,
+        "variation_option_name": "1 Bottle",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Bottle"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Solution",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f424e73880fd24eca4ceab0",
+    "item_name": "Salitic 15 ml",
+    "alias": "salitic-15-ml",
+    "path": "medicine/prescription-medicine/salitic-15-ml"
+  },
+  {
+    "generic_name": ["Amlodipine 5mg", "Atenolol 50mg"],
+    "images": [
+      {
+        "img": "medicine/fixocard-501-1631505492418.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 6954,
+        "variation_option_id": 2,
+        "price": 7.68,
+        "regular_price": 8,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6955,
+        "variation_option_id": 4,
+        "price": 76.8,
+        "regular_price": 80,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6956,
+        "variation_option_id": 10,
+        "price": 384,
+        "regular_price": 400,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a5c4880fd24eca4ceadc",
+    "item_name": "Fixocard 50",
+    "alias": "fixocard-50-tablet",
+    "path": "medicine/prescription-medicine/fixocard-50"
+  },
+  {
+    "generic_name": ["Quetiapine Fumarate 25mg"],
+    "images": [
+      {
+        "img": "medicine/quiet-25-1631510708471.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 723,
+        "variation_option_id": 2,
+        "price": 2.88,
+        "regular_price": 3,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 724,
+        "variation_option_id": 4,
+        "price": 28.8,
+        "regular_price": 30,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 725,
+        "variation_option_id": 10,
+        "price": 144,
+        "regular_price": 150,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42c43b880fd24eca4ceb02",
+    "item_name": "Quiet 25",
+    "alias": "quiet-25-tablet",
+    "path": "medicine/prescription-medicine/quiet-25"
+  },
+  {
+    "generic_name": ["Atorvastatin Calcium 10mg"],
+    "images": [
+      {
+        "img": "medicine/tiginor-10-1631510991912.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 7192,
+        "variation_option_id": 4,
+        "price": 110.4,
+        "regular_price": 115,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 7193,
+        "variation_option_id": 11,
+        "price": 331.2,
+        "regular_price": 345,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42d279880fd24eca4ceb0c",
+    "item_name": "Tiginor 10",
+    "alias": "tiginor-10-tablet",
+    "path": "medicine/prescription-medicine/tiginor-10"
+  },
+  {
+    "generic_name": ["Amlodipine 5mg", "Olmesartan Medoxomil 20mg"],
+    "images": [
+      {
+        "img": "medicine/orbapin-5-20-1631520941375.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 39916,
+        "variation_option_id": 4,
+        "price": 115.2,
+        "regular_price": 120,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 39917,
+        "variation_option_id": 10,
+        "price": 576,
+        "regular_price": 600,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f411775880fd24eca4cea48",
+    "item_name": "Orbapin 5/20",
+    "alias": "orbapin-520-tablet",
+    "path": "medicine/prescription-medicine/orbapin-5-20"
+  },
+  {
+    "generic_name": ["Dexlansoprazole 60mg"],
+    "images": [
+      {
+        "img": "medicine/dexilend-601-1631531832281.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 389,
+        "variation_option_id": 2,
+        "price": 15.36,
+        "regular_price": 16,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 390,
+        "variation_option_id": 23,
+        "price": 122.88,
+        "regular_price": 128,
+        "variation_option_name": "1 Strip = 8 Pcs",
+        "qty_in_pcs": 8,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 8 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 391,
+        "variation_option_id": 7,
+        "price": 491.52,
+        "regular_price": 512,
+        "variation_option_name": "1 Box = 4 Strips",
+        "qty_in_pcs": 32,
+        "stock_qty": 0,
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f423139880fd24eca4cea82",
+    "item_name": "Dexilend 60",
+    "alias": "dexilend-60-capsule",
+    "path": "medicine/prescription-medicine/dexilend-60"
+  },
+  {
+    "generic_name": ["Sertaconazole Nitrate 2%"],
+    "images": [
+      {
+        "img": "medicine/fungitac-20-1631514168731.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 405,
+        "variation_option_id": 2,
+        "price": 192,
+        "regular_price": 200,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Cream",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42334d880fd24eca4cea88",
+    "item_name": "Fungitac  20",
+    "alias": "fungitac-20-cream",
+    "path": "medicine/prescription-medicine/fungitac-20"
+  },
+  {
+    "generic_name": ["Rifaximin 550mg"],
+    "images": [
+      {
+        "img": "medicine/rifaxin-550-1629963219651.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 481,
+        "variation_option_id": 2,
+        "price": 43.2,
+        "regular_price": 45,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 12,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 482,
+        "variation_option_id": 23,
+        "price": 345.6,
+        "regular_price": 360,
+        "variation_option_name": "1 Strip = 8 Pcs",
+        "qty_in_pcs": 8,
+        "stock_qty": 1,
+        "capacity": "1 Strip = 8 Pcs"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4249b5880fd24eca4ceaa8",
+    "item_name": "Rifaxin 550",
+    "alias": "rifaxin-550-tablet",
+    "path": "medicine/prescription-medicine/rifaxin-550"
+  },
+  {
+    "generic_name": ["Dantrolene Sodium 50mg"],
+    "images": [
+      {
+        "img": "medicine/relaxo-50-1629961169769.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 489,
+        "variation_option_id": 2,
+        "price": 14.4,
+        "regular_price": 15,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 34,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 490,
+        "variation_option_id": 23,
+        "price": 115.2,
+        "regular_price": 120,
+        "variation_option_name": "1 Strip = 8 Pcs",
+        "qty_in_pcs": 8,
+        "stock_qty": 4,
+        "capacity": "1 Strip = 8 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 491,
+        "variation_option_id": 11,
+        "price": 345.6,
+        "regular_price": 360,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 24,
+        "stock_qty": 1,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f424b92880fd24eca4ceaac",
+    "item_name": "Relaxo 50",
+    "alias": "relaxo-50-capsule",
+    "path": "medicine/prescription-medicine/relaxo-50"
+  },
+  {
+    "generic_name": ["Rupatadine Fumarate 10mg"],
+    "images": [
+      {
+        "img": "medicine/rupin-10-1629967023748.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 495,
+        "variation_option_id": 2,
+        "price": 9.6,
+        "regular_price": 10,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 496,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 497,
+        "variation_option_id": 10,
+        "price": 480,
+        "regular_price": 500,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f424d68880fd24eca4ceaae",
+    "item_name": "Rupin 10",
+    "alias": "rupin-10-tablet",
+    "path": "medicine/prescription-medicine/rupin-10"
+  },
+  {
+    "generic_name": ["Bisoprolol Fumarate 5mg"],
+    "images": [
+      {
+        "img": "medicine/untitled-3-1631343657784.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 553,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 554,
+        "variation_option_id": 11,
+        "price": 288,
+        "regular_price": 300,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4296a8880fd24eca4ceac5",
+    "item_name": "Bisopro 5",
+    "alias": "bisopro-5-tablet",
+    "path": "medicine/prescription-medicine/bisopro-5"
+  },
+  {
+    "generic_name": ["Levofloxacin (Oral) 500mg"],
+    "images": [
+      {
+        "img": "medicine/ovel-500-1631512163528.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 3804,
+        "variation_option_id": 2,
+        "qty_in_pcs": 1,
+        "price": 14.4,
+        "regular_price": 15,
+        "stock_qty": 60,
+        "variation_option_name": "1 Pc",
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 3805,
+        "variation_option_id": 4,
+        "qty_in_pcs": 10,
+        "price": 144,
+        "regular_price": 150,
+        "stock_qty": 6,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 3806,
+        "variation_option_id": 11,
+        "qty_in_pcs": 30,
+        "price": 432,
+        "regular_price": 450,
+        "stock_qty": 2,
+        "variation_option_name": "1 Box = 3 Strips",
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a529880fd24eca4ceadb",
+    "item_name": "Ovel-500",
+    "alias": "ovel-500-tablet",
+    "path": "medicine/otc-medicine/ovel-500"
+  },
+  {
+    "generic_name": ["Mebeverine Hydrochloride 200mg"],
+    "images": [
+      {
+        "img": "medicine/iriban-sr-200-1631524067756.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 6982,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 6983,
+        "variation_option_id": 11,
+        "price": 288,
+        "regular_price": 300,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a6ac880fd24eca4ceade",
+    "item_name": "Iriban SR 200",
+    "alias": "iriban-sr-200-capsule",
+    "path": "medicine/prescription-medicine/iriban-sr-200"
+  },
+  {
+    "generic_name": ["Repaglinide 1mg"],
+    "images": [
+      {
+        "img": "medicine/nomopil-1-1631515683570.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 685,
+        "variation_option_id": 4,
+        "price": 28.8,
+        "regular_price": 30,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 686,
+        "variation_option_id": 6,
+        "price": 288,
+        "regular_price": 300,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 0,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42b598880fd24eca4ceaf3",
+    "item_name": "Nomopil 1",
+    "alias": "nomopil-1-tablet",
+    "path": "medicine/prescription-medicine/nomopil-1"
+  },
+  {
+    "generic_name": ["Rosuvastatin 10mg"],
+    "images": [
+      {
+        "img": "medicine/rostab-10-1631512886844.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 215,
+        "variation_option_id": 4,
+        "price": 249.6,
+        "regular_price": 260,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 39511,
+        "variation_option_id": 11,
+        "price": 748.8,
+        "regular_price": 780,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f410797880fd24eca4cea3e",
+    "item_name": "Rostab 10",
+    "alias": "rostab-10-tablet",
+    "path": "medicine/prescription-medicine/rostab-10"
+  },
+  {
+    "generic_name": ["Ebastine 10mg"],
+    "images": [
+      {
+        "img": "medicine/2111-1631524768158.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 217,
+        "variation_option_id": 2,
+        "price": 9.6,
+        "regular_price": 10,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 218,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 219,
+        "variation_option_id": 25,
+        "price": 576,
+        "regular_price": 600,
+        "variation_option_name": "1 Box = 6 Strips",
+        "qty_in_pcs": 60,
+        "stock_qty": 0,
+        "capacity": "1 Box = 6 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Popular Pharmaceuticals Ltd.",
+    "manufacturers_alias": "popular-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f410811880fd24eca4cea3f",
+    "item_name": "Ebatin 10",
+    "alias": "ebatin-10-tablet",
+    "path": "medicine/prescription-medicine/ebatin-10"
+  },
+  {
+    "generic_name": ["Colecalciferol [Vitamin D3] 1000IU"],
+    "images": [
+      {
+        "img": "medicine/max-d-1000-1629962140483.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 421,
+        "variation_option_id": 4,
+        "price": 19.2,
+        "regular_price": 20,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 422,
+        "variation_option_id": 10,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42369e880fd24eca4cea8f",
+    "item_name": "MaxD 1000",
+    "alias": "maxd-1000-tablet",
+    "path": "medicine/prescription-medicine/maxd-1000"
+  },
+  {
+    "generic_name": ["Megestrol Acetate 160mg"],
+    "images": [
+      {
+        "img": "medicine/megestol-1631522206821.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 424,
+        "variation_option_id": 2,
+        "price": 76.8,
+        "regular_price": 80,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 425,
+        "variation_option_id": 23,
+        "price": 614.4,
+        "regular_price": 640,
+        "variation_option_name": "1 Strip = 8 Pcs",
+        "qty_in_pcs": 8,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 8 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 426,
+        "variation_option_id": 19,
+        "price": 1228.8,
+        "regular_price": 1280,
+        "variation_option_name": "1 Box = 2 Strips",
+        "qty_in_pcs": 16,
+        "stock_qty": 0,
+        "capacity": "1 Box = 2 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f423cfc880fd24eca4cea91",
+    "item_name": "Megestol",
+    "alias": "megestol-tablet",
+    "path": "medicine/prescription-medicine/megestol"
+  },
+  {
+    "generic_name": ["Desvenlafaxine 50mg"],
+    "images": [
+      {
+        "img": "medicine/nevola-50mg-1629977943823.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 442,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 443,
+        "variation_option_id": 11,
+        "price": 288,
+        "regular_price": 300,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet (Extended Release)",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42410e880fd24eca4cea98",
+    "item_name": "Nevola 50",
+    "alias": "nevola-50-tablet-extended-release",
+    "path": "medicine/prescription-medicine/nevola-50"
+  },
+  {
+    "generic_name": ["Tramadol Hydrochloride 50mg"],
+    "images": [
+      {
+        "img": "medicine/utramal1-1631516117725.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 8190,
+        "variation_option_id": 4,
+        "price": 81.6,
+        "regular_price": 85,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 2,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 8191,
+        "variation_option_id": 11,
+        "price": 244.8,
+        "regular_price": 255,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "UniMed UniHealth Pharmaceuticals Ltd",
+    "manufacturers_alias": "unimed-unihealth-pharmaceuticals-ltd",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4246be880fd24eca4ceaa4",
+    "item_name": "Utramal 50",
+    "alias": "utramal-capsule",
+    "path": "medicine/prescription-medicine/utramal-50"
+  },
+  {
+    "generic_name": ["Cefpirome Sulphate 4mg"],
+    "images": [
+      {
+        "img": "medicine/solupred-4-1629966590201.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 503,
+        "variation_option_id": 2,
+        "qty_in_pcs": 1,
+        "price": 4.8,
+        "regular_price": 5,
+        "stock_qty": 50,
+        "variation_option_name": "1 Pc",
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 504,
+        "variation_option_id": 4,
+        "qty_in_pcs": 10,
+        "price": 48,
+        "regular_price": 50,
+        "stock_qty": 5,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 505,
+        "variation_option_id": 10,
+        "qty_in_pcs": 50,
+        "price": 240,
+        "regular_price": 250,
+        "stock_qty": 1,
+        "variation_option_name": "1 Box = 5 Strips",
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4250a4880fd24eca4ceab2",
+    "item_name": "Solupred 4",
+    "alias": "solupred-4-tablet",
+    "path": "medicine/prescription-medicine/solupred-4"
+  },
+  {
+    "generic_name": ["Metformin Hydrochloride 500mg"],
+    "images": [
+      {
+        "img": "medicine/glucomet-500-1631527439635.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 539,
+        "variation_option_id": 4,
+        "price": 38.4,
+        "regular_price": 40,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 540,
+        "variation_option_id": 6,
+        "price": 384,
+        "regular_price": 400,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 0,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4293b8880fd24eca4ceac0",
+    "item_name": "Glucomet 500",
+    "alias": "glucomet-500-tablet",
+    "path": "medicine/prescription-medicine/glucomet-500"
+  },
+  {
+    "generic_name": ["Montelukast Sodium 4mg"],
+    "images": [
+      {
+        "img": "medicine/monas-4-1631511451539.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 326,
+        "variation_option_id": 2,
+        "price": 6.72,
+        "regular_price": 7,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 327,
+        "variation_option_id": 4,
+        "price": 67.2,
+        "regular_price": 70,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 328,
+        "variation_option_id": 11,
+        "price": 201.6,
+        "regular_price": 210,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f421c7f880fd24eca4cea68",
+    "item_name": "Monas 4",
+    "alias": "monas-4-tablet",
+    "path": "medicine/prescription-medicine/monas-4"
+  },
+  {
+    "generic_name": ["Vildagliptin 50mg", "Metformin Hydrochloride 850mg"],
+    "images": [
+      {
+        "img": "medicine/vildapin-plus-8501-1631509069225.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 3340,
+        "variation_option_id": 4,
+        "price": 201.6,
+        "regular_price": 210,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 6,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 39222,
+        "variation_option_id": 11,
+        "price": 604.8,
+        "regular_price": 630,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 2,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f410fef880fd24eca4cea45",
+    "item_name": "Vildapin Plus 850",
+    "alias": "vildapin-plus-850-tablet",
+    "path": "medicine/prescription-medicine/vildapin-plus-850"
+  },
+  {
+    "generic_name": ["Duloxetine Hydrochloride 20mg"],
+    "images": [
+      {
+        "img": "medicine/dulox-20-mg-1629961403363.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 330,
+        "variation_option_id": 4,
+        "price": 76.8,
+        "regular_price": 80,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 7,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 331,
+        "variation_option_id": 11,
+        "price": 230.4,
+        "regular_price": 240,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 2,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f421d4e880fd24eca4cea69",
+    "item_name": "Dulox 20",
+    "alias": "dulox-20-tablet",
+    "path": "medicine/prescription-medicine/dulox-20"
+  },
+  {
+    "generic_name": ["Prednisolone 5mg"],
+    "images": [
+      {
+        "img": "medicine/deltapred-5-1631532427271.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 393,
+        "variation_option_id": 2,
+        "price": 1.06,
+        "regular_price": 1.1,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 20,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 394,
+        "variation_option_id": 4,
+        "price": 10.56,
+        "regular_price": 11,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 2,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 395,
+        "variation_option_id": 36,
+        "price": 528,
+        "regular_price": 550,
+        "variation_option_name": "1 Box = 50 Strips",
+        "qty_in_pcs": 500,
+        "stock_qty": 0,
+        "capacity": "1 Box = 50 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f423209880fd24eca4cea84",
+    "item_name": "Deltapred 5",
+    "alias": "deltapred-5-tablet",
+    "path": "medicine/prescription-medicine/deltapred-5"
+  },
+  {
+    "generic_name": ["Solifenacin Succinate 5mg"],
+    "images": [
+      {
+        "img": "medicine/utrobin-5-mg-1629960953652.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 8196,
+        "variation_option_id": 4,
+        "price": 192,
+        "regular_price": 200,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 8197,
+        "variation_option_id": 11,
+        "price": 576,
+        "regular_price": 600,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "UniMed UniHealth Pharmaceuticals Ltd",
+    "manufacturers_alias": "unimed-unihealth-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4241fc880fd24eca4cea9b",
+    "item_name": "Utrobin 5",
+    "alias": "utrobin-5-tablet",
+    "path": "medicine/prescription-medicine/utrobin-5"
+  },
+  {
+    "generic_name": [
+      "Calcium Carbonate [Coral source] 500mg",
+      "Vitamin D3 400IU"
+    ],
+    "images": [
+      {
+        "img": "medicine/okical-d-tablet-removebg-preview-1629108942873.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 460,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 3,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 461,
+        "variation_option_id": 11,
+        "price": 288,
+        "regular_price": 300,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 1,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "UniMed UniHealth Pharmaceuticals Ltd",
+    "manufacturers_alias": "unimed-unihealth-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4244c6880fd24eca4ceaa0",
+    "item_name": "Okical - D",
+    "alias": "okical-d-tablet",
+    "path": "medicine/prescription-medicine/okical-d"
+  },
+  {
+    "generic_name": ["Dantrolene Sodium 25mg"],
+    "images": [
+      {
+        "img": "medicine/relaxo-25-1629961710735.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 485,
+        "variation_option_id": 2,
+        "price": 9.6,
+        "regular_price": 10,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 486,
+        "variation_option_id": 4,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 487,
+        "variation_option_id": 10,
+        "price": 480,
+        "regular_price": 500,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f424a8c880fd24eca4ceaaa",
+    "item_name": "Relaxo 25",
+    "alias": "relaxo-25-capsule",
+    "path": "medicine/prescription-medicine/relaxo-25"
+  },
+  {
+    "generic_name": ["Methyl Prednisolone 2mg"],
+    "images": [
+      {
+        "img": "medicine/solupred-2-1629966827157.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 500,
+        "variation_option_id": 2,
+        "qty_in_pcs": 1,
+        "price": 2.88,
+        "regular_price": 3,
+        "stock_qty": 70,
+        "variation_option_name": "1 Pc",
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 501,
+        "variation_option_id": 4,
+        "qty_in_pcs": 10,
+        "price": 28.8,
+        "regular_price": 30,
+        "stock_qty": 7,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 502,
+        "variation_option_id": 10,
+        "qty_in_pcs": 50,
+        "price": 144,
+        "regular_price": 150,
+        "stock_qty": 1,
+        "variation_option_name": "1 Box = 5 Strips",
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f424fcf880fd24eca4ceab1",
+    "item_name": "Solupred 2",
+    "alias": "solupred-2-tablet",
+    "path": "medicine/prescription-medicine/solupred-2"
+  },
+  {
+    "generic_name": ["Doxophylline 200mg"],
+    "images": [
+      {
+        "img": "medicine/docopa-200-1631523122623.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 3975,
+        "variation_option_id": 2,
+        "price": 7.68,
+        "regular_price": 8,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 3976,
+        "variation_option_id": 4,
+        "price": 76.8,
+        "regular_price": 80,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 3977,
+        "variation_option_id": 6,
+        "price": 768,
+        "regular_price": 800,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 0,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4291f2880fd24eca4ceabd",
+    "item_name": "Docopa 200",
+    "alias": "docopa-200-tablet",
+    "path": "medicine/otc-medicine/docopa-200"
+  },
+  {
+    "generic_name": ["Rosuvastatin 5mg"],
+    "images": [
+      {
+        "img": "medicine/ruvastin-51-1631526110846.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 637,
+        "variation_option_id": 4,
+        "price": 115.2,
+        "regular_price": 120,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 638,
+        "variation_option_id": 11,
+        "price": 345.6,
+        "regular_price": 360,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a78c880fd24eca4ceae1",
+    "item_name": "Ruvastin-5",
+    "alias": "ruvastin-5-tablet",
+    "path": "medicine/prescription-medicine/ruvastin-5"
+  },
+  {
+    "generic_name": ["Mometasone Furoate 0.1%"],
+    "images": [
+      {
+        "img": "medicine/mometa-101-1631513705949.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 6312,
+        "variation_option_id": 2,
+        "price": 173.45,
+        "regular_price": 180.68,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Popular Pharmaceuticals Ltd.",
+    "manufacturers_alias": "popular-pharmaceuticals-ltd",
+    "sku_type": "Cream",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4119af880fd24eca4cea4c",
+    "item_name": "Mometa 10",
+    "alias": "mometa-10-cream",
+    "path": "medicine/prescription-medicine/mometa-10"
+  },
+  {
+    "generic_name": ["Salmeterol 25mcg", "Fluticasone Propionate 125mcg"],
+    "images": [
+      {
+        "img": "medicine/salflu-125-hfa-inhaler-1629949288778.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 316,
+        "variation_option_id": 2,
+        "qty_in_pcs": 1,
+        "price": 572.92,
+        "regular_price": 596.79,
+        "stock_qty": 3,
+        "variation_option_name": "1 Pc",
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Inhaler",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4218cc880fd24eca4cea64",
+    "item_name": "Salflu 125",
+    "alias": "salflu-125-inhaler",
+    "path": "medicine/prescription-medicine/salflu-125"
+  },
+  {
+    "generic_name": ["Dapoxetine Hydrochloride 60mg"],
+    "images": [
+      {
+        "img": "medicine/prolong-60-1634031151673.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 472,
+        "variation_option_id": 2,
+        "price": 48,
+        "regular_price": 50,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 473,
+        "variation_option_id": 16,
+        "price": 192,
+        "regular_price": 200,
+        "variation_option_name": "1 Strip = 4 Pcs",
+        "qty_in_pcs": 4,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 4 Pcs"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42477b880fd24eca4ceaa5",
+    "item_name": "Prolong 60",
+    "alias": "prolong-60-tablet",
+    "path": "medicine/prescription-medicine/prolong-60"
+  },
+  {
+    "generic_name": ["Linagliptin 5mg"],
+    "images": [
+      {
+        "img": "medicine/linaglip-5-mg-1629954471753.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 4015,
+        "variation_option_id": 4,
+        "price": 211.2,
+        "regular_price": 220,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 4016,
+        "variation_option_id": 11,
+        "price": 633.6,
+        "regular_price": 660,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a1e4880fd24eca4cead4",
+    "item_name": "Linaglip",
+    "alias": "linaglip",
+    "path": "medicine/otc-medicine/linaglip"
+  },
+  {
+    "generic_name": [
+      "Calcium Carbonate [Coral source] 500mg",
+      "Vitamin D3 200IU"
+    ],
+    "images": [
+      {
+        "img": "medicine/89-1629968442072.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 7045,
+        "variation_option_id": 4,
+        "price": 115.2,
+        "regular_price": 120,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 7046,
+        "variation_option_id": 10,
+        "price": 576,
+        "regular_price": 600,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 50,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42abfd880fd24eca4ceaec",
+    "item_name": "Marincal-D",
+    "alias": "marincal-d",
+    "path": "medicine/prescription-medicine/marincal-d"
+  },
+  {
+    "generic_name": ["Vinpocetine 5mg"],
+    "images": [
+      {
+        "img": "medicine/vinton-1650773226485.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 3843,
+        "variation_option_id": 2,
+        "price": 3.84,
+        "regular_price": 4,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 180,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 3844,
+        "variation_option_id": 4,
+        "price": 38.4,
+        "regular_price": 40,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 18,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 3845,
+        "variation_option_id": 6,
+        "price": 384,
+        "regular_price": 400,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 1,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42ad44880fd24eca4ceaef",
+    "item_name": "Vinton",
+    "alias": "vinton",
+    "path": "medicine/otc-medicine/vinton"
+  },
+  {
+    "generic_name": ["Domperidone Maleate 10mg"],
+    "images": [
+      {
+        "img": "medicine/omidon-101-1631606264785.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 696,
+        "variation_option_id": 2,
+        "price": 3.36,
+        "regular_price": 3.5,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 39761,
+        "variation_option_id": 26,
+        "price": 50.4,
+        "regular_price": 52.5,
+        "variation_option_name": "1 Strip = 15 Pcs",
+        "qty_in_pcs": 15,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 15 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 39762,
+        "variation_option_id": 6,
+        "price": 504,
+        "regular_price": 525,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 150,
+        "stock_qty": 0,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42b7be880fd24eca4ceaf7",
+    "item_name": "Omidon 10",
+    "alias": "omidon-10mg",
+    "path": "medicine/prescription-medicine/omidon-10"
+  },
+  {
+    "generic_name": ["Levosalbutamol (Oral) 1mg"],
+    "images": [
+      {
+        "img": "medicine/purisal-1-1631590531274.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 7140,
+        "variation_option_id": 2,
+        "price": 0.96,
+        "regular_price": 1,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 320,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 7141,
+        "variation_option_id": 4,
+        "price": 9.6,
+        "regular_price": 10,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 32,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 7142,
+        "variation_option_id": 6,
+        "price": 96,
+        "regular_price": 100,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 3,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42c2fe880fd24eca4ceb01",
+    "item_name": "Purisal 1",
+    "alias": "purisal-1-tablet",
+    "path": "medicine/prescription-medicine/purisal-1"
+  },
+  {
+    "generic_name": ["Atorvastatin Calcium 20mg"],
+    "images": [
+      {
+        "img": "medicine/tiginor-201-1631591095775.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 29096,
+        "variation_option_id": 4,
+        "price": 192,
+        "regular_price": 200,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 29097,
+        "variation_option_id": 11,
+        "price": 576,
+        "regular_price": 600,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42d0b2880fd24eca4ceb0b",
+    "item_name": "Tiginor 20",
+    "alias": "tiginor-20-tablet",
+    "path": "medicine/prescription-medicine/tiginor-20"
+  },
+  {
+    "generic_name": ["Rupatadine Fumarate 5mg"],
+    "images": [
+      {
+        "img": "medicine/1598180747447-removebg-preview-1629101157766.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 10748,
+        "variation_option_id": 9,
+        "price": 72,
+        "regular_price": 75,
+        "variation_option_name": "1 Bottle",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Bottle"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Oral Solution",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f424e01880fd24eca4ceaaf",
+    "item_name": "Rupin OS 50 ml",
+    "alias": "rupin-os-50-ml-oral-solution",
+    "path": "medicine/prescription-medicine/rupin-os-50-ml"
+  },
+  {
+    "generic_name": ["Metformin Hydrochloride 850mg"],
+    "images": [
+      {
+        "img": "medicine/glucomet-850-1631530383116.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 545,
+        "variation_option_id": 4,
+        "price": 57.6,
+        "regular_price": 60,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 5,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 546,
+        "variation_option_id": 25,
+        "price": 345.6,
+        "regular_price": 360,
+        "variation_option_name": "1 Box = 6 Strips",
+        "qty_in_pcs": 60,
+        "stock_qty": 0,
+        "capacity": "1 Box = 6 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4294cb880fd24eca4ceac2",
+    "item_name": "Glucomet 850",
+    "alias": "glucomet-850-tablet",
+    "path": "medicine/prescription-medicine/glucomet-850"
+  },
+  {
+    "generic_name": [
+      "Iron Polymaltose Complex 47mg",
+      "Zinc Sulfate 22.50mg",
+      "Folic acid 0.50mg"
+    ],
+    "images": [
+      {
+        "img": "medicine/ipec-plus1-1631534052182.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 562,
+        "variation_option_id": 4,
+        "price": 48,
+        "regular_price": 50,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 563,
+        "variation_option_id": 6,
+        "price": 480,
+        "regular_price": 500,
+        "variation_option_name": "1 Box = 10 Strips",
+        "qty_in_pcs": 100,
+        "stock_qty": 0,
+        "capacity": "1 Box = 10 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4297ea880fd24eca4ceac8",
+    "item_name": "Ipec-Plus",
+    "alias": "ipec-plus",
+    "path": "medicine/prescription-medicine/ipec-plus"
+  },
+  {
+    "generic_name": ["Esomeprazole 20mg"],
+    "images": [
+      {
+        "img": "medicine/untitled-1-1637064048473.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 606,
+        "variation_option_id": 2,
+        "price": 7.68,
+        "regular_price": 8,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 28659,
+        "variation_option_id": 27,
+        "price": 107.52,
+        "regular_price": 112,
+        "variation_option_name": "1 Strip = 14 Pcs",
+        "qty_in_pcs": 14,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 14 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 28660,
+        "variation_option_id": 10,
+        "price": 537.6,
+        "regular_price": 560,
+        "variation_option_name": "1 Box = 5 Strips",
+        "qty_in_pcs": 70,
+        "stock_qty": 0,
+        "capacity": "1 Box = 5 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a327880fd24eca4cead7",
+    "item_name": "Esonix 20",
+    "alias": "esonix-20-capsule",
+    "path": "medicine/prescription-medicine/esonix-20"
+  },
+  {
+    "generic_name": ["Cilnidipine 5mg"],
+    "images": [
+      {
+        "img": "medicine/duocard-5-1631592220961.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 259,
+        "variation_option_id": 4,
+        "price": 67.2,
+        "regular_price": 70,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 260,
+        "variation_option_id": 11,
+        "price": 201.6,
+        "regular_price": 210,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f411d09880fd24eca4cea4e",
+    "item_name": "Duocard 5",
+    "alias": "duocard-5-tablet",
+    "path": "medicine/prescription-medicine/duocard-5"
+  },
+  {
+    "generic_name": ["Sodium Bicarbonate 600mg"],
+    "images": [
+      {
+        "img": "medicine/sodicarb-6001-1631532901569.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 203,
+        "variation_option_id": 26,
+        "price": 100.8,
+        "regular_price": 105,
+        "variation_option_name": "1 Strip = 15 Pcs",
+        "qty_in_pcs": 15,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 15 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 204,
+        "variation_option_id": 7,
+        "price": 403.2,
+        "regular_price": 420,
+        "variation_option_name": "1 Box = 4 Strips",
+        "qty_in_pcs": 60,
+        "stock_qty": 0,
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Popular Pharmaceuticals Ltd.",
+    "manufacturers_alias": "popular-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4104db880fd24eca4cea3a",
+    "item_name": "Sodicarb 600",
+    "alias": "sodicarb-600mg",
+    "path": "medicine/prescription-medicine/sodicarb-600"
+  },
+  {
+    "generic_name": ["Clonazepam 2mg"],
+    "images": [
+      {
+        "img": "medicine/arotril-2-1631592558193.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 276,
+        "variation_option_id": 2,
+        "price": 12.48,
+        "regular_price": 13,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 277,
+        "variation_option_id": 4,
+        "price": 124.8,
+        "regular_price": 130,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 278,
+        "variation_option_id": 11,
+        "price": 374.4,
+        "regular_price": 390,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f420e29880fd24eca4cea56",
+    "item_name": "Arotril 2",
+    "alias": "arotril-2-tablet",
+    "path": "medicine/prescription-medicine/arotril-2"
+  },
+  {
+    "generic_name": ["Montelukast Sodium 10mg"],
+    "images": [
+      {
+        "img": "medicine/whatsapp-image-2023-05-27-at-41259-pm-1-removebg-preview-1685182459917.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 301,
+        "variation_option_id": 2,
+        "price": 16.8,
+        "regular_price": 17.5,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 444,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 302,
+        "variation_option_id": 26,
+        "price": 252,
+        "regular_price": 262.5,
+        "variation_option_name": "1 Strip = 15 Pcs",
+        "qty_in_pcs": 15,
+        "stock_qty": 29,
+        "capacity": "1 Strip = 15 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 303,
+        "variation_option_id": 19,
+        "price": 504,
+        "regular_price": 525,
+        "variation_option_name": "1 Box = 2 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 14,
+        "capacity": "1 Box = 2 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42171c880fd24eca4cea5f",
+    "item_name": "Monas 10",
+    "alias": "monas-10",
+    "path": "medicine/prescription-medicine/monas-10"
+  },
+  {
+    "generic_name": ["Tadalafil 20mg"],
+    "images": [
+      {
+        "img": "medicine/edysta-20-1631602261604.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 8052,
+        "variation_option_id": 2,
+        "price": 57.6,
+        "regular_price": 60,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 8053,
+        "variation_option_id": 4,
+        "price": 576,
+        "regular_price": 600,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "UniMed UniHealth Pharmaceuticals Ltd",
+    "manufacturers_alias": "unimed-unihealth-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42207c880fd24eca4cea70",
+    "item_name": "Edysta 20",
+    "alias": "edysta-20-tablet",
+    "path": "medicine/prescription-medicine/edysta-20"
+  },
+  {
+    "generic_name": ["Pregabalin 50mg"],
+    "images": [
+      {
+        "img": "medicine/myrica-50-1631594140228.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 361,
+        "variation_option_id": 30,
+        "price": 90.72,
+        "regular_price": 94.5,
+        "variation_option_name": "1 Strip = 7 Pcs",
+        "qty_in_pcs": 7,
+        "stock_qty": 4,
+        "capacity": "1 Strip = 7 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 362,
+        "variation_option_id": 7,
+        "price": 362.88,
+        "regular_price": 378,
+        "variation_option_name": "1 Box = 4 Strips",
+        "qty_in_pcs": 28,
+        "stock_qty": 1,
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "UniMed UniHealth Pharmaceuticals Ltd",
+    "manufacturers_alias": "unimed-unihealth-pharmaceuticals-ltd",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f422afa880fd24eca4cea75",
+    "item_name": "Myrica 50",
+    "alias": "myrica-50-capsule",
+    "path": "medicine/prescription-medicine/myrica-50"
+  },
+  {
+    "generic_name": [
+      "Eucalyptol 0%",
+      "Methyl Salicylate 0%",
+      "Menthol 0%",
+      "Sodium Fluoride 0%",
+      "Thymol 0%"
+    ],
+    "images": [
+      {
+        "img": "medicine/alconil-120ml-removebg-preview-1628932114617.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 10745,
+        "variation_option_id": 9,
+        "price": 81.6,
+        "regular_price": 85,
+        "variation_option_name": "1 Bottle",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Bottle"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Mouth Wash",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f422c2b880fd24eca4cea78",
+    "item_name": "Alconil 120 ml",
+    "alias": "alconil-120-ml-mouth-wash",
+    "path": "medicine/prescription-medicine/alconil-120-ml"
+  },
+  {
+    "generic_name": ["Megestrol Acetate 200mg"],
+    "images": [
+      {
+        "img": "medicine/megestol-ml-removebg-preview-1629087900309.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 10747,
+        "variation_option_id": 9,
+        "price": 480,
+        "regular_price": 500,
+        "variation_option_name": "1 Bottle",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Bottle"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Oral Suspension",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f423f1a880fd24eca4cea93",
+    "item_name": "Megestol 100 ml",
+    "alias": "megestol-100-ml-oral-suspension",
+    "path": "medicine/prescription-medicine/megestol-100-ml"
+  },
+  {
+    "generic_name": ["Naproxen Sodium 375mg", "Esomeprazole magnesium 20mg"],
+    "images": [
+      {
+        "img": "medicine/napxon-375-1629962866240.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 447,
+        "variation_option_id": 2,
+        "qty_in_pcs": 1,
+        "price": 10.56,
+        "regular_price": 11,
+        "stock_qty": 32,
+        "variation_option_name": "1 Pc",
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 448,
+        "variation_option_id": 23,
+        "qty_in_pcs": 8,
+        "price": 84.48,
+        "regular_price": 88,
+        "stock_qty": 4,
+        "variation_option_name": "1 Strip = 8 Pcs",
+        "capacity": "1 Strip = 8 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 449,
+        "variation_option_id": 7,
+        "qty_in_pcs": 32,
+        "price": 337.92,
+        "regular_price": 352,
+        "stock_qty": 1,
+        "variation_option_name": "1 Box = 4 Strips",
+        "capacity": "1 Box = 4 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4241c5880fd24eca4cea9a",
+    "item_name": "Napxon 375",
+    "alias": "napxon-375-tablet",
+    "path": "medicine/prescription-medicine/napxon-375"
+  },
+  {
+    "generic_name": ["Ulipristal Acetate [For emergency contraception] 30mg"],
+    "images": [
+      {
+        "img": "medicine/peuli-1629955035687.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 457,
+        "variation_option_id": 2,
+        "price": 187.2,
+        "regular_price": 195,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4243ab880fd24eca4cea9e",
+    "item_name": "Peuli",
+    "alias": "peuli",
+    "path": "medicine/prescription-medicine/peuli"
+  },
+  {
+    "generic_name": ["Minoxidil 5%"],
+    "images": [
+      {
+        "img": "medicine/trugain-minoxidil-usp-5-60ml-removebg-preview-1629111886594.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 510,
+        "variation_option_id": 2,
+        "price": 528,
+        "regular_price": 550,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Solution",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42535c880fd24eca4ceab5",
+    "item_name": "Trugain 5%",
+    "alias": "trugain-5",
+    "path": "medicine/prescription-medicine/trugain-5"
+  },
+  {
+    "generic_name": ["Montelukast Sodium 10mg"],
+    "images": [
+      {
+        "img": "medicine/montril-10-tablet-2-removebg-preview-1629108974273.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 4026,
+        "variation_option_id": 2,
+        "price": 16.8,
+        "regular_price": 17.5,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 4027,
+        "variation_option_id": 4,
+        "price": 168,
+        "regular_price": 175,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 4028,
+        "variation_option_id": 11,
+        "price": 504,
+        "regular_price": 525,
+        "variation_option_name": "1 Box = 3 Strips",
+        "qty_in_pcs": 30,
+        "stock_qty": 0,
+        "capacity": "1 Box = 3 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a306880fd24eca4cead6",
+    "item_name": "Montril-10",
+    "alias": "montril-10",
+    "path": "medicine/otc-medicine/montril-10"
+  },
+  {
+    "generic_name": ["Terbinafine Hydrochloride 250mg"],
+    "images": [
+      {
+        "img": "medicine/terbifin1-1631533333523.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 4056,
+        "variation_option_id": 2,
+        "price": 48,
+        "regular_price": 50,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 4057,
+        "variation_option_id": 22,
+        "price": 288,
+        "regular_price": 300,
+        "variation_option_name": "1 Strip = 6 Pcs",
+        "qty_in_pcs": 6,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 6 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 4058,
+        "variation_option_id": 19,
+        "price": 576,
+        "regular_price": 600,
+        "variation_option_name": "1 Box = 2 Strips",
+        "qty_in_pcs": 12,
+        "stock_qty": 0,
+        "capacity": "1 Box = 2 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42abad880fd24eca4ceaeb",
+    "item_name": "Terbifin",
+    "alias": "terbifin",
+    "path": "medicine/otc-medicine/terbifin"
+  },
+  {
+    "generic_name": ["Tolperisone Hydrochloride 50mg"],
+    "images": [
+      {
+        "img": "medicine/myolax-50-1631595421710.webp"
+      }
+    ],
+    "inventory": [
+      {
+        "discount": 4,
+        "item_variation_option_id": 7065,
+        "variation_option_id": 2,
+        "price": 8.64,
+        "regular_price": 9,
+        "variation_option_name": "1 Pc",
+        "qty_in_pcs": 1,
+        "stock_qty": 0,
+        "capacity": "1 Pc"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 7066,
+        "variation_option_id": 4,
+        "price": 86.4,
+        "regular_price": 90,
+        "variation_option_name": "1 Strip = 10 Pcs",
+        "qty_in_pcs": 10,
+        "stock_qty": 0,
+        "capacity": "1 Strip = 10 Pcs"
+      },
+      {
+        "discount": 4,
+        "item_variation_option_id": 7067,
+        "variation_option_id": 28,
+        "price": 604.8,
+        "regular_price": 630,
+        "variation_option_name": "1 Box = 7 Strips",
+        "qty_in_pcs": 70,
+        "stock_qty": 0,
+        "capacity": "1 Box = 7 Strips"
+      }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42b3e0880fd24eca4ceaf1",
+    "item_name": "Myolax 50",
+    "alias": "myolax-50-tablet",
+    "path": "medicine/prescription-medicine/myolax-50"
+  },
+
+  {
+    "generic_name": [
+        "Folic acid 5mg",
+        "Zinc Sulfate Monohydrate 20mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/znf1-1631596199541.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 4063,
+            "variation_option_id": 4,
+            "price": 19.2,
+            "regular_price": 20,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 4064,
+            "variation_option_id": 6,
+            "price": 192,
+            "regular_price": 200,
+            "variation_option_name": "1 Box = 10 Strips",
+            "qty_in_pcs": 100,
+            "stock_qty": 0,
+            "capacity": "1 Box = 10 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42b654880fd24eca4ceaf4",
+    "item_name": "ZnF",
+    "alias": "znf",
+    "path": "medicine/otc-medicine/znf"
+},
+{
+    "generic_name": [
+        "Polyethylene Glycol 0.40%",
+        "Propylene Glycol 0.30%"
+    ],
+    "images": [
+        {
+            "img": "medicine/1598208238036-removebg-preview-1-1629960495476.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 10750,
+            "variation_option_id": 9,
+            "price": 240,
+            "regular_price": 250,
+            "variation_option_name": "1 Bottle",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Bottle"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Eye Drop",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42b925880fd24eca4ceafb",
+    "item_name": "Systear 10 ml",
+    "alias": "systear-10-ml-eye-drop",
+    "path": "medicine/prescription-medicine/systear-10-ml"
+},
+{
+    "generic_name": [
+        "Amlodipine 5mg",
+        "Telmisartan 80mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/telmidip-80-5-1631597281767.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 7186,
+            "variation_option_id": 4,
+            "price": 115.2,
+            "regular_price": 120,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 7187,
+            "variation_option_id": 11,
+            "price": 345.6,
+            "regular_price": 360,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42cfcd880fd24eca4ceb09",
+    "item_name": "Telmidip 80/5",
+    "alias": "telmidip-805-tablet",
+    "path": "medicine/prescription-medicine/telmidip-80-5"
+},
+{
+    "generic_name": [
+        "Sitagliptin 50mg",
+        "Metformin Hydrochloride 1000mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/whatsapp-image-2023-05-11-at-14503-pm-removebg-preview-1683791167832.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 251,
+            "variation_option_id": 2,
+            "price": 20,
+            "regular_price": 20.83,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 60,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 39281,
+            "variation_option_id": 4,
+            "price": 199.97,
+            "regular_price": 208.3,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 6,
+            "capacity": "1 Strip = 10 Pcs"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4119a4880fd24eca4cea4b",
+    "item_name": "Janmet 1000",
+    "alias": "janmet-1000-tablet",
+    "path": "medicine/prescription-medicine/janmet-1000"
+},
+{
+    "generic_name": [
+        "Rosuvastatin 10mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/aaa-1633337784613.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 377,
+            "variation_option_id": 2,
+            "price": 19.2,
+            "regular_price": 20,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 378,
+            "variation_option_id": 4,
+            "price": 192,
+            "regular_price": 200,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 379,
+            "variation_option_id": 19,
+            "price": 384,
+            "regular_price": 400,
+            "variation_option_name": "1 Box = 2 Strips",
+            "qty_in_pcs": 20,
+            "stock_qty": 0,
+            "capacity": "1 Box = 2 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f422def880fd24eca4cea7c",
+    "item_name": "Cholcut 10",
+    "alias": "cholcut-10-tablet",
+    "path": "medicine/prescription-medicine/cholcut-10"
+},
+{
+    "generic_name": [
+        "Dexlansoprazole 30mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/ccc-1633338078019.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 399,
+            "variation_option_id": 2,
+            "price": 9.6,
+            "regular_price": 10,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 1770,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 400,
+            "variation_option_id": 4,
+            "price": 96,
+            "regular_price": 100,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 177,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 39691,
+            "variation_option_id": 38,
+            "price": 864,
+            "regular_price": 900,
+            "variation_option_name": "1 Box = 9 Strips",
+            "qty_in_pcs": 90,
+            "stock_qty": 19,
+            "capacity": "1 Box = 9 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4232c1880fd24eca4cea86",
+    "item_name": "Dexilend 30",
+    "alias": "dexilend-30-capsule",
+    "path": "medicine/prescription-medicine/dexilend-30"
+},
+{
+    "generic_name": [
+        "Fluocinolone Acetonide 0.01%",
+        "Hydroquinone 4%",
+        "Tretinoin 0.50%"
+    ],
+    "images": [
+        {
+            "img": "medicine/melatrin-301-1631606816418.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 423,
+            "variation_option_id": 2,
+            "price": 192,
+            "regular_price": 200,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 1,
+            "capacity": "1 Pc"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Cream",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4237a6880fd24eca4cea90",
+    "item_name": "Melatrin 30",
+    "alias": "melatrin-30-cream",
+    "path": "medicine/prescription-medicine/melatrin-30"
+},
+{
+    "generic_name": [
+        "Calcium Dobesilate 4%",
+        "Lidocaine HCl 2%",
+        "Dexamethasone Acetate 0.03%"
+    ],
+    "images": [
+        {
+            "img": "medicine/pilosol-30-1631599885182.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 458,
+            "variation_option_id": 2,
+            "price": 153.6,
+            "regular_price": 160,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Rectal Ointment",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42447f880fd24eca4cea9f",
+    "item_name": "Pilosol 30",
+    "alias": "pilosol-30-rectal-ointment",
+    "path": "medicine/prescription-medicine/pilosol-30"
+},
+{
+    "generic_name": [
+        "Cefuroxime Axetil 250mg",
+        "Clavulanic Acid 62.50mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/1598182358785-removebg-preview-1629105030424.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 511,
+            "variation_option_id": 2,
+            "price": 28.8,
+            "regular_price": 30,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 42,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 512,
+            "variation_option_id": 30,
+            "price": 201.6,
+            "regular_price": 210,
+            "variation_option_name": "1 Strip = 7 Pcs",
+            "qty_in_pcs": 7,
+            "stock_qty": 6,
+            "capacity": "1 Strip = 7 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 513,
+            "variation_option_id": 19,
+            "price": 403.2,
+            "regular_price": 420,
+            "variation_option_name": "1 Box = 2 Strips",
+            "qty_in_pcs": 14,
+            "stock_qty": 3,
+            "capacity": "1 Box = 2 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42545a880fd24eca4ceab6",
+    "item_name": "Xiclav 250",
+    "alias": "xiclav-250-tablet",
+    "path": "medicine/prescription-medicine/xiclav-250"
+},
+{
+    "generic_name": [
+        "Clopidogrel 75mg",
+        "Aspirin 75mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/clocard-a-1631607189260.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 3750,
+            "variation_option_id": 2,
+            "price": 11.52,
+            "regular_price": 12,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 19,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 3751,
+            "variation_option_id": 4,
+            "price": 115.2,
+            "regular_price": 120,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 1,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 3752,
+            "variation_option_id": 11,
+            "price": 345.6,
+            "regular_price": 360,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f428971880fd24eca4ceabc",
+    "item_name": "Clocard-A",
+    "alias": "clocard-a",
+    "path": "medicine/otc-medicine/clocard-a"
+},
+{
+    "generic_name": [
+        "Calcium Carbonate [Coral source] 600mg",
+        "Vitamin D3 400IU"
+    ],
+    "images": [
+        {
+            "img": "medicine/fossical-dx-1631613941014.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 3991,
+            "variation_option_id": 4,
+            "price": 163.2,
+            "regular_price": 170,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 3992,
+            "variation_option_id": 11,
+            "price": 489.6,
+            "regular_price": 510,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4292c7880fd24eca4ceabf",
+    "item_name": "Fossical-DX",
+    "alias": "fossical-dx",
+    "path": "medicine/otc-medicine/fossical-dx"
+},
+{
+    "generic_name": [
+        "Budesonide 0.50mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/nebuliser-suspension-budicort-05-removebg-preview-1629950893045.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 6834,
+            "variation_option_id": 2,
+            "price": 38.4,
+            "regular_price": 40,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 80,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 6835,
+            "variation_option_id": 34,
+            "price": 192,
+            "regular_price": 200,
+            "variation_option_name": "1 Strip = 5 Pcs",
+            "qty_in_pcs": 5,
+            "stock_qty": 16,
+            "capacity": "1 Strip = 5 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 55752,
+            "variation_option_id": 19,
+            "price": 384,
+            "regular_price": 400,
+            "variation_option_name": "1 Box = 2 Strips",
+            "qty_in_pcs": 10,
+            "stock_qty": 8,
+            "capacity": "1 Box = 2 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Nebuliser Suspension",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f429576880fd24eca4ceac3",
+    "item_name": "Budicort 0.5/2 ml",
+    "alias": "budicort-052-ml-nebuliser-suspension",
+    "path": "medicine/prescription-medicine/budicort-05-2-ml"
+},
+{
+    "generic_name": [
+        "Misoprostol 200mcg"
+    ],
+    "images": [
+        {
+            "img": "medicine/1111-1631608660833.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 6900,
+            "variation_option_id": 2,
+            "price": 14.4,
+            "regular_price": 15,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 6901,
+            "variation_option_id": 4,
+            "price": 144,
+            "regular_price": 150,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 6902,
+            "variation_option_id": 11,
+            "price": 432,
+            "regular_price": 450,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f429cef880fd24eca4ceacf",
+    "item_name": "Cytomis 200",
+    "alias": "cytomis-200-tablet",
+    "path": "medicine/prescription-medicine/cytomis-200"
+},
+{
+    "generic_name": [
+        "Pizotifen 1.50mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/zofen-ts-1631607797039.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 3849,
+            "variation_option_id": 2,
+            "qty_in_pcs": 1,
+            "price": 6.91,
+            "regular_price": 7.2,
+            "stock_qty": 90,
+            "variation_option_name": "1 Pc",
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 3850,
+            "variation_option_id": 4,
+            "qty_in_pcs": 10,
+            "price": 69.12,
+            "regular_price": 72,
+            "stock_qty": 9,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 3851,
+            "variation_option_id": 11,
+            "qty_in_pcs": 30,
+            "price": 207.36,
+            "regular_price": 216,
+            "stock_qty": 3,
+            "variation_option_name": "1 Box = 3 Strips",
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42b778880fd24eca4ceaf6",
+    "item_name": "Zofen TS",
+    "alias": "zofen-ts",
+    "path": "medicine/otc-medicine/zofen-ts"
+},
+{
+    "generic_name": [
+        "Topiramate 25mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/topirva-25-1631614488736.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 7195,
+            "variation_option_id": 4,
+            "price": 48,
+            "regular_price": 50,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 6,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 7196,
+            "variation_option_id": 10,
+            "price": 240,
+            "regular_price": 250,
+            "variation_option_name": "1 Box = 5 Strips",
+            "qty_in_pcs": 50,
+            "stock_qty": 1,
+            "capacity": "1 Box = 5 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42d3d8880fd24eca4ceb0d",
+    "item_name": "Topirva 25",
+    "alias": "topirva-25-tablet",
+    "path": "medicine/prescription-medicine/topirva-25"
+},
+{
+    "generic_name": [
+        "Flunarizine 5mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/fluzin-5-1631609807162.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 223,
+            "variation_option_id": 2,
+            "qty_in_pcs": 1,
+            "price": 2.89,
+            "regular_price": 3.01,
+            "stock_qty": 120,
+            "variation_option_name": "1 Pc",
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 224,
+            "variation_option_id": 4,
+            "qty_in_pcs": 10,
+            "price": 28.9,
+            "regular_price": 30.1,
+            "stock_qty": 12,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 225,
+            "variation_option_id": 10,
+            "qty_in_pcs": 50,
+            "price": 144.48,
+            "regular_price": 150.5,
+            "stock_qty": 2,
+            "variation_option_name": "1 Box = 5 Strips",
+            "capacity": "1 Box = 5 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f410987880fd24eca4cea41",
+    "item_name": "Fluzin 5",
+    "alias": "fluzin-5-tablet",
+    "path": "medicine/prescription-medicine/fluzin-5"
+},
+{
+    "generic_name": [
+        "Calcium Carbonate [Coral source] 600mg",
+        "Vitamin D3 400IU"
+    ],
+    "images": [
+        {
+            "img": "medicine/kalcoral-dx-1639889844763.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 6241,
+            "variation_option_id": 4,
+            "price": 144,
+            "regular_price": 150,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 8,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 6242,
+            "variation_option_id": 7,
+            "price": 576,
+            "regular_price": 600,
+            "variation_option_name": "1 Box = 4 Strips",
+            "qty_in_pcs": 40,
+            "stock_qty": 2,
+            "capacity": "1 Box = 4 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Popular Pharmaceuticals Ltd.",
+    "manufacturers_alias": "popular-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f410b4a880fd24eca4cea43",
+    "item_name": "Kalcoral-DX",
+    "alias": "kalcoral-dx-tablet",
+    "path": "medicine/prescription-medicine/kalcoral-dx"
+},
+{
+    "generic_name": [
+        "Domperidone Maleate 10mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/don-a-10-1631611290316.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 307,
+            "variation_option_id": 2,
+            "price": 3.31,
+            "regular_price": 3.45,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 308,
+            "variation_option_id": 27,
+            "price": 46.37,
+            "regular_price": 48.3,
+            "variation_option_name": "1 Strip = 14 Pcs",
+            "qty_in_pcs": 14,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 14 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 309,
+            "variation_option_id": 6,
+            "price": 463.68,
+            "regular_price": 483,
+            "variation_option_name": "1 Box = 10 Strips",
+            "qty_in_pcs": 140,
+            "stock_qty": 0,
+            "capacity": "1 Box = 10 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42180e880fd24eca4cea61",
+    "item_name": "Don-A 10",
+    "alias": "don-a-10-tablet",
+    "path": "medicine/prescription-medicine/don-a-10"
+},
+{
+    "generic_name": [
+        "Montelukast Sodium 5mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/monas-5-1631611928235.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 320,
+            "variation_option_id": 2,
+            "price": 8.64,
+            "regular_price": 9,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 321,
+            "variation_option_id": 4,
+            "price": 86.4,
+            "regular_price": 90,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 322,
+            "variation_option_id": 11,
+            "price": 259.2,
+            "regular_price": 270,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f421b99880fd24eca4cea66",
+    "item_name": "Monas 5",
+    "alias": "monas-5-tablet",
+    "path": "medicine/prescription-medicine/monas-5"
+},
+{
+    "generic_name": [
+        "Fexofenadine Hydrochloride 120mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/axofen-1201-1631613096499.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 523,
+            "variation_option_id": 2,
+            "price": 7.68,
+            "regular_price": 8,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 524,
+            "variation_option_id": 4,
+            "price": 76.8,
+            "regular_price": 80,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 525,
+            "variation_option_id": 11,
+            "price": 230.4,
+            "regular_price": 240,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4285c4880fd24eca4ceaba",
+    "item_name": "Axofen 120",
+    "alias": "axofen-120-tablet",
+    "path": "medicine/prescription-medicine/axofen-120"
+},
+
+{
+    "generic_name": [
+        "Gliclazide 80mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/glucozid-80-1631615071683.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 4000,
+            "variation_option_id": 4,
+            "price": 76.8,
+            "regular_price": 80,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 5,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 39437,
+            "variation_option_id": 25,
+            "price": 460.8,
+            "regular_price": 480,
+            "variation_option_name": "1 Box = 6 Strips",
+            "qty_in_pcs": 60,
+            "stock_qty": 0,
+            "capacity": "1 Box = 6 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4295d0880fd24eca4ceac4",
+    "item_name": "Glucozid 80",
+    "alias": "glucozid-80-tablet",
+    "path": "medicine/otc-medicine/glucozid-80"
+},
+{
+    "generic_name": [
+        "Salmeterol 50mcg",
+        "Fluticasone Propionate 100mcg"
+    ],
+    "images": [
+        {
+            "img": "medicine/flutisal-100-convicap-400x400-removebg-preview-1629955953119.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 616,
+            "variation_option_id": 22,
+            "price": 28.8,
+            "regular_price": 30,
+            "variation_option_name": "1 Strip = 6 Pcs",
+            "qty_in_pcs": 6,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 6 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 617,
+            "variation_option_id": 10,
+            "price": 144,
+            "regular_price": 150,
+            "variation_option_name": "1 Box = 5 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 5 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "ConviCap",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a505880fd24eca4ceada",
+    "item_name": "Flutisal 100",
+    "alias": "flutisal-100-convicap",
+    "path": "medicine/prescription-medicine/flutisal-100"
+},
+{
+    "generic_name": [
+        "Rabeprazole Sodium 20mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/rabe-20-tab-1630909259520.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 624,
+            "variation_option_id": 2,
+            "price": 6.72,
+            "regular_price": 7,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 482,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 29065,
+            "variation_option_id": 20,
+            "price": 134.4,
+            "regular_price": 140,
+            "variation_option_name": "1 Strip = 20 Pcs",
+            "qty_in_pcs": 20,
+            "stock_qty": 24,
+            "capacity": "1 Strip = 20 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 29066,
+            "variation_option_id": 28,
+            "price": 940.8,
+            "regular_price": 980,
+            "variation_option_name": "1 Box = 7 Strips",
+            "qty_in_pcs": 140,
+            "stock_qty": 3,
+            "capacity": "1 Box = 7 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a5ed880fd24eca4ceadd",
+    "item_name": "Rabe-20",
+    "alias": "rabe-20-tablet",
+    "path": "medicine/prescription-medicine/rabe-20"
+},
+{
+    "generic_name": [
+        "Atorvastatin Calcium 20mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/tcl-r-20-1631615963008.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 661,
+            "variation_option_id": 4,
+            "price": 192,
+            "regular_price": 200,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 54746,
+            "variation_option_id": 11,
+            "price": 576,
+            "regular_price": 600,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42aacb880fd24eca4ceaea",
+    "item_name": "TCL-R 20",
+    "alias": "tcl-r-20-tablet",
+    "path": "medicine/prescription-medicine/tcl-r-20"
+},
+{
+    "generic_name": [
+        "Pantoprazole 20mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/pantonix-20-1636287804472.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 711,
+            "variation_option_id": 2,
+            "price": 6.72,
+            "regular_price": 7,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 14,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 29067,
+            "variation_option_id": 27,
+            "price": 94.08,
+            "regular_price": 98,
+            "variation_option_name": "1 Strip = 14 Pcs",
+            "qty_in_pcs": 14,
+            "stock_qty": 1,
+            "capacity": "1 Strip = 14 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 29068,
+            "variation_option_id": 28,
+            "price": 658.56,
+            "regular_price": 686,
+            "variation_option_name": "1 Box = 7 Strips",
+            "qty_in_pcs": 98,
+            "stock_qty": 0,
+            "capacity": "1 Box = 7 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42bf8c880fd24eca4ceafe",
+    "item_name": "Pantonix 20",
+    "alias": "pantonix-20mg",
+    "path": "medicine/prescription-medicine/pantonix-20"
+},
+{
+    "generic_name": [
+        "Entecavir 0.50mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/vir-05-1631616688542.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 221,
+            "variation_option_id": 4,
+            "price": 462.14,
+            "regular_price": 481.4,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f41089e880fd24eca4cea40",
+    "item_name": "Vir 0.5",
+    "alias": "vir-05-tablet",
+    "path": "medicine/prescription-medicine/vir-05"
+},
+{
+    "generic_name": [
+        "Cefuroxime Axetil 250mg",
+        "Clavulanic Acid 62.50mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/famiclav-250-mg-1629962398933.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 289,
+            "variation_option_id": 2,
+            "price": 33.6,
+            "regular_price": 35,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 290,
+            "variation_option_id": 30,
+            "price": 235.2,
+            "regular_price": 245,
+            "variation_option_name": "1 Strip = 7 Pcs",
+            "qty_in_pcs": 7,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 7 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 291,
+            "variation_option_id": 19,
+            "price": 470.4,
+            "regular_price": 490,
+            "variation_option_name": "1 Box = 2 Strips",
+            "qty_in_pcs": 14,
+            "stock_qty": 0,
+            "capacity": "1 Box = 2 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f421352880fd24eca4cea5b",
+    "item_name": "Famiclav 250",
+    "alias": "famiclav-250-tablet",
+    "path": "medicine/prescription-medicine/famiclav-250"
+},
+{
+    "generic_name": [
+        "Fluticasone Propionate 250mcg",
+        "Salmeterol 50mcg"
+    ],
+    "images": [
+        {
+            "img": "medicine/salflu-250-1631617223652.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 343,
+            "variation_option_id": 4,
+            "price": 115.2,
+            "regular_price": 120,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 3,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 344,
+            "variation_option_id": 11,
+            "price": 345.6,
+            "regular_price": 360,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 1,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f421ed5880fd24eca4cea6e",
+    "item_name": "Salflu 250",
+    "alias": "salflu-250-capsule",
+    "path": "medicine/prescription-medicine/salflu-250"
+},
+{
+    "generic_name": [
+        "Aluminium Chloride Hexahydrate 20%"
+    ],
+    "images": [
+        {
+            "img": "medicine/dricare-50ml-removebg-preview-1629126814920.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 10746,
+            "variation_option_id": 9,
+            "price": 211.2,
+            "regular_price": 220,
+            "variation_option_name": "1 Bottle",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Bottle"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Solution",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42305f880fd24eca4cea81",
+    "item_name": "Dricare 50 ml",
+    "alias": "dricare-50-ml-solution",
+    "path": "medicine/prescription-medicine/dricare-50-ml"
+},
+{
+    "generic_name": [
+        "Cefuroxime Axetil 500mg",
+        "Clavulanic Acid 125mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/axim-cv-5001-1631618445032.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 3957,
+            "variation_option_id": 2,
+            "price": 62.4,
+            "regular_price": 65,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 68,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 39091,
+            "variation_option_id": 30,
+            "price": 436.8,
+            "regular_price": 455,
+            "variation_option_name": "1 Strip = 7 Pcs",
+            "qty_in_pcs": 7,
+            "stock_qty": 9,
+            "capacity": "1 Strip = 7 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 39663,
+            "variation_option_id": 19,
+            "price": 873.6,
+            "regular_price": 910,
+            "variation_option_name": "1 Box = 2 Strips",
+            "qty_in_pcs": 14,
+            "stock_qty": 4,
+            "capacity": "1 Box = 2 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f428373880fd24eca4ceab9",
+    "item_name": "Axim CV 500",
+    "alias": "axim-cv-500-tablet",
+    "path": "medicine/prescription-medicine/axim-cv-500"
+},
+{
+    "generic_name": [
+        "Lacidipine 2mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/lacicard-2-1631619703153.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 568,
+            "variation_option_id": 4,
+            "price": 38.4,
+            "regular_price": 40,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 5,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 569,
+            "variation_option_id": 25,
+            "price": 230.4,
+            "regular_price": 240,
+            "variation_option_name": "1 Box = 6 Strips",
+            "qty_in_pcs": 60,
+            "stock_qty": 0,
+            "capacity": "1 Box = 6 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Aristopharma Ltd.",
+    "manufacturers_alias": "aristopharma-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f429976880fd24eca4ceaca",
+    "item_name": "Lacicard-2",
+    "alias": "lacicard-2-tablet",
+    "path": "medicine/prescription-medicine/lacicard-2"
+},
+{
+    "generic_name": [
+        "Carvedilol 12.50mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/carvista-125-1631620720408.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 571,
+            "variation_option_id": 4,
+            "price": 48,
+            "regular_price": 50,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 572,
+            "variation_option_id": 10,
+            "price": 240,
+            "regular_price": 250,
+            "variation_option_name": "1 Box = 5 Strips",
+            "qty_in_pcs": 50,
+            "stock_qty": 0,
+            "capacity": "1 Box = 5 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4299ba880fd24eca4ceacb",
+    "item_name": "Carvista 12.5",
+    "alias": "carvista-125-tablet",
+    "path": "medicine/prescription-medicine/carvista-125"
+},
+{
+    "generic_name": [
+        "Labetalol Hydrochloride 100mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/labegest-100-1633339798733.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 6999,
+            "variation_option_id": 2,
+            "price": 5.76,
+            "regular_price": 6,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 60,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 7000,
+            "variation_option_id": 4,
+            "price": 57.6,
+            "regular_price": 60,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 6,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 7001,
+            "variation_option_id": 11,
+            "price": 172.8,
+            "regular_price": 180,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 2,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42a759880fd24eca4ceae0",
+    "item_name": "Labegest 100",
+    "alias": "labegest-100-tablet",
+    "path": "medicine/prescription-medicine/labegest-100"
+},
+{
+    "generic_name": [
+        "Flucloxacillin Sodium 500mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/inclox-500-1631624219763.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 7083,
+            "variation_option_id": 2,
+            "price": 9.6,
+            "regular_price": 10,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 16,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 7084,
+            "variation_option_id": 4,
+            "price": 96,
+            "regular_price": 100,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 1,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 7085,
+            "variation_option_id": 10,
+            "price": 480,
+            "regular_price": 500,
+            "variation_option_name": "1 Box = 5 Strips",
+            "qty_in_pcs": 50,
+            "stock_qty": 0,
+            "capacity": "1 Box = 5 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Incepta Pharmaceuticals Ltd",
+    "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42b69d880fd24eca4ceaf5",
+    "item_name": "Inclox 500",
+    "alias": "inclox-500-capsule",
+    "path": "medicine/prescription-medicine/inclox-500"
+},
+{
+    "generic_name": [
+        "Clopidogrel Bisulphate 75mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/dclot-75-1635584007544.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 199,
+            "variation_option_id": 2,
+            "qty_in_pcs": 1,
+            "price": 10.56,
+            "regular_price": 11,
+            "stock_qty": 60,
+            "variation_option_name": "1 Pc",
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 200,
+            "variation_option_id": 18,
+            "qty_in_pcs": 3,
+            "price": 105.6,
+            "regular_price": 110,
+            "stock_qty": 20,
+            "variation_option_name": "1 Strip = 3 Pcs",
+            "capacity": "1 Strip = 3 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 201,
+            "variation_option_id": 6,
+            "qty_in_pcs": 30,
+            "price": 316.8,
+            "regular_price": 330,
+            "stock_qty": 2,
+            "variation_option_name": "1 Box = 10 Strips",
+            "capacity": "1 Box = 10 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f4103c9880fd24eca4cea39",
+    "item_name": "Dclot 75",
+    "alias": "dclot-75mg",
+    "path": "medicine/prescription-medicine/dclot-75"
+},
+{
+    "generic_name": [
+        "Linagliptin 5mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/lino-5-1631621882686.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 299,
+            "variation_option_id": 4,
+            "price": 211.2,
+            "regular_price": 220,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 300,
+            "variation_option_id": 11,
+            "price": 633.6,
+            "regular_price": 660,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "The ACME Laboratories Ltd.",
+    "manufacturers_alias": "the-acme-laboratories-ltd.",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f421608880fd24eca4cea5e",
+    "item_name": "Lino 5",
+    "alias": "lino-5-tablet",
+    "path": "medicine/prescription-medicine/lino-5"
+},
+{
+    "generic_name": [
+        "Azithromycin 500mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/azithromax-500mg-1629961890335.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 371,
+            "variation_option_id": 2,
+            "price": 33.6,
+            "regular_price": 35,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 14,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 372,
+            "variation_option_id": 34,
+            "price": 168,
+            "regular_price": 175,
+            "variation_option_name": "1 Strip = 5 Pcs",
+            "qty_in_pcs": 5,
+            "stock_qty": 2,
+            "capacity": "1 Strip = 5 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 373,
+            "variation_option_id": 19,
+            "price": 336,
+            "regular_price": 350,
+            "variation_option_name": "1 Box = 2 Strips",
+            "qty_in_pcs": 10,
+            "stock_qty": 1,
+            "capacity": "1 Box = 2 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f422d22880fd24eca4cea7a",
+    "item_name": "Azithromax 500",
+    "alias": "azithromax-500-tablet",
+    "path": "medicine/prescription-medicine/azithromax-500"
+},
+{
+    "generic_name": [
+        "Clobetasol Propionate 0.05%",
+        "Salicylic Acid (Cream) 3%"
+    ],
+    "images": [
+        {
+            "img": "medicine/closalic-ointment-30g-removebg-preview-1628934039826.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 386,
+            "variation_option_id": 2,
+            "price": 144,
+            "regular_price": 150,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Ointment",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f422f53880fd24eca4cea7f",
+    "item_name": "Closalic 30",
+    "alias": "closalic-30-ointment",
+    "path": "medicine/prescription-medicine/closalic-30"
+},
+{
+    "generic_name": [
+        "Tamsulosin Hydrochloride 0.40mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/whatsapp-image-2023-03-27-at-13905-pm-removebg-preview-1679902851015.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 8182,
+            "variation_option_id": 2,
+            "price": 11.52,
+            "regular_price": 12,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 39028,
+            "variation_option_id": 34,
+            "price": 57.6,
+            "regular_price": 60,
+            "variation_option_name": "1 Strip = 5 Pcs",
+            "qty_in_pcs": 5,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 5 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 39029,
+            "variation_option_id": 25,
+            "price": 345.6,
+            "regular_price": 360,
+            "variation_option_name": "1 Box = 6 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 6 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "UniMed UniHealth Pharmaceuticals Ltd",
+    "manufacturers_alias": "unimed-unihealth-pharmaceuticals-ltd",
+    "sku_type": "Capsule",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f423d57880fd24eca4cea92",
+    "item_name": "Uromax",
+    "alias": "uromax",
+    "path": "medicine/prescription-medicine/uromax"
+},
+{
+    "generic_name": [
+        "Montelukast Sodium 10mg"
+    ],
+    "images": [
+        {
+            "img": "medicine/monalast-10mg-1629967384246.webp"
+        }
+    ],
+    "inventory": [
+        {
+            "discount": 4,
+            "item_variation_option_id": 438,
+            "variation_option_id": 2,
+            "price": 14.4,
+            "regular_price": 15,
+            "variation_option_name": "1 Pc",
+            "qty_in_pcs": 1,
+            "stock_qty": 0,
+            "capacity": "1 Pc"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 439,
+            "variation_option_id": 4,
+            "price": 144,
+            "regular_price": 150,
+            "variation_option_name": "1 Strip = 10 Pcs",
+            "qty_in_pcs": 10,
+            "stock_qty": 0,
+            "capacity": "1 Strip = 10 Pcs"
+        },
+        {
+            "discount": 4,
+            "item_variation_option_id": 440,
+            "variation_option_id": 11,
+            "price": 432,
+            "regular_price": 450,
+            "variation_option_name": "1 Box = 3 Strips",
+            "qty_in_pcs": 30,
+            "stock_qty": 0,
+            "capacity": "1 Box = 3 Strips"
+        }
+    ],
+    "discount": 4,
+    "manufacturers": "Ziska Pharmaceuticals Limited",
+    "manufacturers_alias": "ziska-pharmaceuticals-limited",
+    "sku_type": "Tablet",
+    "item_type": "medicine",
+    "is_showcasing": 0,
+    "is_available": true,
+    "_id": "5f42404e880fd24eca4cea97",
+    "item_name": "Monalast 10",
+    "alias": "monalast-10-tablet",
+    "path": "medicine/prescription-medicine/monalast-10"
+}
+]

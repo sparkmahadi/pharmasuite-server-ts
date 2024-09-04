@@ -1,0 +1,719 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2022-11-12-at-13954-pm-removebg-preview-1668238888711.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28137,
+                "variation_option_id": 2,
+                "price": 30,
+                "regular_price": 30,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "NIRAPAD ",
+        "manufacturers_alias": "nirapad",
+        "sku_type": "Surgical",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "612f14c482ae38098112ee67",
+        "item_name": "Cotton Wool 25g (NIRAPAD)",
+        "alias": "absorbent-cotton-wool-25g",
+        "path": "healthcare-product/surgical/cotton-wool-25g-nirapad"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/best-surgical-gauze-1633598903743.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28226,
+                "variation_option_id": 2,
+                "price": 10,
+                "regular_price": 10,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 13,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28229,
+                "variation_option_id": 53,
+                "price": 120,
+                "regular_price": 120,
+                "variation_option_name": "1 Box = 12 Pcs",
+                "qty_in_pcs": 12,
+                "stock_qty": 1,
+                "capacity": "1 Box = 12 Pcs"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "Joly Surgical and cosmetic",
+        "manufacturers_alias": "joly-surgical-and-cosmetic",
+        "sku_type": "Surgical",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "613c2fb828df930e9d177843",
+        "item_name": "Best Surgical Gauze",
+        "alias": "best-surgical-gauze-surgical",
+        "path": "healthcare-product/surgical/best-surgical-gauze"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2023-07-24-at-44255-pm-removebg-preview-1-1690195761824.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28889,
+                "variation_option_id": 2,
+                "price": 1.2,
+                "regular_price": 1.2,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 30426,
+                "variation_option_id": 95,
+                "price": 120,
+                "regular_price": 120,
+                "variation_option_name": "1 Box = 100 Pcs",
+                "qty_in_pcs": 100,
+                "stock_qty": 0,
+                "capacity": "1 Box = 100 Pcs"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "Mediscience Surgical",
+        "manufacturers_alias": "mediscience-surgical",
+        "sku_type": "Surgical",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "615400bf36fad42136dc5a27",
+        "item_name": "Alcohol Pad Curex",
+        "alias": "alcohol-pad-curex-surgical",
+        "path": "healthcare-product/surgical/alcohol-pad-curex"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/44-1633854908040.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28893,
+                "variation_option_id": 2,
+                "price": 7.5,
+                "regular_price": 7.5,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 10,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28894,
+                "variation_option_id": 95,
+                "price": 750,
+                "regular_price": 750,
+                "variation_option_name": "1 Box = 100 Pcs",
+                "qty_in_pcs": 100,
+                "stock_qty": 0,
+                "capacity": "1 Box = 100 Pcs"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "Mediscience Surgical",
+        "manufacturers_alias": "mediscience-surgical",
+        "sku_type": "HAND GLOVES",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6154484bf6147a2a34259db6",
+        "item_name": "Polythene Gloves",
+        "alias": "polythene-gloves-hand-gloves",
+        "path": "healthcare-product/surgical/polythene-gloves"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/roller-1634704714436.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 29008,
+                "variation_option_id": 2,
+                "price": 20,
+                "regular_price": 20,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 13,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BSMI",
+        "manufacturers_alias": "bsmi",
+        "sku_type": "Bandage",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "616f9c33a23e1d46f578a6a8",
+        "item_name": "Roller Bandage 4 inch (BSMI)",
+        "alias": "roller-bandage-4-inch-bsmi-bandage",
+        "path": "healthcare-product/surgical/roller-bandage-4-inch-bsmi"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2021-11-17-at-42623-pm-1639994521299.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 29009,
+                "variation_option_id": 2,
+                "price": 85,
+                "regular_price": 85,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "HA-MIM Surgical",
+        "manufacturers_alias": "ha-mim-surgical",
+        "sku_type": "Gloves",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "616fa021a23e1d46f578b315",
+        "item_name": "Comfit Surgical Gloves 7.5",
+        "alias": "comfit-surgical-gloves-75-gloves",
+        "path": "healthcare-product/surgical/comfit-surgical-gloves-75"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2021-11-17-at-42623-pm-1639994256958.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 29040,
+                "variation_option_id": 2,
+                "price": 65,
+                "regular_price": 65,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 50,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BP Life Science",
+        "manufacturers_alias": "bp-life-science",
+        "sku_type": "Gloves",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "617a970968e66b5827e5d783",
+        "item_name": "Comfit Hand Gloves 6.5 Inch",
+        "alias": "comfit-hand-gloves-65-inch-gloves",
+        "path": "healthcare-product/surgical/comfit-hand-gloves-65-inch"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2021-11-17-at-42623-pm-1639994338169.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 29041,
+                "variation_option_id": 2,
+                "price": 65,
+                "regular_price": 65,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 50,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BP Life Science",
+        "manufacturers_alias": "bp-life-science",
+        "sku_type": "Gloves",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "617a975c68e66b5827e5d888",
+        "item_name": "Comfit Hand Gloves 7 Inch",
+        "alias": "comfit-hand-gloves-7-inch-gloves",
+        "path": "healthcare-product/surgical/comfit-hand-gloves-7-inch"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2021-11-17-at-42623-pm-1639994432804.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 29042,
+                "variation_option_id": 2,
+                "price": 65,
+                "regular_price": 65,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 49,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BP Life Science",
+        "manufacturers_alias": "bp-life-science",
+        "sku_type": "Gloves",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "617a978168e66b5827e5d8be",
+        "item_name": "Comfit Hand Gloves 7.5 Inch",
+        "alias": "comfit-hand-gloves-75-inch-gloves",
+        "path": "healthcare-product/surgical/comfit-hand-gloves-75-inch"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/giga-cotton-wool-1644039245162.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38249,
+                "variation_option_id": 2,
+                "price": 180,
+                "regular_price": 180,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BSMI",
+        "manufacturers_alias": "bsmi",
+        "sku_type": "Surgical",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "61f93f30092d50742a4c43dd",
+        "item_name": "Giga Cotton Wool",
+        "alias": "giga-cotton-wool-surgical",
+        "path": "healthcare-product/surgical/giga-cotton-wool"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/neostrip-1646218375868.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38332,
+                "variation_option_id": 2,
+                "price": 2,
+                "regular_price": 2,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 17,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38333,
+                "variation_option_id": 16,
+                "price": 8,
+                "regular_price": 8,
+                "variation_option_name": "1 Strip = 4 Pcs",
+                "qty_in_pcs": 4,
+                "stock_qty": 4,
+                "capacity": "1 Strip = 4 Pcs"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38334,
+                "variation_option_id": 21,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "1 Box = 25 Strips",
+                "qty_in_pcs": 100,
+                "stock_qty": 0,
+                "capacity": "1 Box = 25 Strips"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BP Life Science",
+        "manufacturers_alias": "bp-life-science",
+        "sku_type": "Bandage",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "620b8e01054cd93d0dba36e2",
+        "item_name": "Neostrip",
+        "alias": "neostrip-bandage",
+        "path": "healthcare-product/surgical/neostrip"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/easy-droper-1646220479888.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38337,
+                "variation_option_id": 2,
+                "price": 5,
+                "regular_price": 5,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 115,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BP Life Science",
+        "manufacturers_alias": "bp-life-science",
+        "sku_type": "Droper single",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "620b93d0054cd93d0dbb4b3e",
+        "item_name": "Normal Easy Droper",
+        "alias": "easy-droper-drop",
+        "path": "healthcare-product/surgical/normal-easy-droper"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/saline-setget-well-1646802354954.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38364,
+                "variation_option_id": 2,
+                "price": 25,
+                "regular_price": 25,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 6,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "GETWELL Limited",
+        "manufacturers_alias": "getwell-limited",
+        "sku_type": "Saline",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "62147565454ec434b029fa03",
+        "item_name": "SALINE SET(Get well)",
+        "alias": "saline-setget-well-saline",
+        "path": "healthcare-product/surgical/saline-setget-well"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2021-12-08-at-160913-1645512239598.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38368,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": "180.00",
+                "regular_price": 180,
+                "stock_qty": 0,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "R.D.N Cotton & Surgical",
+        "manufacturers_alias": "r.d.n-cotton--and--surgical",
+        "sku_type": "Bandage",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "621486b7454ec434b02a333a",
+        "item_name": "Nirapad Roller Bandage 6 Inch",
+        "alias": "nirapad-roller-bandage-6-inch-bandage",
+        "path": "healthcare-product/surgical/nirapad-roller-bandage-6-inch"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2023-05-16-at-42411-pm-removebg-preview-1-1684236033716.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38408,
+                "variation_option_id": 2,
+                "price": 10,
+                "regular_price": 10,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38409,
+                "variation_option_id": 53,
+                "price": 120,
+                "regular_price": 120,
+                "variation_option_name": "1 Box = 12 Pcs",
+                "qty_in_pcs": 12,
+                "stock_qty": 0,
+                "capacity": "1 Box = 12 Pcs"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BSMI",
+        "manufacturers_alias": "bsmi",
+        "sku_type": "Bandage",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "621b689bc0c9041b7a063b2d",
+        "item_name": "Giga Roll Bandage 4\"",
+        "alias": "giga-roll-bandage-4-bandage",
+        "path": "healthcare-product/surgical/giga-roll-bandage-4"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2021-12-08-at-160913-1679473066401.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38418,
+                "variation_option_id": 9,
+                "price": 36,
+                "regular_price": 36,
+                "variation_option_name": "1 Bottle",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Bottle"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "HA-MIM Surgical",
+        "manufacturers_alias": "ha-mim-surgical",
+        "sku_type": "Surgical",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "621ca9e85175932fdf412cab",
+        "item_name": "Hydrogen Peroxide",
+        "alias": "hydrogen-peroxide-surgical",
+        "path": "healthcare-product/surgical/hydrogen-peroxide"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2021-12-08-at-160913-1646127678510.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38422,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": "100.00",
+                "regular_price": 100,
+                "stock_qty": 0,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "Golden bd Bazar",
+        "manufacturers_alias": "golden-bd-bazar",
+        "sku_type": "Mask",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "621deab9ea9b3d5c70afe15b",
+        "item_name": "Lady Mask",
+        "alias": "lady-mask-mask",
+        "path": "healthcare-product/surgical/lady-mask"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2021-12-08-at-160913-1646131461643.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38424,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": "8.00",
+                "regular_price": 8,
+                "stock_qty": 0,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38425,
+                "variation_option_id": 53,
+                "qty_in_pcs": 12,
+                "price": "96.00",
+                "regular_price": 96,
+                "stock_qty": 0,
+                "variation_option_name": "1 Box = 12 Pcs",
+                "capacity": "1 Box = 12 Pcs"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "SARKER TRADERS",
+        "manufacturers_alias": "sarker-traders",
+        "sku_type": "Surgical",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "621df95cea9b3d5c70b03925",
+        "item_name": "Roller Bandage 2 inch",
+        "alias": "roller-bandage-2-inch-surgical",
+        "path": "healthcare-product/surgical/roller-bandage-2-inch"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/bsmi-cotton-1-transformed-1647762469671.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38439,
+                "variation_option_id": 2,
+                "price": 170,
+                "regular_price": 170,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BSMI",
+        "manufacturers_alias": "bsmi",
+        "sku_type": "Surgical",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "622313e1eac45658e8f4e5ef",
+        "item_name": "BSMI Cotton Wool 200 gm",
+        "alias": "bsmi-cotton-wool-200-gm-surgical",
+        "path": "healthcare-product/surgical/bsmi-cotton-wool-200-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/bsmi-cotton-1-transformed-1647762441902.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38440,
+                "variation_option_id": 2,
+                "price": 90,
+                "regular_price": 90,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f1329d6b25db7f0973ac0a",
+        "cat_name": "Surgical product",
+        "manufacturers": "BSMI",
+        "manufacturers_alias": "bsmi",
+        "sku_type": "Surgical",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "622315abeac45658e8f4ecb6",
+        "item_name": "BSMI Cotton Wool 100 gm",
+        "alias": "bsmi-cotton-wool-100-gm-surgical",
+        "path": "healthcare-product/surgical/bsmi-cotton-wool-100-gm"
+    }
+]

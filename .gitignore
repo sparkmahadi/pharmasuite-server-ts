@@ -21,3 +21,5 @@ build/
 
 # Dependency directories
 bower_components/
+
+data/products/

@@ -1,0 +1,647 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/kool-shaving-foam-200-ml-1633408606881.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23098,
+                "variation_option_id": 111,
+                "price": 250,
+                "regular_price": 250,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "5f72eea24ff3e17a905c4ed6",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Shaving Foam",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fbffb4fa0e86fdc27d89e",
+        "item_name": "Kool Shaving Foam 200 ml",
+        "alias": "kool-shaving-foam-200-ml-shaving-foam",
+        "path": "healthcare-product/mens-products/kool-shaving-foam-200-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/kool-shaving-foam-400-ml-1633408822296.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23099,
+                "variation_option_id": 111,
+                "price": 330,
+                "regular_price": 330,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "5f72eea24ff3e17a905c4ed6",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Shaving Foam",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc0004fa0e86fdc27d89f",
+        "item_name": "Kool Shaving Foam 400 ml",
+        "alias": "kool-shaving-foam-400-ml-shaving-foam",
+        "path": "healthcare-product/mens-products/kool-shaving-foam-400-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/u-me-colors-condoms-1641641560574.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23525,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": "35.00",
+                "regular_price": 35,
+                "stock_qty": 0,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 30636,
+                "variation_option_id": 18,
+                "qty_in_pcs": 3,
+                "price": "105.00",
+                "regular_price": 105,
+                "stock_qty": 0,
+                "variation_option_name": "1 Strip = 3 Pcs",
+                "capacity": "1 Strip = 3 Pcs"
+            }
+        ],
+        "cat_id": "5f72eea24ff3e17a905c4ed6",
+        "manufacturers": "Social Marketing Company (SMC)",
+        "manufacturers_alias": "social-marketing-company-smc",
+        "sku_type": "Condom",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6010faf69b5d2105da0e20c0",
+        "item_name": "U & Me colors condoms",
+        "alias": "u-me-colors-condoms",
+        "path": "healthcare-product/mens-products/u-me-colors-condoms"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/garnier-men-50g-1633424275334.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28222,
+                "variation_option_id": 2,
+                "price": 375,
+                "regular_price": 375,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72eea24ff3e17a905c4ed6",
+        "manufacturers": "LOREAL Group",
+        "manufacturers_alias": "loreal-group",
+        "sku_type": "Face Wash",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "613c29dc28df930e9d1735bf",
+        "item_name": "Garnier Men AcnoFight",
+        "alias": "garnier-men-acnofight",
+        "path": "healthcare-product/mens-products/garnier-men-acnofight"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/condom-catheter-30-mm-1643449775889.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 32256,
+                "variation_option_id": 2,
+                "price": 50,
+                "regular_price": 50,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "HA-MIM Surgical",
+        "manufacturers_alias": "ha-mim-surgical",
+        "sku_type": "Catheter",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "61d6bfa30d94e50c99615aa6",
+        "item_name": "Condom Catheter L 30 MM",
+        "alias": "condom-catheter-30-mm-catheter",
+        "path": "healthcare-product/personal-care/condom-catheter-l-30-mm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/zayn-myza-ethic-18ml-1650777705822.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38532,
+                "variation_option_id": 2,
+                "price": 100,
+                "regular_price": 100,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72eea24ff3e17a905c4ed6",
+        "manufacturers": "ABCD",
+        "manufacturers_alias": "abcd",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "625bc9c7265d5250fa8f4f4f",
+        "item_name": "Zayn & Myza Ethic 18ml",
+        "alias": "zayn-myza-ethic-18ml-spray",
+        "path": "healthcare-product/mens-products/zayn-myza-ethic-18ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/zayn-myza-glams-18ml-1650777027100.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38533,
+                "variation_option_id": 2,
+                "price": 100,
+                "regular_price": 100,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72eea24ff3e17a905c4ed6",
+        "manufacturers": "ABCD",
+        "manufacturers_alias": "abcd",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "625bcbb5265d5250fa8f5777",
+        "item_name": "Zayn & Myza Glams 18ml",
+        "alias": "zayn-myza-glams-18ml-spray",
+        "path": "healthcare-product/mens-products/zayn-myza-glams-18ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/zayn-myza-flair-18ml-1650778204831.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38534,
+                "variation_option_id": 2,
+                "price": 100,
+                "regular_price": 100,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72eea24ff3e17a905c4ed6",
+        "manufacturers": "ABCD",
+        "manufacturers_alias": "abcd",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "625bcef7265d5250fa8f5f57",
+        "item_name": "Zayn & Myza Flair 18ml",
+        "alias": "zayn-myza-flair-18ml-spray",
+        "path": "healthcare-product/mens-products/zayn-myza-flair-18ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2022-02-05-at-121953-1650355346571.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "10.00",
+                "item_variation_option_id": 38544,
+                "variation_option_id": 2,
+                "price": 270,
+                "regular_price": 300,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 6,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61bed626aafc891b9cf00640",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "625e6d1f01412924c0152f41",
+        "item_name": "Kool Deodorant Body Spray ( Saint )",
+        "alias": "kool-deodorant-body-spray-saint-spray",
+        "path": "healthcare-product/deodorants/kool-deodorant-body-spray-saint-"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2022-09-09-at-94425-am-removebg-preview-1662700513266.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38785,
+                "variation_option_id": 40,
+                "price": 110,
+                "regular_price": 110,
+                "variation_option_name": "1 Box",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Box"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "GETWELL Limited",
+        "manufacturers_alias": "getwell-limited",
+        "sku_type": "DENTAL FLOSS",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "631accde80da692df9178fbe",
+        "item_name": "Getwell Floss Pick 50pcs",
+        "alias": "getwell-floss-pick-50pcs-dental-floss",
+        "path": "healthcare-product/personal-care/getwell-floss-pick-50pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2022-09-09-at-123346-pm-removebg-preview-1662706075324.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38789,
+                "variation_option_id": 40,
+                "price": 110,
+                "regular_price": 110,
+                "variation_option_name": "1 Box",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Box"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "GETWELL Limited",
+        "manufacturers_alias": "getwell-limited",
+        "sku_type": "Cotton buds",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "631ae1a880da692df917aeae",
+        "item_name": "Getwell Purified Cotton Buds 200Pcs",
+        "alias": "getwell-purified-cotton-buds-200pcs-cotton-buds",
+        "path": "healthcare-product/personal-care/getwell-purified-cotton-buds-200pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2022-09-10-at-112017-am-removebg-preview-1662787617696.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38792,
+                "variation_option_id": 2,
+                "price": 750,
+                "regular_price": 750,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Lotion",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "631c203480da692df91a273e",
+        "item_name": "Vaseline Intensive Care Cocoa Glow 400ml",
+        "alias": "vaseline-intensive-care-cocoa-glow-400ml-lotion",
+        "path": "healthcare-product/personal-care/vaseline-intensive-care-cocoa-glow-400ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2022-09-11-at-14434-pm-removebg-preview-1662882549615.webp"
+            },
+            {
+                "img": "products/whatsapp-image-2022-09-11-at-14836-pm-removebg-preview-1662882553431.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38794,
+                "variation_option_id": 2,
+                "price": 1840,
+                "regular_price": 1840,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "Crystal Pharmaceuticals Ltd.",
+        "manufacturers_alias": "crystal-pharmaceuticals-ltd.",
+        "sku_type": "Cream",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "631d941ea6cd3433e6b0cc57",
+        "item_name": "Fixderma Non Drying Cleanser 200g",
+        "alias": "fixderma-non-drying-cleanser-200g-cream",
+        "path": "healthcare-product/personal-care/fixderma-non-drying-cleanser-200g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2022-09-23-at-54941-pm-removebg-preview-1663933805542.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38817,
+                "variation_option_id": 2,
+                "price": 1290,
+                "regular_price": 1290,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "Dr. Rhazes ",
+        "manufacturers_alias": "dr.-rhazes",
+        "sku_type": "Gel",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "632d9db836b2bb6c266260df",
+        "item_name": "The Remedist Niacinamide PC & Zinc Face Serum 30ml",
+        "alias": "the-remedist-niacinamide-pc-zinc-face-serum-30ml-gel",
+        "path": "healthcare-product/personal-care/the-remedist-niacinamide-pc-zinc-face-serum-30ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/513xprmxgal-removebg-preview-1664007021391.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38820,
+                "variation_option_id": 2,
+                "price": 150,
+                "regular_price": 150,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "5f72eea24ff3e17a905c4ed6",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "632ebbd336b2bb6c2663e137",
+        "item_name": "Axe Signature Ticket 17 Ml",
+        "alias": "axe-signature-ticket-17-ml-spray",
+        "path": "healthcare-product/mens-products/axe-signature-ticket-17-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/51lilymc5ll-sy450--1664086682696.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38823,
+                "variation_option_id": 40,
+                "price": 1250,
+                "regular_price": 1250,
+                "variation_option_name": "1 Box",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Box"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "Revluk",
+        "manufacturers_alias": "revluk",
+        "sku_type": "Gel",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "632ff33536b2bb6c26668512",
+        "item_name": "Revtus Hair Serum 50 ml",
+        "alias": "revtus-hair-serum-50-ml-gel",
+        "path": "healthcare-product/personal-care/revtus-hair-serum-50-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/defoltd-1664097979496.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38824,
+                "variation_option_id": 2,
+                "price": 890,
+                "regular_price": 890,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "Valimusa",
+        "manufacturers_alias": "valimusa",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "63301f166ef5930793abcc34",
+        "item_name": "Klized Plus Shampoo",
+        "alias": "klized-plus-shampoo-shampoo",
+        "path": "healthcare-product/personal-care/klized-plus-shampoo"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/66016-bio-photoderm-creme-spf-50-v2-relaunch-28540d-1665203594410.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38853,
+                "variation_option_id": 13,
+                "price": 2200,
+                "regular_price": 2200,
+                "variation_option_name": "1 Tube",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Tube"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "UniMed UniHealth Pharmaceuticals Limited",
+        "manufacturers_alias": "unimed-unihealth-pharmaceuticals-limited",
+        "sku_type": "Cream",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6340fdf51b41131e02edc0e0",
+        "item_name": "Photoderm Creme SPF 50+ 40ml",
+        "alias": "photoderm-creme-spf-50plus-40ml-cream",
+        "path": "healthcare-product/personal-care/photoderm-creme-spf-50-40ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/rel-01-164-600x600-1665996665184.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38872,
+                "variation_option_id": 2,
+                "price": 2000,
+                "regular_price": 2000,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "Bionike",
+        "manufacturers_alias": "bionike",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "634d17d9d37f9e40a56e2fae",
+        "item_name": "BIONIKE DEFENCE KS Shampoo Anticaduta 200ml",
+        "alias": "bionike-defence-ks-shampoo-anticaduta-200ml-shampoo",
+        "path": "healthcare-product/personal-care/bionike-defence-ks-shampoo-anticaduta-200ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2022-10-17-at-42948-pm-removebg-preview-1666002702794.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 38873,
+                "variation_option_id": 2,
+                "price": 950,
+                "regular_price": 950,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61bed664aafc891b9cf00646",
+        "cat_name": "Men's product",
+        "manufacturers": "Mum International",
+        "manufacturers_alias": "mum-international",
+        "sku_type": "Face Wash",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "634d2f7bd37f9e40a56ea6c8",
+        "item_name": "Saliot Foaming Face Wash 100ml",
+        "alias": "saliot-foaming-face-wash-100ml-face-wash",
+        "path": "healthcare-product/personal-care/saliot-foaming-face-wash-100ml"
+    }
+]

@@ -1,0 +1,641 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/berry-powerds-1631955946866.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28681,
+                "variation_option_id": 2,
+                "price": 95,
+                "regular_price": 95,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Organic Food",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a37aba5a0f53d953c9eb",
+        "item_name": "Berry Powder 100gm",
+        "alias": "berry-powder-100gm-powder",
+        "path": "healthcare-product/natural-food/berry-powder-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/black-mustard-powder-100gm-1631958386862.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28682,
+                "variation_option_id": 2,
+                "price": 80,
+                "regular_price": 80,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a3eaba5a0f53d953cbf1",
+        "item_name": "Black Mustard Powder 100gm",
+        "alias": "black-mustard-powder-100gm-powder",
+        "path": "healthcare-product/natural-food/black-mustard-powder-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/black-pepper-gol-morich-powder-100gm-1631956590796.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28683,
+                "variation_option_id": 2,
+                "price": 160,
+                "regular_price": 160,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a442ba5a0f53d953cd90",
+        "item_name": "Black Pepper (Gol Morich) Powder 100gm",
+        "alias": "black-pepper-gol-morich-powder-100gm-powder",
+        "path": "healthcare-product/natural-food/black-pepper-gol-morich-powder-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/black-seed-honey-250gm-1631956871032.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28684,
+                "variation_option_id": 2,
+                "price": 410,
+                "regular_price": 410,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Honey",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a492ba5a0f53d953d028",
+        "item_name": "Black Seed Honey 250gm",
+        "alias": "black-seed-honey-250gm-honey",
+        "path": "healthcare-product/natural-food/black-seed-honey-250gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/black-seed-honey-100--1631956969075.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28685,
+                "variation_option_id": 2,
+                "price": 135,
+                "regular_price": 135,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Honey",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a4bdba5a0f53d953d223",
+        "item_name": "Black Seed Honey 100gm",
+        "alias": "black-seed-honey-100gm-honey",
+        "path": "healthcare-product/natural-food/black-seed-honey-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/black-seed-oil-100--1631957189597.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28686,
+                "variation_option_id": 2,
+                "price": 220,
+                "regular_price": 220,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Oil",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a50cba5a0f53d953d424",
+        "item_name": "Black Seed Oil 100ml",
+        "alias": "black-seed-oil-100ml-oil",
+        "path": "healthcare-product/natural-food/black-seed-oil-100ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/black-seed-powder-100gm-1631957820620.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28687,
+                "variation_option_id": 2,
+                "price": 80,
+                "regular_price": 80,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a53eba5a0f53d953d505",
+        "item_name": "Black Seed Powder 100gm",
+        "alias": "black-seed-powder-100gm-powder",
+        "path": "healthcare-product/natural-food/black-seed-powder-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/black-seed-100gmpng-1631958491494.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28688,
+                "variation_option_id": 2,
+                "price": 70,
+                "regular_price": 70,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 4,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Organic Food",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a587ba5a0f53d953d64b",
+        "item_name": "Black Seed 100gm",
+        "alias": "black-seed-100gm-organic-food",
+        "path": "healthcare-product/natural-food/black-seed-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/black-seed-250gmpng-1631958642276.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28689,
+                "variation_option_id": 2,
+                "price": 165,
+                "regular_price": 165,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Organic Food",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a5c8ba5a0f53d953d787",
+        "item_name": "Black Seed 250gm",
+        "alias": "black-seed-250gm-organic-food",
+        "path": "healthcare-product/natural-food/black-seed-250gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/bragg-organic-apple-cider-vinegar-raw-473-ml-1631957506900.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28691,
+                "variation_option_id": 2,
+                "price": 529,
+                "regular_price": 529,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Vineger",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a63cba5a0f53d953d923",
+        "item_name": "Bragg Organic Apple Cider Vinegar (Raw) 473 ml",
+        "alias": "bragg-organic-apple-cider-vinegar-raw-473-ml-vineger",
+        "path": "healthcare-product/natural-food/bragg-organic-apple-cider-vinegar-raw-473-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/bragg-organic-apple-cider-vinegar-raw-946-1631957730456.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28692,
+                "variation_option_id": 2,
+                "price": 950,
+                "regular_price": 950,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Vineger",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a67aba5a0f53d953d9f0",
+        "item_name": "Bragg Organic Apple Cider Vinegar (Raw) 946 ml",
+        "alias": "bragg-organic-apple-cider-vinegar-raw-946-ml-vineger",
+        "path": "healthcare-product/natural-food/bragg-organic-apple-cider-vinegar-raw-946-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/cardamom-elach-powder-100gm-1631957977008.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28693,
+                "variation_option_id": 2,
+                "price": 295,
+                "regular_price": 295,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a6abba5a0f53d953daba",
+        "item_name": "Cardamom (Elach) Powder 100gm",
+        "alias": "cardamom-elach-powder-100gm-powder",
+        "path": "healthcare-product/natural-food/cardamom-elach-powder-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/castor-oil-200-ml-1631958773094.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28694,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": "210.00",
+                "regular_price": 210,
+                "stock_qty": 2,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d43b1137005564c258c9f6",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Oil",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a6ecba5a0f53d953db67",
+        "item_name": "Castor Oil 200 ml",
+        "alias": "castor-oil-200-ml-oil",
+        "path": "healthcare-product/organic-oil/castor-oil-200-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/chia-seed-100gm-1631959306525.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28695,
+                "variation_option_id": 2,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Organic Food",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a71cba5a0f53d953dbe6",
+        "item_name": "Chia Seed 100gm",
+        "alias": "chia-seed-100gm-organic-food",
+        "path": "healthcare-product/natural-food/chia-seed-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/chirota-powder-100gm-1631959209835.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28696,
+                "variation_option_id": 2,
+                "price": 85,
+                "regular_price": 85,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a757ba5a0f53d953dd04",
+        "item_name": "Chirota Powder 100gm",
+        "alias": "chirota-powder-100gm-powder",
+        "path": "healthcare-product/natural-food/chirota-powder-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1631959726879.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28703,
+                "variation_option_id": 2,
+                "price": 90,
+                "regular_price": 90,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a931ba5a0f53d953e484",
+        "item_name": "Cinnamon (Daruchini) Powder 100gm",
+        "alias": "cinnamon-daruchini-powder-100gm-powder",
+        "path": "healthcare-product/natural-food/cinnamon-daruchini-powder-100gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dates-200-1631962003835.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28704,
+                "variation_option_id": 2,
+                "price": 110,
+                "regular_price": 110,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Pickles",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145a9f7ba5a0f53d953e7a0",
+        "item_name": "Dates Chutney 200gm",
+        "alias": "dates-chutney-200gm-pickles",
+        "path": "healthcare-product/natural-food/dates-chutney-200gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dates-400-1631962114695.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28705,
+                "variation_option_id": 2,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Pickles",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145aa24ba5a0f53d953e891",
+        "item_name": "Dates Chutney 400gm",
+        "alias": "dates-chutney-400gm-pickles",
+        "path": "healthcare-product/natural-food/dates-chutney-400gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/flaxseed-oil-200mlpng-1631960918682.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28707,
+                "variation_option_id": 2,
+                "price": 180,
+                "regular_price": 180,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Oil",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145aa8cba5a0f53d953ea9c",
+        "item_name": "Flaxseed (Tishi) Oil 200 ml",
+        "alias": "flaxseed-tishi-oil-200-ml-oil",
+        "path": "healthcare-product/natural-food/flaxseed-tishi-oil-200-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/flour-made-of-barley-200gm-1631960118077.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28708,
+                "variation_option_id": 2,
+                "price": 65,
+                "regular_price": 65,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 11,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61b9d5edc407792bd45399ec",
+        "cat_name": "Natural Food",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145aaf0ba5a0f53d953ec75",
+        "item_name": "Barley Flour 200gm",
+        "alias": "flour-made-of-barley-200gm-powder",
+        "path": "healthcare-product/natural-food/barley-flour-200gm"
+    }
+]

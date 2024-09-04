@@ -1,0 +1,642 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/maltova-400gm-bib-1633580673776.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22731,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": "345.00",
+                "regular_price": 345,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "GlaxoSmithKline Bangladesh Limited",
+        "manufacturers_alias": "glaxosmithkline-bangladesh-limited",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fb1ebd798c57adc7d4148",
+        "item_name": "MALTOVA 400GM BIB",
+        "alias": "maltova-400gm-bib",
+        "path": "healthcare-product/family-nutation/maltova-400gm-bib"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/7-1633933494296.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22732,
+                "variation_option_id": 111,
+                "price": 585,
+                "regular_price": 585,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "GlaxoSmithKline Bangladesh Limited",
+        "manufacturers_alias": "glaxosmithkline-bangladesh-limited",
+        "sku_type": "Horlicks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fb1f0d798c57adc7d4149",
+        "item_name": "HORLICKS MOTHER'S PLUS 350G",
+        "alias": "horlicks-mothers-plus-350g-horlicks",
+        "path": "healthcare-product/family-nutation/horlicks-mothers-plus-350g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/WOMEN-HORLICKS-400-GM-JAR-1611641453355.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "6.00",
+                "item_variation_option_id": 22756,
+                "variation_option_id": 111,
+                "price": 460.6,
+                "regular_price": 490,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "GlaxoSmithKline Bangladesh Limited",
+        "manufacturers_alias": "glaxosmithkline-bangladesh-limited",
+        "sku_type": "Horlicks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fb272d798c57adc7d4161",
+        "item_name": "WOMEN HORLICKS 400 GM JAR",
+        "alias": "women-horlicks-400-gm-jar",
+        "path": "healthcare-product/family-nutation/women-horlicks-400-gm-jar"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/BOLT-400-GM-1611642312623.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22881,
+                "variation_option_id": 111,
+                "price": 126,
+                "regular_price": 126,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Social Marketing Company (SMC)",
+        "manufacturers_alias": "social-marketing-company-smc",
+        "sku_type": "Glucose",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fb5cdb6cba055d4c7549d",
+        "item_name": "Bolt 400 gm",
+        "alias": "bolt-400-gm-glucose",
+        "path": "healthcare-product/family-nutation/bolt-400-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/marks-active-school-400-gm-1633493489882.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23247,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": "330.00",
+                "regular_price": 330,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc2b54fa0e86fdc27d932",
+        "item_name": "Marks Active School 400 gm",
+        "alias": "marks-active-school-400-gm-milk-powder",
+        "path": "healthcare-product/family-nutation/marks-active-school-400-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/marks-400gm-1633493735251.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23248,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": "215.00",
+                "regular_price": 215,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc2ba4fa0e86fdc27d933",
+        "item_name": "Marks 400gm",
+        "alias": "marks-400gm-milk-powder",
+        "path": "healthcare-product/family-nutation/marks-400gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/marks-active-school-2-in-1-400gm-1633493909652.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23249,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": "350.00",
+                "regular_price": 350,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc2c04fa0e86fdc27d934",
+        "item_name": "Marks Active School 2 in 1 400gm",
+        "alias": "marks-active-school-2-in-1-400gm-milk-powder",
+        "path": "healthcare-product/family-nutation/marks-active-school-2-in-1-400gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/whatsapp-image-2023-01-08-at-120051-pm-removebg-preview-1673157755152.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23251,
+                "variation_option_id": 111,
+                "price": 1400,
+                "regular_price": 1400,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc2c94fa0e86fdc27d936",
+        "item_name": "Marks Diabetic Milk 400gm",
+        "alias": "marks-diabetic-milk-400gm-milk-powder",
+        "path": "healthcare-product/family-nutation/marks-diabetic-milk-400gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/marks-diet-400gm-1633494448902.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23252,
+                "variation_option_id": 111,
+                "price": 425,
+                "regular_price": 425,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc2ce4fa0e86fdc27d937",
+        "item_name": "Marks Diet 400gm",
+        "alias": "marks-diet-400gm-milk-powder",
+        "path": "healthcare-product/family-nutation/marks-diet-400gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/marks-fcmp-1kg-1633494654048.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23253,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": "890.00",
+                "regular_price": 890,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc2d54fa0e86fdc27d938",
+        "item_name": "Marks Fcmp 1Kg",
+        "alias": "marks-fcmp-1kg-milk-powder",
+        "path": "healthcare-product/family-nutation/marks-fcmp-1kg"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/marks-gold-milk-400gm-1633494832516.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23254,
+                "variation_option_id": 111,
+                "price": 425,
+                "regular_price": 425,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc2da4fa0e86fdc27d939",
+        "item_name": "Marks Gold  Milk 400gm",
+        "alias": "marks-gold-milk-400gm-milk-powder",
+        "path": "healthcare-product/family-nutation/marks-gold-milk-400gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/marks-young-star-400gm-1633495874458.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23255,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": "350.00",
+                "regular_price": 350,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc2df4fa0e86fdc27d93a",
+        "item_name": "Marks Young Star 400gm",
+        "alias": "marks-young-star-400gm-milk-powder",
+        "path": "healthcare-product/family-nutation/marks-young-star-400gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/funmix-295gm-1611646663851.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23481,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": "300.00",
+                "regular_price": 300,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "M/S.NOZEBA ENTERPRISE",
+        "manufacturers_alias": "m-or-s.nozeba-enterprise",
+        "sku_type": "Coockies",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc6cc4fa0e86fdc27da20",
+        "item_name": "Funmix 295 gm",
+        "alias": "funmix-295-gm-coockies",
+        "path": "healthcare-product/family-nutation/funmix-295-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/lexus-25-free-225-gm-1611646788405.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23508,
+                "variation_option_id": 111,
+                "qty_in_pcs": 1,
+                "price": "250.00",
+                "regular_price": 250,
+                "stock_qty": 0,
+                "variation_option_name": "Pc",
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "M/S.NOZEBA ENTERPRISE",
+        "manufacturers_alias": "m-or-s.nozeba-enterprise",
+        "sku_type": "Coockies",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc7484fa0e86fdc27da3b",
+        "item_name": "Lexus 25% Free 225 gm",
+        "alias": "lexus-25-free-225-gm-coockies",
+        "path": "healthcare-product/family-nutation/lexus-25-free-225-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/6-1633933303343.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27940,
+                "variation_option_id": 2,
+                "price": 10,
+                "regular_price": 10,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "611379d3667cbe36769d19ab",
+        "item_name": "GlucoMax D 25gm",
+        "alias": "glaxose-d-25gm",
+        "path": "healthcare-product/family-nutation/glucomax-d-25gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/9-1633933740968.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27959,
+                "variation_option_id": 15,
+                "price": 780,
+                "regular_price": 780,
+                "variation_option_name": "1 Pot",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pot"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Unicorn distribution Ltd",
+        "manufacturers_alias": "unicorn-distribution-ltd",
+        "sku_type": "Horlicks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "611b4fab28fae12ef7579b71",
+        "item_name": "Standard Horlicks Jar 1000 gm",
+        "alias": "standard-horlicks-jar-1000-gm-horlicks",
+        "path": "healthcare-product/family-nutation/standard-horlicks-jar-1000-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/10-1633933871554.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27960,
+                "variation_option_id": 15,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "1 Pot",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pot"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Unicorn distribution Ltd",
+        "manufacturers_alias": "unicorn-distribution-ltd",
+        "sku_type": "Horlicks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "611b5c2828fae12ef7579bc9",
+        "item_name": "HORLICKS JAR 250-GM",
+        "alias": "standard-horlicks-jar-250-gm-horlicks",
+        "path": "healthcare-product/family-nutation/horlicks-jar-250-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/11-1633934009424.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27961,
+                "variation_option_id": 15,
+                "price": 420,
+                "regular_price": 420,
+                "variation_option_name": "1 Pot",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pot"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Unicorn distribution Ltd",
+        "manufacturers_alias": "unicorn-distribution-ltd",
+        "sku_type": "Horlicks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "611b5efc28fae12ef7579bdb",
+        "item_name": "Standard Horlicks Jar 500 gm",
+        "alias": "standard-horlicks-jar-500-gm-horlicks",
+        "path": "healthcare-product/family-nutation/standard-horlicks-jar-500-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1632998500021.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27962,
+                "variation_option_id": 15,
+                "qty_in_pcs": 1,
+                "price": "480.00",
+                "regular_price": 480,
+                "stock_qty": 0,
+                "variation_option_name": "1 Pot",
+                "capacity": "1 Pot"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "Unicorn distribution Ltd",
+        "manufacturers_alias": "unicorn-distribution-ltd",
+        "sku_type": "Horlicks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "611b6c2328fae12ef7579c44",
+        "item_name": "Horlicks Women's Plus 400 gm Jar",
+        "alias": "horlicks-womens-plus-400-gm-jar-horlicks",
+        "path": "healthcare-product/family-nutation/horlicks-womens-plus-400-gm-jar"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/22-1633947831553.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28082,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": "270.00",
+                "regular_price": 270,
+                "stock_qty": 2,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61f90bd6a7169e720d9b4d2c",
+        "cat_name": "Family Nutrition",
+        "manufacturers": "J K Sales and Distribution (Nestle).",
+        "manufacturers_alias": "j-k-sales-and-distribution-nestle.",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "612611242aaa6745983f7f64",
+        "item_name": "Nestle Milo Active go 250g",
+        "alias": "nestle-milo-active-go-250g-powder",
+        "path": "healthcare-product/family-nutation/nestle-milo-active-go-250g"
+    }
+]

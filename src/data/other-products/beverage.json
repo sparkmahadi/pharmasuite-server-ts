@@ -1,0 +1,667 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/star-ship-chocolate-milk-1633496081163.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 23257,
+                "variation_option_id": 111,
+                "price": 30,
+                "regular_price": 30,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Shake",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc2ea4fa0e86fdc27d93c",
+        "item_name": "Star Ship Chocolate Milk",
+        "alias": "star-ship-chocolate-milk-milk-shake",
+        "path": "healthcare-product/beverages/star-ship-chocolate-milk"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/foxs-crystal-clear-tin-180gm-1611646653409.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "10.71",
+                "item_variation_option_id": 23479,
+                "variation_option_id": 111,
+                "price": 250.01,
+                "regular_price": 280,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 5,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "M/S.NOZEBA ENTERPRISE",
+        "manufacturers_alias": "m-or-s.nozeba-enterprise",
+        "sku_type": "Candy",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fc6c14fa0e86fdc27da1e",
+        "item_name": "Fox's Fruits Tin 180gm",
+        "alias": "foxs-fruits-tin-180gm-candy",
+        "path": "healthcare-product/beverages/foxs-fruits-tin-180gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/5-1633948453916.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27527,
+                "variation_option_id": 2,
+                "price": 5,
+                "regular_price": 5,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "J K Sales and Distribution (Nestle).",
+        "manufacturers_alias": "j-k-sales-and-distribution-nestle.",
+        "sku_type": "Coffee",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "605c5a747e173a7546a92a59",
+        "item_name": "Nescafe classic 1 g",
+        "alias": "nescafe-classic-15-g-coffee",
+        "path": "healthcare-product/beverages/nescafe-classic-1-g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/smc-plus-lemon-1629208674609.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27529,
+                "variation_option_id": 2,
+                "price": 35,
+                "regular_price": 35,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 114,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "Social Marketing Company (SMC)",
+        "manufacturers_alias": "social-marketing-company-smc",
+        "sku_type": "Soft Drinks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "606068eab5f7d1442c172113",
+        "item_name": "SMC Plus (Lemon)",
+        "alias": "smc-plus-lemon",
+        "path": "healthcare-product/beverages/smc-plus-lemon"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/smc-plus-orange-1629208944200.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27530,
+                "variation_option_id": 2,
+                "price": 35,
+                "regular_price": 35,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 877,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "Social Marketing Company (SMC)",
+        "manufacturers_alias": "social-marketing-company-smc",
+        "sku_type": "Soft Drinks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "60606b38b5f7d1442c172138",
+        "item_name": "SMC Plus (Orange)",
+        "alias": "smc-plus-orange-soft-drink",
+        "path": "healthcare-product/beverages/smc-plus-orange"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/eno-lemon-1643100411848.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27560,
+                "variation_option_id": 2,
+                "price": 15,
+                "regular_price": 15,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 5,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "GlaxoSmithKline Bangladesh Limited",
+        "manufacturers_alias": "glaxosmithkline-bangladesh-limited",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "607aa65790b9ff68fa67d7f9",
+        "item_name": "ENO Lemon",
+        "alias": "eno-lemon",
+        "path": "healthcare-product/beverages/eno-lemon"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/universal-tasty-mango-hazmi-1633953697180.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27695,
+                "variation_option_id": 2,
+                "price": 0.5,
+                "regular_price": 0.5,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27696,
+                "variation_option_id": 22,
+                "price": 3,
+                "regular_price": 3,
+                "variation_option_name": "1 Strip = 6 Pcs",
+                "qty_in_pcs": 6,
+                "stock_qty": 0,
+                "capacity": "1 Strip = 6 Pcs"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27697,
+                "variation_option_id": 37,
+                "price": 60,
+                "regular_price": 60,
+                "variation_option_name": "1 Box = 20 Strips",
+                "qty_in_pcs": 120,
+                "stock_qty": 0,
+                "capacity": "1 Box = 20 Strips"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "Universal Food Ltd",
+        "manufacturers_alias": "universal-food-ltd",
+        "sku_type": "Tablet",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "60bcb0e8fec2205e57768f6d",
+        "item_name": "Universal Tasty Mango Hazmi",
+        "alias": "universal-tasty-mango-hazmi-tablet",
+        "path": "healthcare-product/beverages/universal-tasty-mango-hazmi"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/universal-tasty-isabgul-1633953540131.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27698,
+                "variation_option_id": 2,
+                "price": 5,
+                "regular_price": 5,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 27699,
+                "variation_option_id": 44,
+                "price": 100,
+                "regular_price": 100,
+                "variation_option_name": "1 Box = 20 Pcs",
+                "qty_in_pcs": 20,
+                "stock_qty": 0,
+                "capacity": "1 Box = 20 Pcs"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "Universal Food Ltd",
+        "manufacturers_alias": "universal-food-ltd",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "60bcb28afec2205e57768fa4",
+        "item_name": "Universal Tasty Isabgul",
+        "alias": "universal-tasty-isabgul-powder",
+        "path": "healthcare-product/beverages/universal-tasty-isabgul"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/3-1633948124038.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28087,
+                "variation_option_id": 2,
+                "price": 20,
+                "regular_price": 20,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28088,
+                "variation_option_id": 116,
+                "price": 460,
+                "regular_price": 460,
+                "variation_option_name": "1 Box = 23 Pcs",
+                "qty_in_pcs": 23,
+                "stock_qty": 0,
+                "capacity": "1 Box = 23 Pcs"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "Nestle Bangladesh Ltd.",
+        "manufacturers_alias": "nestle-bangladesh-ltd.",
+        "sku_type": "Candy",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "612622a42aaa6745983fd52c",
+        "item_name": "Polo Mint Hole 15",
+        "alias": "polo-mint-hole-15",
+        "path": "healthcare-product/beverages/polo-mint-hole-15"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/coffee-mate-1-1631094815773.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28192,
+                "variation_option_id": 2,
+                "price": 10,
+                "regular_price": 10,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "J K Sales and Distribution (Nestle).",
+        "manufacturers_alias": "j-k-sales-and-distribution-nestle.",
+        "sku_type": "Coffee",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6138887bd1ca622c81ba4c45",
+        "item_name": "Nestle Coffee Mate 5g",
+        "alias": "nestle-coffee-mate-5g",
+        "path": "healthcare-product/beverages/nestle-coffee-mate-5g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/creamy-latte-1-1631096742745.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28194,
+                "variation_option_id": 2,
+                "price": 15,
+                "regular_price": 15,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 31,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "J K Sales and Distribution (Nestle).",
+        "manufacturers_alias": "j-k-sales-and-distribution-nestle.",
+        "sku_type": "Coffee",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "61389003d1ca622c81ba7c71",
+        "item_name": "Nescafe Creamy Latte 18g",
+        "alias": "nescafe-creamy-latte-18g",
+        "path": "healthcare-product/beverages/nescafe-creamy-latte-18g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/radigel-l-1-1631156715327.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28197,
+                "variation_option_id": 2,
+                "price": 415,
+                "regular_price": 415,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "Radiant Pharmaceuticals Ltd.",
+        "manufacturers_alias": "radiant-pharmaceuticals-ltd.",
+        "sku_type": "Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "61397ddc36944659420a2829",
+        "item_name": "Radigel-L",
+        "alias": "radigel-l-powder",
+        "path": "healthcare-product/beverages/radigel-l"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/premium-black-tea-250gm-1631964637106.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28747,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": "160.00",
+                "regular_price": 160,
+                "stock_qty": 3,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "Khaas Food",
+        "manufacturers_alias": "khaas-food",
+        "sku_type": "Tea",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "6145b383ba5a0f53d9541383",
+        "item_name": "Premium Black Tea 250 gm",
+        "alias": "premium-black-tea-250-gm-tea",
+        "path": "healthcare-product/beverages/premium-black-tea-250-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/nescafe-3-in-1-10pcs-1633957842596.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28891,
+                "variation_option_id": 40,
+                "qty_in_pcs": 1,
+                "price": "100.00",
+                "regular_price": 100,
+                "stock_qty": 1,
+                "variation_option_name": "1 Box",
+                "capacity": "1 Box"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "Nestle Bangladesh Ltd.",
+        "manufacturers_alias": "nestle-bangladesh-ltd.",
+        "sku_type": "Coffee",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "615415c836fad42136dccba7",
+        "item_name": "Nescafe 3 in 1 (10pcs)",
+        "alias": "nescafe-3-in-1-10pcs-coffee",
+        "path": "healthcare-product/beverages/nescafe-3-in-1-10pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/cocacola-original-taste-can-250-ml-1634444541348.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28991,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": "40.00",
+                "regular_price": 40,
+                "stock_qty": 6,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "International Beverages Private Ltd",
+        "manufacturers_alias": "international-beverages-private-ltd",
+        "sku_type": "Soft Drinks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "616aa0c33661652c5653dda6",
+        "item_name": "CocaCola Original Taste Can 250 ml",
+        "alias": "soft-drinks",
+        "path": "healthcare-product/beverages/cocacola-original-taste-can-250-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/cocacola-original-taste-250-ml-1634446837693.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28992,
+                "variation_option_id": 2,
+                "price": 25,
+                "regular_price": 25,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 17,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "International Beverages Private Ltd",
+        "manufacturers_alias": "international-beverages-private-ltd",
+        "sku_type": "Soft Drinks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "616aa2273661652c5653e114",
+        "item_name": "CocaCola Original Taste 250 ml",
+        "alias": "cocacola-original-taste-250-ml-soft-drinks",
+        "path": "healthcare-product/beverages/cocacola-original-taste-250-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/cocacola-diet-coke-can-250-ml-1634446176723.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28993,
+                "variation_option_id": 2,
+                "price": 40,
+                "regular_price": 40,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 36,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "cat_name" : "Beverages",
+        "manufacturers": "International Beverages Private Ltd",
+        "manufacturers_alias": "international-beverages-private-ltd",
+        "sku_type": "Soft Drinks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "616aa3d33661652c5653e4b4",
+        "item_name": "CocaCola No Sugar Diet Coke Can 250 ml",
+        "alias": "cocacola-no-sugar-diet-coke-can-250-ml-soft-drinks",
+        "path": "healthcare-product/beverages/cocacola-no-sugar-diet-coke-can-250-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/cocacola-zero-sugar-can-250-ml-1634446331762.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28994,
+                "variation_option_id": 2,
+                "price": 40,
+                "regular_price": 40,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 56,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "International Beverages Private Ltd",
+        "manufacturers_alias": "international-beverages-private-ltd",
+        "sku_type": "Soft Drinks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "616aa4443661652c5653e602",
+        "item_name": "CocaCola Zero Sugar Can 250 ml",
+        "alias": "cocacola-zero-sugar-can-250-ml-soft-drinks",
+        "path": "healthcare-product/beverages/cocacola-zero-sugar-can-250-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/cocacola-original-taste-250-ml-1634446525898.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28995,
+                "variation_option_id": 2,
+                "qty_in_pcs": 1,
+                "price": "30.00",
+                "regular_price": 30,
+                "stock_qty": 1,
+                "variation_option_name": "1 Pc",
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "International Beverages Private Ltd",
+        "manufacturers_alias": "international-beverages-private-ltd",
+        "sku_type": "Soft Drinks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "616aa5dd3661652c5653e92b",
+        "item_name": "CocaCola Original Taste 400 ml",
+        "alias": "cocacola-original-taste-400-ml-soft-drinks",
+        "path": "healthcare-product/beverages/cocacola-original-taste-400-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/cocacola-original-taste-600-ml-1634447241739.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 28996,
+                "variation_option_id": 2,
+                "price": 40,
+                "regular_price": 40,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 35,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4301937005564c25873dc",
+        "manufacturers": "International Beverages Private Ltd",
+        "manufacturers_alias": "international-beverages-private-ltd",
+        "sku_type": "Soft Drinks",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "616aa6593661652c5653e9e6",
+        "item_name": "CocaCola Original Taste 600 ml",
+        "alias": "cocacola-original-taste-600-ml-soft-drinks",
+        "path": "healthcare-product/beverages/cocacola-original-taste-600-ml"
+    }
+]

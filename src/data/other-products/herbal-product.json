@@ -1,0 +1,779 @@
+[
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/ICTURN-225ML-1611384424672.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19791,
+                "variation_option_id": 2,
+                "price": 96,
+                "regular_price": 100,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc66daa276928204cf8cd",
+        "item_name": "Icturn 225 ml",
+        "alias": "icturn-225-ml-syrup",
+        "path": "medicine/prescription-medicine/icturn-225-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631591408139.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19792,
+                "variation_option_id": 2,
+                "price": 168,
+                "regular_price": 175,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc671aa276928204cf8ce",
+        "item_name": "Icturn 450 ml",
+        "alias": "icturn-450-ml-syrup",
+        "path": "medicine/prescription-medicine/icturn-450-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/whatsapp-image-2023-02-04-at-35036-pm-removebg-preview-1675504336978.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19793,
+                "variation_option_id": 2,
+                "price": 96,
+                "regular_price": 100,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc676aa276928204cf8cf",
+        "item_name": "Jernide 100 ml",
+        "alias": "jernide-100-ml-syrup",
+        "path": "medicine/prescription-medicine/jernide-100-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631592380970.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19794,
+                "variation_option_id": 2,
+                "price": 259.2,
+                "regular_price": 270,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc67baa276928204cf8d0",
+        "item_name": "Jinsant 450 ml",
+        "alias": "jinsant-450-ml-syrup",
+        "path": "medicine/prescription-medicine/jinsant-450-ml"
+    },
+    {
+        "generic_name": [
+            "Black Cohosh 40mg"
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631592688511.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19795,
+                "variation_option_id": 2,
+                "price": 5.76,
+                "regular_price": 6,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 30,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": 4,
+                "item_variation_option_id": 27996,
+                "variation_option_id": 22,
+                "price": 34.56,
+                "regular_price": 36,
+                "variation_option_name": "1 Strip = 6 Pcs",
+                "qty_in_pcs": 6,
+                "stock_qty": 5,
+                "capacity": "1 Strip = 6 Pcs"
+            },
+            {
+                "discount": 4,
+                "item_variation_option_id": 27997,
+                "variation_option_id": 10,
+                "price": 172.8,
+                "regular_price": 180,
+                "variation_option_name": "1 Box = 5 Strips",
+                "qty_in_pcs": 30,
+                "stock_qty": 1,
+                "capacity": "1 Box = 5 Strips"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Capsule",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc680aa276928204cf8d1",
+        "item_name": "Ladica 40",
+        "alias": "ladica-40-capsule",
+        "path": "medicine/prescription-medicine/ladica-40"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631594115676.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19796,
+                "variation_option_id": 2,
+                "price": 40.32,
+                "regular_price": 42,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": 4,
+                "item_variation_option_id": 39282,
+                "variation_option_id": 16,
+                "price": 161.28,
+                "regular_price": 168,
+                "variation_option_name": "1 Strip = 4 Pcs",
+                "qty_in_pcs": 4,
+                "stock_qty": 0,
+                "capacity": "1 Strip = 4 Pcs"
+            },
+            {
+                "discount": 4,
+                "item_variation_option_id": 39283,
+                "variation_option_id": 10,
+                "price": 806.4,
+                "regular_price": 840,
+                "variation_option_name": "1 Box = 5 Strips",
+                "qty_in_pcs": 20,
+                "stock_qty": 0,
+                "capacity": "1 Box = 5 Strips"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Capsule",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc685aa276928204cf8d2",
+        "item_name": "Libidex",
+        "alias": "libidex-capsule",
+        "path": "medicine/prescription-medicine/libidex"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631594322830.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 27994,
+                "variation_option_id": 22,
+                "price": 46.08,
+                "regular_price": 48,
+                "variation_option_name": "1 Strip = 6 Pcs",
+                "qty_in_pcs": 6,
+                "stock_qty": 2,
+                "capacity": "1 Strip = 6 Pcs"
+            },
+            {
+                "discount": 4,
+                "item_variation_option_id": 27995,
+                "variation_option_id": 10,
+                "price": 230.4,
+                "regular_price": 240,
+                "variation_option_name": "1 Box = 5 Strips",
+                "qty_in_pcs": 30,
+                "stock_qty": 0,
+                "capacity": "1 Box = 5 Strips"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Capsule",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc68aaa276928204cf8d3",
+        "item_name": "Lina 500",
+        "alias": "lina-500-capsule",
+        "path": "medicine/prescription-medicine/lina-500"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631594858984.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19799,
+                "variation_option_id": 2,
+                "price": 57.6,
+                "regular_price": 60,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc694aa276928204cf8d5",
+        "item_name": "Marbelus 100 ml",
+        "alias": "marbelus-100-ml-syrup",
+        "path": "medicine/prescription-medicine/marbelus-100-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631595178946.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19800,
+                "variation_option_id": 2,
+                "price": 110.4,
+                "regular_price": 115,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc698aa276928204cf8d6",
+        "item_name": "Marbelus 225 ml",
+        "alias": "marbelus-225-ml-syrup",
+        "path": "medicine/prescription-medicine/marbelus-225-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631595988428.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19801,
+                "variation_option_id": 2,
+                "price": 57.6,
+                "regular_price": 60,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc69daa276928204cf8d7",
+        "item_name": "Masturin 100 ml",
+        "alias": "masturin-100-ml-syrup",
+        "path": "medicine/prescription-medicine/masturin-100-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631597844518.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19802,
+                "variation_option_id": 2,
+                "price": 115.2,
+                "regular_price": 120,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6a2aa276928204cf8d8",
+        "item_name": "Masturin 225 ml",
+        "alias": "masturin-225-ml-syrup",
+        "path": "medicine/prescription-medicine/masturin-225-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631598120340.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19803,
+                "variation_option_id": 2,
+                "price": 168,
+                "regular_price": 175,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6a6aa276928204cf8d9",
+        "item_name": "Masturin 450 ml",
+        "alias": "masturin-450-ml-syrup",
+        "path": "medicine/prescription-medicine/masturin-450-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631599582689.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19804,
+                "variation_option_id": 2,
+                "price": 81.6,
+                "regular_price": 85,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6abaa276928204cf8da",
+        "item_name": "Naunehal 100 ml",
+        "alias": "naunehal-100-ml-syrup",
+        "path": "medicine/prescription-medicine/naunehal-100-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631599797999.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19805,
+                "variation_option_id": 2,
+                "price": 28.8,
+                "regular_price": 30,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": 4,
+                "item_variation_option_id": 29910,
+                "variation_option_id": 4,
+                "price": 288,
+                "regular_price": 300,
+                "variation_option_name": "1 Strip = 10 Pcs",
+                "qty_in_pcs": 10,
+                "stock_qty": 0,
+                "capacity": "1 Strip = 10 Pcs"
+            },
+            {
+                "discount": 4,
+                "item_variation_option_id": 29911,
+                "variation_option_id": 10,
+                "price": 1440,
+                "regular_price": 1500,
+                "variation_option_name": "1 Box = 5 Strips",
+                "qty_in_pcs": 50,
+                "stock_qty": 0,
+                "capacity": "1 Box = 5 Strips"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Tablet",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6b0aa276928204cf8db",
+        "item_name": "Nishat",
+        "alias": "nishat-tablet",
+        "path": "medicine/prescription-medicine/nishat"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/ORANGIN-100-ML-1611384496708.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19806,
+                "variation_option_id": 2,
+                "price": 48,
+                "regular_price": 50,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6b4aa276928204cf8dc",
+        "item_name": "Orangin 100 ml",
+        "alias": "orangin-100-ml-syrup",
+        "path": "medicine/prescription-medicine/orangin-100-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631600125590.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19807,
+                "variation_option_id": 2,
+                "price": 278.4,
+                "regular_price": 290,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Ointment",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6b9aa276928204cf8dd",
+        "item_name": "Peniton 20",
+        "alias": "peniton-20-ointment",
+        "path": "medicine/prescription-medicine/peniton-20"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/untitled-1-1631600413669.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19808,
+                "variation_option_id": 2,
+                "price": 67.2,
+                "regular_price": 70,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6beaa276928204cf8de",
+        "item_name": "Saduri 100 ml",
+        "alias": "saduri-100-ml-syrup",
+        "path": "medicine/prescription-medicine/saduri-100-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/SAFI-100ML-1611384510705.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19809,
+                "variation_option_id": 2,
+                "price": 86.4,
+                "regular_price": 90,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6c3aa276928204cf8df",
+        "item_name": "Safi 100 ml",
+        "alias": "safi-100-ml-syrup",
+        "path": "medicine/prescription-medicine/safi-100-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/SAFI-225-ML-1611384515937.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19810,
+                "variation_option_id": 2,
+                "price": 86.4,
+                "regular_price": 90,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6c8aa276928204cf8e0",
+        "item_name": "Safi 225 ml",
+        "alias": "safi-225-ml-syrup",
+        "path": "medicine/prescription-medicine/safi-225-ml"
+    },
+    {
+        "generic_name": [
+            "Herbal "
+        ],
+        "images": [
+            {
+                "img": "medicine/SAFI-450ML-1611384520833.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": 4,
+                "item_variation_option_id": 19811,
+                "variation_option_id": 2,
+                "price": 220.8,
+                "regular_price": 230,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "discount": 4,
+        "cat_name": "herbal product",
+        "manufacturers": "HAMDARD LAVORATORIES (WAQF) BANGALADESH",
+        "manufacturers_alias": "hamdard-lavoratories-waqf-bangaladesh",
+        "sku_type": "Syrup",
+        "item_type": "medicine",
+        "is_showcasing": 0,
+        "is_prescription_required": 0,
+        "_id": "600bc6cdaa276928204cf8e1",
+        "item_name": "Safi 450 ml",
+        "alias": "safi-450-ml-syrup",
+        "path": "medicine/prescription-medicine/safi-450-ml"
+    }
+]   

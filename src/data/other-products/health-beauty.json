@@ -1,0 +1,642 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/sunsilk-coconut-aloe-vera-volume-shampoo-180-ml-1633932990684.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11105,
+                "variation_option_id": 2,
+                "price": 335,
+                "regular_price": 335,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1be513cb3e8216870971e",
+        "item_name": "Sunsilk Coconut & Aloe Vera Volume Shampoo 375 ml",
+        "alias": "sunsilk-coconut-aloe-vera-volume-shampoo-375-ml-shampoo",
+        "path": "healthcare-product/health-beauty/sunsilk-coconut-aloe-vera-volume-shampoo-375-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/66-1633952624591.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11106,
+                "variation_option_id": 2,
+                "price": 210,
+                "regular_price": 210,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1bf5f3cb3e8216870971f",
+        "item_name": "Clear Shampoo Hijab Anti Dandruff & Anti Limp 180 ml",
+        "alias": "clear-shampoo-hijab-anti-dandruff-anti-limp-180-ml-shampoo",
+        "path": "healthcare-product/health-beauty/clear-shampoo-hijab-anti-dandruff-anti-limp-180-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/99-1633935489333.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11107,
+                "variation_option_id": 2,
+                "price": 250,
+                "regular_price": 250,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1bfef3cb3e82168709721",
+        "item_name": "Clear Man Shampoo Cool Sport Menthol 180 ml",
+        "alias": "clear-man-shampoo-cool-sport-menthol-180-ml-shampoo",
+        "path": "healthcare-product/health-beauty/clear-man-shampoo-cool-sport-menthol-180-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633954066103.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11108,
+                "variation_option_id": 2,
+                "price": 250,
+                "regular_price": 250,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Shampoo",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c16a3cb3e82168709723",
+        "item_name": "Dove Shampoo Hair Fall Rescue 170 ml",
+        "alias": "dove-shampoo-hair-fall-rescue-170-ml-shampoo",
+        "path": "healthcare-product/health-beauty/dove-shampoo-hair-fall-rescue-170-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633942622423.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11109,
+                "variation_option_id": 2,
+                "price": 170,
+                "regular_price": 170,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Lotion",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c25d3cb3e82168709726",
+        "item_name": "Pond's Moisturising Body Lotion 200 ml",
+        "alias": "ponds-moisturising-body-lotion-200-ml-lotion",
+        "path": "healthcare-product/health-beauty/ponds-moisturising-body-lotion-200-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633954743216.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11110,
+                "variation_option_id": 2,
+                "price": 15,
+                "regular_price": 15,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Petroleum jelly",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c2d03cb3e82168709727",
+        "item_name": "Vaseline Petroleum Jelly 9 ml",
+        "alias": "petroleum-jelly",
+        "path": "healthcare-product/health-beauty/vaseline-petroleum-jelly-9-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633954524526.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11111,
+                "variation_option_id": 2,
+                "price": 65,
+                "regular_price": 65,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Petroleum jelly",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c4a13cb3e8216870972a",
+        "item_name": "Vaseline Petroleum Jelly 50 ml",
+        "alias": "vaseline-petroleum-jelly-50-ml-petroleum-jelly",
+        "path": "healthcare-product/health-beauty/vaseline-petroleum-jelly-50-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/vaseline-intensive-care-lotion-200-ml-1641099453593.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11112,
+                "variation_option_id": 2,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Lotion",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c6243cb3e8216870972b",
+        "item_name": "Vaseline Intensive Care Lotion 200 ml",
+        "alias": "vaseline-intensive-care-lotion-200-ml-lotion",
+        "path": "healthcare-product/health-beauty/vaseline-intensive-care-lotion-200-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633954306815.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11113,
+                "variation_option_id": 2,
+                "price": 250,
+                "regular_price": 250,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Petroleum jelly",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c6b73cb3e8216870972c",
+        "item_name": "Vaseline Petroleum Jelly 100 ml",
+        "alias": "vaseline-petroleum-jelly-100-ml-petroleum-jelly",
+        "path": "healthcare-product/health-beauty/vaseline-petroleum-jelly-100-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/vaseline-lightening-even-tone-lotion-300-ml-lotion-1641039407547.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11114,
+                "variation_option_id": 2,
+                "price": 280,
+                "regular_price": 280,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Lotion",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c7513cb3e8216870972f",
+        "item_name": "Vaseline Lightening Even Tone Lotion 300 ml",
+        "alias": "vaseline-lightening-even-tone-lotion-300-ml-lotion",
+        "path": "healthcare-product/health-beauty/vaseline-lightening-even-tone-lotion-300-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/vaseline-intensive-care-lotion-300-ml-1641099238569.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11115,
+                "variation_option_id": 2,
+                "price": 280,
+                "regular_price": 280,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Lotion",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c7c43cb3e82168709731",
+        "item_name": "Vaseline Intensive Care Lotion 300 ml",
+        "alias": "vaseline-intensive-care-lotion-300-ml-lotion",
+        "path": "healthcare-product/health-beauty/vaseline-intensive-care-lotion-300-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/lifebuoy-1639990155912.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11117,
+                "variation_option_id": 2,
+                "price": 50,
+                "regular_price": 50,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Soap",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c9863cb3e82168709735",
+        "item_name": "Lifebuoy Health Soap 100g",
+        "alias": "lifebuoy-health-soap-100g-soap",
+        "path": "healthcare-product/health-beauty/lifebuoy-health-soap-100g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/lifebuoy-1639991248134.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11118,
+                "variation_option_id": 2,
+                "price": 70,
+                "regular_price": 70,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 10,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Soap",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1c9e63cb3e82168709736",
+        "item_name": "Lifebuoy Health Soap 150g",
+        "alias": "lifebuoy-health-soap-150g-soap",
+        "path": "healthcare-product/health-beauty/lifebuoy-health-soap-150g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dabur-amla-hair-oil-275-ml-removebg-preview-1633957573869.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11501,
+                "variation_option_id": 2,
+                "price": 210,
+                "regular_price": 210,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Dabur Limited",
+        "manufacturers_alias": "dabur-limited",
+        "sku_type": "Hair oil",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe81f794da7463a3b281e80",
+        "item_name": "Dabur Amla Hair Oil-275 ml",
+        "alias": "dabur-amla-hair-oil-275-ml-hair-oil",
+        "path": "healthcare-product/health-beauty/dabur-amla-hair-oil-275-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/00-1633957687052.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11502,
+                "variation_option_id": 2,
+                "price": 230,
+                "regular_price": 230,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "Dabur Limited",
+        "manufacturers_alias": "dabur-limited",
+        "sku_type": "Hair oil",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe8206c4da7463a3b281e85",
+        "item_name": "Vatika Hair Oil-300 ml",
+        "alias": "vatika-hair-oil-300-ml-hair-oil",
+        "path": "healthcare-product/health-beauty/vatika-hair-oil-300-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/FREEDOM-HAIR-REMOVAL-CREAM-50G-1611640302937.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22612,
+                "variation_option_id": 111,
+                "price": 150,
+                "regular_price": 150,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "ACI Limited",
+        "manufacturers_alias": "aci-limited",
+        "sku_type": "Cream",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fadf38339d66cd0c1584a",
+        "item_name": "FREEDOM HAIR REMOVAL CREAM 50G",
+        "alias": "freedom-hair-removal-cream-50g",
+        "path": "healthcare-product/health-beauty/freedom-hair-removal-cream-50g"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/palmolive-absolute-relax-1633510228045.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22629,
+                "variation_option_id": 111,
+                "price": 275,
+                "regular_price": 275,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Body Wash",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fae3e8339d66cd0c1585b",
+        "item_name": "Palmolive Absolute Relax",
+        "alias": "palmolive-absolute-relax-body-wash",
+        "path": "healthcare-product/health-beauty/palmolive-absolute-relax"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/palmolive-morning-tonic-1633510476630.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22630,
+                "variation_option_id": 111,
+                "price": 275,
+                "regular_price": 275,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Body Wash",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fae438339d66cd0c1585c",
+        "item_name": "Palmolive Morning Tonic",
+        "alias": "palmolive-morning-tonic-body-wash",
+        "path": "healthcare-product/health-beauty/palmolive-morning-tonic"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/savlon-soap-75-gm-1633496505940.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22661,
+                "variation_option_id": 111,
+                "price": 75,
+                "regular_price": 75,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Soap",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fb0bad798c57adc7d4104",
+        "item_name": "Savlon Fresh 75 gm",
+        "alias": "savlon-soap-75-gm-soap",
+        "path": "healthcare-product/health-beauty/savlon-fresh-75-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/savlon-sports-100-gm-1633496814092.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22662,
+                "variation_option_id": 111,
+                "price": 45,
+                "regular_price": 45,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61d4383537005564c258b31d",
+        "cat_name": "health and beauty",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Soap",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fb0bfd798c57adc7d4105",
+        "item_name": "Savlon Sports 100 gm",
+        "alias": "savlon-sports-100-gm-soap",
+        "path": "healthcare-product/health-beauty/savlon-sports-100-gm"
+    }
+]

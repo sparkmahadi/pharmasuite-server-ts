@@ -1,0 +1,653 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/spring-air-freshener-lemon-fresh-1643600130295.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11066,
+                "variation_option_id": 2,
+                "price": 215,
+                "regular_price": 215,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Air freshner",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd0e7f63cb3e821687096cf",
+        "item_name": "Spring Air Freshener (Lemon Fresh)",
+        "alias": "spring-air-freshener-lemon-fresh-air-freshner",
+        "path": "healthcare-product/laundry-household/spring-air-freshener-lemon-fresh"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/xpel-aerosol-250-ml-1633955249191.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11068,
+                "variation_option_id": 2,
+                "price": 185,
+                "regular_price": 185,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 8,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd0e9553cb3e821687096d1",
+        "item_name": "Xpel Aerosol 250 ml",
+        "alias": "xpel-aerosol-250-ml-spray",
+        "path": "healthcare-product/laundry-household/xpel-aerosol-250-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633955873732.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11069,
+                "variation_option_id": 2,
+                "price": 400,
+                "regular_price": 400,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "Square Toiletries Limited",
+        "manufacturers_alias": "square-toiletries-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd0e9b53cb3e821687096d2",
+        "item_name": "Xpel Aerosol 475 ml",
+        "alias": "spray",
+        "path": "healthcare-product/laundry-household/xpel-aerosol-475-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/dr-rhazes-vegetable-fruit-wash-1634555280840.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11076,
+                "variation_option_id": 2,
+                "price": 400,
+                "regular_price": 400,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 16,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "PRIMACY INDUSTRIES LIMITED",
+        "manufacturers_alias": "primacy-industries-limited",
+        "sku_type": "Cleanser",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1ac953cb3e821687096db",
+        "item_name": "Dr Rhazes vegetable & fruit wash",
+        "alias": "cleanser",
+        "path": "healthcare-product/laundry-household/dr-rhazes-vegetable-fruit-wash"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/vim-dishwash-250-ml-1633954190582.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11094,
+                "variation_option_id": 2,
+                "price": 70,
+                "regular_price": 70,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 6,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Liquid",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b7763cb3e82168709708",
+        "item_name": "Vim Dishwash 250 ml",
+        "alias": "vim-dishwash-250-ml-liquid",
+        "path": "healthcare-product/laundry-household/vim-dishwash-250-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633954970602.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11095,
+                "variation_option_id": 2,
+                "price": 130,
+                "regular_price": 130,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 4,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "Unilever Bangladesh Limited",
+        "manufacturers_alias": "unilever-bangladesh-limited",
+        "sku_type": "Liquid",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fd1b7d53cb3e8216870970a",
+        "item_name": "Vim Dishwash 500 ml",
+        "alias": "vim-dishwash-500-ml-liquid",
+        "path": "healthcare-product/laundry-household/vim-dishwash-500-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/555-1633956195927.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11514,
+                "variation_option_id": 2,
+                "price": 60,
+                "regular_price": 60,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            },
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 11515,
+                "variation_option_id": 96,
+                "price": 180,
+                "regular_price": 180,
+                "variation_option_name": "1 Box = 3 Pcs",
+                "qty_in_pcs": 3,
+                "stock_qty": 0,
+                "capacity": "1 Box = 3 Pcs"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "Dabur Limited",
+        "manufacturers_alias": "dabur-limited",
+        "sku_type": "Air freshner",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fe82a49f4e54163742635c0",
+        "item_name": "Odonil Freshness",
+        "alias": "odonil-freshness",
+        "path": "healthcare-product/laundry-household/odonil-freshness"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/ACI-AEROSOL-SPRAY-125-ML-1611639879400.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "10.00",
+                "item_variation_option_id": 22567,
+                "variation_option_id": 111,
+                "price": 126,
+                "regular_price": 140,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac4cc604562478640e0c",
+        "item_name": "ACI aerosol spray 125 ml",
+        "alias": "aci-aerosol-spray-125-ml-spray",
+        "path": "healthcare-product/laundry-household/aci-aerosol-spray-125-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/ACI-AEROSOL-SPRAY-250-ML-1611639884641.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "10.00",
+                "item_variation_option_id": 22568,
+                "variation_option_id": 111,
+                "price": 225,
+                "regular_price": 250,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac50c604562478640e0d",
+        "item_name": "ACI aerosol spray 250 ml",
+        "alias": "aci-aerosol-spray-250-ml-spray",
+        "path": "healthcare-product/laundry-household/aci-aerosol-spray-250-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/ACI-AEROSOL-SPRAY-350-ML-1611639889086.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22569,
+                "variation_option_id": 111,
+                "price": 340,
+                "regular_price": 340,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac55c604562478640e0e",
+        "item_name": "ACI aerosol spray 350 ml",
+        "alias": "aci-aerosol-spray-350-ml-spray",
+        "path": "healthcare-product/laundry-household/aci-aerosol-spray-350-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/ACI-AEROSOL-SPRAY-475-ML-1611639893428.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "10.00",
+                "item_variation_option_id": 22570,
+                "variation_option_id": 111,
+                "price": 373.5,
+                "regular_price": 415,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 6,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac59c604562478640e0f",
+        "item_name": "ACI aerosol spray 475 ml",
+        "alias": "aci-aerosol-spray-475-ml-spray",
+        "path": "healthcare-product/laundry-household/aci-aerosol-spray-475-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/aci-aerosol-spray-800-ml-1635571565070.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22571,
+                "variation_option_id": 111,
+                "price": 620,
+                "regular_price": 620,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac5ec604562478640e10",
+        "item_name": "ACI aerosol spray 800 ml",
+        "alias": "aci-aerosol-spray-800-ml-spray",
+        "path": "healthcare-product/laundry-household/aci-aerosol-spray-800-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/ACI-COCKROACH-SPRAY-250-ML-1611639902658.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22572,
+                "variation_option_id": 111,
+                "price": 220,
+                "regular_price": 220,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac62c604562478640e11",
+        "item_name": "ACI cockroach spray 250 ml",
+        "alias": "aci-cockroach-spray-250-ml-spray",
+        "path": "healthcare-product/laundry-household/aci-cockroach-spray-250-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/ACI-COCKROACH-SPRAY-400-ML-1611639907263.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22573,
+                "variation_option_id": 111,
+                "price": 280,
+                "regular_price": 280,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac67c604562478640e12",
+        "item_name": "ACI cockroach spray 400 ml",
+        "alias": "aci-cockroach-spray-400-ml-spray",
+        "path": "healthcare-product/laundry-household/aci-cockroach-spray-400-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/aci-cockroach-spray-475-ml-1633500160367.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22575,
+                "variation_option_id": 111,
+                "price": 340,
+                "regular_price": 340,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac6cc604562478640e13",
+        "item_name": "ACI cockroach spray 475 ml",
+        "alias": "aci-cockroach-spray-475-ml-spray",
+        "path": "healthcare-product/laundry-household/aci-cockroach-spray-475-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/all-out-ultra-liq-vaporizer-combo-1633500545912.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22578,
+                "variation_option_id": 111,
+                "price": 179,
+                "regular_price": 179,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Insect Killer",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac7ac604562478640e16",
+        "item_name": "All out ultra liq vaporizer combo",
+        "alias": "all-out-ultra-liq-vaporizer-combo-insect-killer",
+        "path": "healthcare-product/laundry-household/all-out-ultra-liq-vaporizer-combo"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "medicine/ALL-OUT-ULTRA-LIQ-VAPORIZER-REFILL-45ML-1611639930717.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22579,
+                "variation_option_id": 111,
+                "price": 100,
+                "regular_price": 100,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Vaporizer Refill",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac7ec604562478640e17",
+        "item_name": "All out ultra liq vaporizer Refill 45 ml",
+        "alias": "all-out-ultra-liq-vaporizer-refill-45-ml-vaporizer-refill",
+        "path": "healthcare-product/laundry-household/all-out-ultra-liq-vaporizer-refill-45-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/angelic-air-freshener-anti-tabac-300-ml-1633500749634.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22580,
+                "variation_option_id": 111,
+                "price": 280,
+                "regular_price": 280,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Spray",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fac81c604562478640e18",
+        "item_name": "Angelic air freshener Anti Tabac 300 ml",
+        "alias": "angelic-air-freshener-anti-tabac-300-ml-spray",
+        "path": "healthcare-product/laundry-household/angelic-air-freshener-anti-tabac-300-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1savlon-antiseptic-disinfectant-112-ml-1633794804353.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22631,
+                "variation_option_id": 111,
+                "price": 52,
+                "regular_price": 52,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Antiseptic Liquid",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fae488339d66cd0c1585d",
+        "item_name": "Savlon Antiseptic Disinfectant 112 ml",
+        "alias": "savlon-antiseptic-disinfectant-112-ml-antiseptic-liquid",
+        "path": "healthcare-product/laundry-household/savlon-antiseptic-disinfectant-112-ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/savlon-antiseptic-disinfectant-5-litres-1633510718531.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 22633,
+                "variation_option_id": 111,
+                "price": 1000,
+                "regular_price": 1000,
+                "variation_option_name": "Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "Pc"
+            }
+        ],
+        "cat_id": "61ee4b0eb22e362b6cb7f8e1",
+        "cat_name": "Laundry and household",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Antiseptic Liquid",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "600fae518339d66cd0c1585f",
+        "item_name": "Savlon Antiseptic Disinfectant 5 Litres",
+        "alias": "savlon-antiseptic-disinfectant-5-litres-antiseptic-liquid",
+        "path": "healthcare-product/laundry-household/savlon-antiseptic-disinfectant-5-litres"
+    }
+]

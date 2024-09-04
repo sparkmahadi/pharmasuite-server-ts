@@ -1,0 +1,24 @@
+[
+    { "cat_name": "Eczema", "cat_description": "Medications used to treat eczema, a skin condition that causes itchy, red, and inflamed skin." },
+    { "cat_name": "Nasal", "cat_description": "Products for nasal care, including decongestants and treatments for nasal allergies." },
+    { "cat_name": "Gastric", "cat_description": "Medicines that address gastric issues such as acidity, indigestion, and heartburn." },
+    { "cat_name": "Zinc Deficiency", "cat_description": "Supplements for zinc deficiency to support immune function and overall health." },
+    { "cat_name": "Spasm", "cat_description": "Medications used to relieve muscle spasms and cramps." },
+    { "cat_name": "Diarrhea", "cat_description": "Medicines for treating diarrhea and related gastrointestinal issues." },
+    { "cat_name": "Infection", "cat_description": "Medications used to treat bacterial or viral infections." },
+    { "cat_name": "Fever", "cat_description": "Antipyretics and other treatments to reduce fever." },
+    { "cat_name": "Cough and Flu", "cat_description": "Medications for alleviating symptoms of cough, cold, and flu." },
+    { "cat_name": "Ulcer", "cat_description": "Medicines used to treat ulcers, particularly in the stomach and digestive tract." },
+    { "cat_name": "Constipation", "cat_description": "Laxatives and other treatments for relieving constipation." },
+    { "cat_name": "Vitamins", "cat_description": "Vitamin supplements to support overall health and address deficiencies." },
+    { "cat_name": "Dermatitis", "cat_description": "Treatments for dermatitis, including creams and ointments to soothe the skin." },
+    { "cat_name": "Oral Cavity", "cat_description": "Products for oral care, including mouthwashes, dental treatments, and oral pain relief." },
+    { "cat_name": "Gynecological", "cat_description": "Medicines related to women's health, including treatments for gynecological conditions." },
+    { "cat_name": "Headache", "cat_description": "Medications for relieving headaches, including migraines and tension headaches." },
+    { "cat_name": "Pregnancy", "cat_description": "Products that support health during pregnancy, including prenatal vitamins." },
+    { "cat_name": "Sexual For man", "cat_description": "Medications and supplements for men's sexual health." },
+    { "cat_name": "Covid-19", "cat_description": "Treatments and supportive care products for managing Covid-19 symptoms." },
+    { "cat_name": "Abdominal pain", "cat_description": "Medications for relieving abdominal pain and discomfort." },
+    { "cat_name": "Skin", "cat_description": "Products for treating various skin conditions, including creams and ointments." }
+  ]
+  

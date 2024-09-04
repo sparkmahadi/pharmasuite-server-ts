@@ -1,0 +1,642 @@
+[
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/1604899525736.png"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 3184,
+                "variation_option_id": 2,
+                "price": 400,
+                "regular_price": 400,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "Nestle Bangladesh Ltd.",
+        "manufacturers_alias": "nestle-bangladesh-ltd.",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5f757dbe38098b16059f6fe2",
+        "item_name": "NIDO Fortigrow 350 gm",
+        "alias": "nido-fortigrow-350-gm-milk-powder",
+        "path": "healthcare-product/baby-care/nido-fortigrow-350-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/lactogen-1-180-gm-1643529465175.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 3247,
+                "variation_option_id": 2,
+                "price": 310,
+                "regular_price": 310,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 2,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "Nestle Bangladesh Ltd.",
+        "manufacturers_alias": "nestle-bangladesh-ltd.",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5f756dd038098b16059f6fbc",
+        "item_name": "LACTOGEN 1 180 gm",
+        "alias": "lactogen-1-180-gm-milk-powder",
+        "path": "healthcare-product/baby-care/lactogen-1-180-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/1604901260780.png"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 3225,
+                "variation_option_id": 2,
+                "price": 495,
+                "regular_price": 495,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "Nestle Bangladesh Ltd.",
+        "manufacturers_alias": "nestle-bangladesh-ltd.",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5f756c8038098b16059f6fba",
+        "item_name": "NIDO 1+ (350 gm)",
+        "alias": "nido-1-350-gm",
+        "path": "healthcare-product/baby-care/nido-1-350-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/Cerelac-Stage-1,-Wheat-&-Banana-400gm-1605590219087.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 3257,
+                "variation_option_id": 2,
+                "price": 450,
+                "regular_price": 450,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "Nestle Bangladesh Ltd.",
+        "manufacturers_alias": "nestle-bangladesh-ltd.",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5f9ad9e275d7cb00089dbb15",
+        "item_name": "Cerelac-Stage-1,-Wheat-&-Banana-400gm",
+        "alias": "cerelac-stage-1-wheat-banana-400gm-milk-powder",
+        "path": "healthcare-product/baby-care/cerelac-stage-1-wheat-banana-400gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/savlon-twinkle-baby-diaper-small-5-pcs-1639983422506.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "20.00",
+                "item_variation_option_id": 8015,
+                "variation_option_id": 55,
+                "price": 96,
+                "regular_price": 120,
+                "variation_option_name": "Small",
+                "qty_in_pcs": 1,
+                "stock_qty": 8,
+                "capacity": "Small"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7b1a1beb35a0009b687d6",
+        "item_name": "Savlon Twinkle Baby Diaper Small 5 pcs",
+        "alias": "savlon-twinkle-baby-diaper-small-5-pcs-diaper",
+        "path": "healthcare-product/baby-care/savlon-twinkle-baby-diaper-small-5-pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/savlon-twinkle-baby-diaper-medium-4-pcs-1641014787098.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8018,
+                "variation_option_id": 57,
+                "price": 120,
+                "regular_price": 120,
+                "variation_option_name": "Medium",
+                "qty_in_pcs": 1,
+                "stock_qty": 6,
+                "capacity": "Medium"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7b43e31e5180009881a4b",
+        "item_name": "Savlon Twinkle Baby Diaper Medium 4 pcs",
+        "alias": "savlon-twinkle-baby-diaper-medium-4-pcs-diaper",
+        "path": "healthcare-product/baby-care/savlon-twinkle-baby-diaper-medium-4-pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/Savlon-Twinkle-Baby-Diaper-7-18-1606209465886.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "10.00",
+                "item_variation_option_id": 8019,
+                "variation_option_id": 59,
+                "price": 112.5,
+                "regular_price": 125,
+                "variation_option_name": "Large",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "Large"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7b54e61c1180008573586",
+        "item_name": "Savlon Twinkle Baby Diaper Large 4 pcs",
+        "alias": "savlon-twinkle-baby-diaper-large-4-pcs-diaper",
+        "path": "healthcare-product/baby-care/savlon-twinkle-baby-diaper-large-4-pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/savlon-twinkle-baby-diaper-xl-4-pcs-1633349034238.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8021,
+                "variation_option_id": 61,
+                "price": 125,
+                "regular_price": 125,
+                "variation_option_name": "XL",
+                "qty_in_pcs": 1,
+                "stock_qty": 5,
+                "capacity": "XL"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7b61e08bb6600096da89a",
+        "item_name": "Savlon Twinkle Baby Diaper XL 4 pcs",
+        "alias": "savlon-twinkle-baby-diaper-xl-4-pcs-diaper",
+        "path": "healthcare-product/baby-care/savlon-twinkle-baby-diaper-xl-4-pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/Savlon-Twinkle-Baby-Diaper-1606209831497.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8097,
+                "variation_option_id": 63,
+                "price": 125,
+                "regular_price": 125,
+                "variation_option_name": "XXL",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "XXL"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7b704ab393800099c0af1",
+        "item_name": "Savlon Twinkle Baby Diaper XXL 3pcs",
+        "alias": "savlon-twinkle-baby-diaper-xxl-3pcs-diaper",
+        "path": "healthcare-product/baby-care/savlon-twinkle-baby-diaper-xxl-3pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/twinkle-baby-feeder-90ml-1633347906934.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8401,
+                "variation_option_id": 2,
+                "price": 200,
+                "regular_price": 200,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Feeder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7bbca125dd60009c4e66b",
+        "item_name": "Twinkle Baby Feeder 90ml",
+        "alias": "twinkle-baby-feeder-90ml",
+        "path": "healthcare-product/baby-care/twinkle-baby-feeder-90ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/twinkle-baby-feeder-150ml-1633348146459.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8402,
+                "variation_option_id": 2,
+                "price": 120,
+                "regular_price": 120,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 1,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Feeder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7bc6f9ac144000902cb48",
+        "item_name": "Twinkle Baby Feeder 150ml",
+        "alias": "twinkle-baby-feeder-150ml",
+        "path": "healthcare-product/baby-care/twinkle-baby-feeder-150ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/untitled-1-1633351395360.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8403,
+                "variation_option_id": 2,
+                "price": 120,
+                "regular_price": 120,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Feeder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7bcf6dda38d000834d6cc",
+        "item_name": "Twinkle Baby Feeder 240ml",
+        "alias": "twinkle-baby-feeder-240ml",
+        "path": "healthcare-product/baby-care/twinkle-baby-feeder-240ml"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/twinkle-feeder-nipple-s-0-3-month-1641015488044.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8404,
+                "variation_option_id": 2,
+                "price": 27,
+                "regular_price": 27,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 9,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Nipple",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7bd84d359460008c9f7aa",
+        "item_name": "Twinkle Feeder Nipple S- 0-3 Month",
+        "alias": "twinkle-feeder-nipple-s-0-3-month",
+        "path": "healthcare-product/baby-care/twinkle-feeder-nipple-s-0-3-month"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/twinkle-feeder-nipple-l-6-month-1641016491004.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8405,
+                "variation_option_id": 2,
+                "price": 25,
+                "regular_price": 25,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 10,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Nipple",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7be74125dd60009c4e715",
+        "item_name": "Twinkle Feeder Nipple L -6 Month",
+        "alias": "twinkle-feeder-nipple-l-6-month",
+        "path": "healthcare-product/baby-care/twinkle-feeder-nipple-l-6-month"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/twinkle-feeder-nipple-m-3-6-month-1641017233548.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8406,
+                "variation_option_id": 2,
+                "price": 25,
+                "regular_price": 25,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 12,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "ACI Consumer Limited",
+        "manufacturers_alias": "aci-consumer-limited",
+        "sku_type": "Nipple",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7beee9ac144000902cbed",
+        "item_name": "Twinkle Feeder Nipple M 3-6 Month",
+        "alias": "twinkle-feeder-nipple-m-3-6-month",
+        "path": "healthcare-product/baby-care/twinkle-feeder-nipple-m-3-6-month"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/1605163655525.png"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8407,
+                "variation_option_id": 2,
+                "price": 630,
+                "regular_price": 630,
+                "variation_option_name": "1 Pc",
+                "qty_in_pcs": 1,
+                "stock_qty": 0,
+                "capacity": "1 Pc"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "Abul Khair Consumer Products Ltd",
+        "manufacturers_alias": "abul-khair-consumer-products-ltd",
+        "sku_type": "Milk Powder",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7c2f8d359460008c9f8ad",
+        "item_name": "Mother's Smile cereal Honey 400 gm",
+        "alias": "mother-s-smile-cereal-honey-400-gm",
+        "path": "healthcare-product/baby-care/mothers-smile-cereal-honey-400-gm"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/Bashundhara-Diapant-S-1606208819773.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "25.00",
+                "item_variation_option_id": 8408,
+                "variation_option_id": 40,
+                "price": 105,
+                "regular_price": 140,
+                "variation_option_name": "1 Box",
+                "qty_in_pcs": 1,
+                "stock_qty": 8,
+                "capacity": "1 Box"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "Bashundhara Group",
+        "manufacturers_alias": "bashundhara-group",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7c6c4884d50000989a721",
+        "item_name": "Bashundhara Diapant S-5pcs",
+        "alias": "bashundhara-diapant-s-5pcs-diaper",
+        "path": "healthcare-product/baby-care/bashundhara-diapant-s-5pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/bashundhara-diapant-m-5-pcs-1633419132883.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "25.00",
+                "item_variation_option_id": 8409,
+                "variation_option_id": 40,
+                "price": 105,
+                "regular_price": 140,
+                "variation_option_name": "1 Box",
+                "qty_in_pcs": 1,
+                "stock_qty": 3,
+                "capacity": "1 Box"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "Bashundhara Group",
+        "manufacturers_alias": "bashundhara-group",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7c78f411c7a000822f145",
+        "item_name": "Bashundhara Diapant M (5 pcs)",
+        "alias": "bashundhara-diapant-m-5-pcs-diaper",
+        "path": "healthcare-product/baby-care/bashundhara-diapant-m-5-pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/Bashundhara-Diapant-L-1606208720873.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8412,
+                "variation_option_id": 40,
+                "price": 140,
+                "regular_price": 140,
+                "variation_option_name": "1 Box",
+                "qty_in_pcs": 1,
+                "stock_qty": 6,
+                "capacity": "1 Box"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "Bashundhara Group",
+        "manufacturers_alias": "bashundhara-group",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7cab70317870009f7bc74",
+        "item_name": "Bashundhara Diapant L 5pcs",
+        "alias": "bashundhara-diapant-l-5pcs-diaper",
+        "path": "healthcare-product/baby-care/bashundhara-diapant-l-5pcs"
+    },
+    {
+        "generic_name": [],
+        "images": [
+            {
+                "img": "products/bashundhara-diapant-xl-4pcs-1641104942121.webp"
+            }
+        ],
+        "inventory": [
+            {
+                "discount": "0.00",
+                "item_variation_option_id": 8413,
+                "variation_option_id": 40,
+                "price": 140,
+                "regular_price": 140,
+                "variation_option_name": "1 Box",
+                "qty_in_pcs": 1,
+                "stock_qty": 8,
+                "capacity": "1 Box"
+            }
+        ],
+        "cat_id": "61d42dfd37005564c2586208",
+        "cat_name": "baby care",
+        "manufacturers": "Bashundhara Group",
+        "manufacturers_alias": "bashundhara-group",
+        "sku_type": "Diaper",
+        "item_type": "healthcare-product",
+        "is_showcasing": 0,
+        "_id": "5fa7cc03884d50000989a824",
+        "item_name": "Bashundhara Diapant XL 4pcs",
+        "alias": "bashundhara-diapant-xl-4pcs-diaper",
+        "path": "healthcare-product/baby-care/bashundhara-diapant-xl-4pcs"
+    }
+]
