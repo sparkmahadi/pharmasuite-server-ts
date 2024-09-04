@@ -9,7 +9,7 @@ router.get('/all-products', getMainProducts);
 
 router.get('/:id', getProductById);
 
-// router.get('/categories/:cat-name/products', getProductsByCategory); 
+router.get('/categories/:cat_name/products', getProductsByCategory); 
 // router.get('/categories/:cat-name/:sub-cat-name/products', getProductById);
 
 // categories

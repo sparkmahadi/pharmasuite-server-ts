@@ -30,10 +30,9 @@ export const getProductById = async (req: Request, res: Response) => {
 
 export const getProductsByCategory = async (req: Request, res: Response) => {
   try {
-    const categoryName = req.params.cat_name;
-    const products = await mainProductsColl
-      .find({ cat_name: req.params.cat_name })
-      .toArray();
+    const catName = req.params.cat_name;
+    console.log(catName);
+    const products = await mainProductsColl.find({ comes_under: req.params.cat_name }).toArray();
     if (products) {
       res.status(200).json(products);
     } else {
@@ -46,6 +45,7 @@ export const getProductsByCategory = async (req: Request, res: Response) => {
 
 export const getAllSubCategories = async (req: Request, res: Response) => {
   const catName = req.params.cat_name;
+  console.log(catName);
   try {
     if (catName === "otc-medicines") {
       const categories = await otcCategoryColl.find().toArray();
