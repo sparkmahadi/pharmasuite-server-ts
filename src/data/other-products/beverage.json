@@ -20,6 +20,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "Abul Khair Consumer Products Ltd",
         "manufacturers_alias": "abul-khair-consumer-products-ltd",
         "sku_type": "Milk Shake",
@@ -51,6 +52,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "M/S.NOZEBA ENTERPRISE",
         "manufacturers_alias": "m-or-s.nozeba-enterprise",
         "sku_type": "Candy",
@@ -82,6 +84,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "J K Sales and Distribution (Nestle).",
         "manufacturers_alias": "j-k-sales-and-distribution-nestle.",
         "sku_type": "Coffee",
@@ -113,6 +116,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "Social Marketing Company (SMC)",
         "manufacturers_alias": "social-marketing-company-smc",
         "sku_type": "Soft Drinks",
@@ -144,6 +148,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "Social Marketing Company (SMC)",
         "manufacturers_alias": "social-marketing-company-smc",
         "sku_type": "Soft Drinks",
@@ -175,6 +180,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "GlaxoSmithKline Bangladesh Limited",
         "manufacturers_alias": "glaxosmithkline-bangladesh-limited",
         "sku_type": "Powder",
@@ -228,6 +234,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "Universal Food Ltd",
         "manufacturers_alias": "universal-food-ltd",
         "sku_type": "Tablet",
@@ -270,6 +277,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "Universal Food Ltd",
         "manufacturers_alias": "universal-food-ltd",
         "sku_type": "Powder",
@@ -312,6 +320,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "Nestle Bangladesh Ltd.",
         "manufacturers_alias": "nestle-bangladesh-ltd.",
         "sku_type": "Candy",
@@ -343,6 +352,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "J K Sales and Distribution (Nestle).",
         "manufacturers_alias": "j-k-sales-and-distribution-nestle.",
         "sku_type": "Coffee",
@@ -374,6 +384,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "J K Sales and Distribution (Nestle).",
         "manufacturers_alias": "j-k-sales-and-distribution-nestle.",
         "sku_type": "Coffee",
@@ -405,6 +416,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "Radiant Pharmaceuticals Ltd.",
         "manufacturers_alias": "radiant-pharmaceuticals-ltd.",
         "sku_type": "Powder",
@@ -436,6 +448,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "Khaas Food",
         "manufacturers_alias": "khaas-food",
         "sku_type": "Tea",
@@ -467,6 +480,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "Nestle Bangladesh Ltd.",
         "manufacturers_alias": "nestle-bangladesh-ltd.",
         "sku_type": "Coffee",
@@ -498,6 +512,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "International Beverages Private Ltd",
         "manufacturers_alias": "international-beverages-private-ltd",
         "sku_type": "Soft Drinks",
@@ -529,6 +544,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "International Beverages Private Ltd",
         "manufacturers_alias": "international-beverages-private-ltd",
         "sku_type": "Soft Drinks",
@@ -560,6 +576,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "cat_name" : "Beverages",
         "manufacturers": "International Beverages Private Ltd",
         "manufacturers_alias": "international-beverages-private-ltd",
@@ -592,6 +609,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "International Beverages Private Ltd",
         "manufacturers_alias": "international-beverages-private-ltd",
         "sku_type": "Soft Drinks",
@@ -623,6 +641,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "International Beverages Private Ltd",
         "manufacturers_alias": "international-beverages-private-ltd",
         "sku_type": "Soft Drinks",
@@ -654,6 +673,7 @@
             }
         ],
         "cat_id": "61d4301937005564c25873dc",
+        "comes_under":"beverages",
         "manufacturers": "International Beverages Private Ltd",
         "manufacturers_alias": "international-beverages-private-ltd",
         "sku_type": "Soft Drinks",

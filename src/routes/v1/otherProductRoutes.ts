@@ -8,9 +8,9 @@ router.get('/all-products', getOtherProducts);
 
 router.get('/:id', getProductById);
 
-router.get("/categories/:cat_name/products", getProductsByCategory);
-
 // categories names
 router.get("/categories", getAllProductCategories);
+
+router.get("/categories/:cat_name/products", getProductsByCategory);
 
 export default router;

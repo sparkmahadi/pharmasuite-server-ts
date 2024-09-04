@@ -4,7 +4,7 @@ import { IProduct } from '../models/productModel';
 import { ObjectId } from 'mongodb';
 
 const otherProductsColl = db.collection('other-products');
-const categoryColl = db.collection("other-product-categories");
+const categoryColl = db.collection("other-categories");
 
 export const getOtherProducts = async (req: Request, res: Response)=> {
   try {
@@ -30,18 +30,20 @@ export const getProductById = async (req: Request, res: Response)=> {
 
   export const getAllProductCategories = async (req: Request, res: Response) => {
     try {
-        const categories = await categoryColl.find().toArray();
-        res.status(200).json(categories);
+      const categories = await categoryColl.find().toArray();
+      console.log(categories);
+      res.status(200).json(categories);
     } catch (err) {
       res.status(500).json({ message: 'Server error' });
+      console.log("hit");
     }
   };
   
 
   export const getProductsByCategory = async (req: Request, res: Response)=> {
     try {
-      const categoryName = req.params.cat_name;
-      const products = await otherProductsColl.find({ cat_name : req.params.cat_name }).toArray();
+      const catName = req.params.cat_name;
+      const products = await otherProductsColl.find({ cat_name : catName }).toArray();
       if (products) {
         res.status(200).json(products);
       } else {

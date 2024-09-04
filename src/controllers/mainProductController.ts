@@ -28,6 +28,8 @@ export const getProductById = async (req: Request, res: Response) => {
   }
 };
 
+
+// otc or prescription
 export const getProductsByCategory = async (req: Request, res: Response) => {
   try {
     const catName = req.params.cat_name;
@@ -42,6 +44,23 @@ export const getProductsByCategory = async (req: Request, res: Response) => {
     res.status(500).json({ message: "Server error" });
   }
 };
+
+export const getProductsBySubCategory = async (req: Request, res: Response) => {
+    try {
+      const catName = req.params.cat_name;
+      const subCatName = req.params.sub_cat_name;
+      console.log(catName,subCatName);
+      const query = { item_desc: { $regex: subCatName, $options: 'i' } }; // 'i' makes the search case-insensitive
+      const products = await mainProductsColl.find(query).toArray();
+      if (products) {
+        res.status(200).json(products);
+      } else {
+        res.status(404).json({ message: "Product not found" });
+      }
+    } catch (error) {
+      res.status(500).json({ message: "Server error" });
+    }
+  };
 
 export const getAllSubCategories = async (req: Request, res: Response) => {
   const catName = req.params.cat_name;
