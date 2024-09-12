@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { getCategoryByName, getAllProductCategories, getOtherProducts, getProductById, getProductsByCategory } from '../../controllers/otherProductController';
+import { getCategoryByName, getAllProductCategories, getOtherProducts, getProductById, getProductsByCategory, updateCategoryById, postCategory, deleteCategory } from '../../controllers/otherProductController';
 
 const router = Router();
 
@@ -39,7 +39,10 @@ router
  * @apiSuccess {} full category information
  * @apiError no data available in database
  */
-.get("/categories/:cat_name", getCategoryByName);
+.get("/categories/:cat_name", getCategoryByName)
+router.post("/categories", postCategory);
+router.patch("/categories/:id", updateCategoryById);
+router.delete("/categories/:id", deleteCategory);
 
 router
 /**

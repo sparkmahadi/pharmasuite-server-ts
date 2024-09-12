@@ -7,8 +7,13 @@ const mainProductsColl = db.collection("main-products");
 const otcCategoryColl = db.collection("otc-categories");
 
 export const getMainProducts = async (req: Request, res: Response) => {
+  const { limit } = req.query;
+  console.log(limit);
   try {
-    const products = await mainProductsColl.find().toArray();
+    // Convert limit to a number if it's provided, otherwise default to no limit
+    const limitNum = limit ? parseInt(limit as string, 10) : 0;
+    const products = await mainProductsColl.find().limit(limitNum).toArray();
+
     res.json(products);
   } catch (error) {
     res.status(500).json({ message: "Server error" });
