@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { getCategoryByName, getAllProductCategories, getOtherProducts, getProductById, getProductsByCategory, updateCategoryById, postCategory, deleteCategory } from '../../controllers/otherProductController';
+import { getCategoryByName, getAllProductCategories, getOtherProducts, getProductById, getProductsByCategory, updateCategoryById, postCategory, deleteCategory, addFieldToAllCategories, updateFieldInAllCategories, deleteFieldFromAllCategories, addFieldToCategory, updateFieldInCategory, deleteFieldFromCategory } from '../../controllers/otherProductController';
 
 const router = Router();
 
@@ -41,6 +41,14 @@ router
  */
 .get("/categories/:cat_name", getCategoryByName)
 router.post("/categories", postCategory);
+router.patch("/categories/add-field", addFieldToAllCategories);
+router.patch("/categories/update-field", updateFieldInAllCategories);
+router.patch("/categories/delete-field", deleteFieldFromAllCategories);
+
+router.patch("/categories/:id/add-field", addFieldToCategory);
+router.patch("/categories/:id/update-field", updateFieldInCategory);
+router.patch("/categories/:id/delete-field", deleteFieldFromCategory);
+
 router.patch("/categories/:id", updateCategoryById);
 router.delete("/categories/:id", deleteCategory);
 
