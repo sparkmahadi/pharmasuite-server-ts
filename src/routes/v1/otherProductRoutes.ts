@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { getOtherProducts, getProductById } from '../../controllers/otherProductController';
+import { addFieldToAllProducts, deleteFieldFromAllProducts, getOtherProducts, getProductById, updateFieldInAllProducts } from '../../controllers/otherProductController';
 const router = Router();
 
 router
@@ -26,5 +26,13 @@ router
  * @apiError no data available in database
  */
 .get('/:id', getProductById);
+
+router.patch("/add-field", addFieldToAllProducts);
+router.patch("/update-field", updateFieldInAllProducts);
+router.patch("/delete-field", deleteFieldFromAllProducts);
+
+router.patch("/:id/add-field", addFieldToAllProducts);
+router.patch("/:id/update-field", updateFieldInAllProducts);
+router.patch("/:id/delete-field", deleteFieldFromAllProducts);
 
 export default router;

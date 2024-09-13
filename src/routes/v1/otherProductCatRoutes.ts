@@ -5,19 +5,21 @@ const router = Router();
 
 router
 /**
- * @api {get} /api/v1/other-products/categories
+ * @api {get} /api/v1/other-products
  * @apiDescription Get all secondary products categories
  * @apiPermission All Users
  * @apiHeader nothing
  * @apiParam nothing
  * @apiSuccess {Object[]} full lot information
  * @apiError no data available in database
- */
-.get("/categories", getAllProductCategories);
+*/
+.route("/").get(getAllProductCategories).post(postCategory);
+
+router.route("/:id").patch(updateCategoryById).delete(deleteCategory);
 
 router
 /**
- * @api {get} /api/v1/other-products/categories/:cat_name
+ * @api {get} /api/v1/other-products/:cat_name
  * @apiDescription Get a category details
  * @apiPermission All Users
  * @apiHeader nothing
@@ -25,22 +27,18 @@ router
  * @apiSuccess {} full category information
  * @apiError no data available in database
  */
-.get("/categories/:cat_name", getCategoryByName)
-router.post("/categories", postCategory);
-router.patch("/categories/add-field", addFieldToAllCategories);
-router.patch("/categories/update-field", updateFieldInAllCategories);
-router.patch("/categories/delete-field", deleteFieldFromAllCategories);
+.get("/:cat_name", getCategoryByName)
+router.patch("/add-field", addFieldToAllCategories);
+router.patch("/update-field", updateFieldInAllCategories);
+router.patch("/delete-field", deleteFieldFromAllCategories);
 
-router.patch("/categories/:id/add-field", addFieldToCategory);
-router.patch("/categories/:id/update-field", updateFieldInCategory);
-router.patch("/categories/:id/delete-field", deleteFieldFromCategory);
-
-router.patch("/categories/:id", updateCategoryById);
-router.delete("/categories/:id", deleteCategory);
+router.patch("/:id/add-field", addFieldToCategory);
+router.patch("/:id/update-field", updateFieldInCategory);
+router.patch("/:id/delete-field", deleteFieldFromCategory);
 
 router
 /**
- * @api {get} /api/v1/other-products/categories/:cat_name/products
+ * @api {get} /api/v1/other-products/:cat_name/products
  * @apiDescription Get all products under a category
  * @apiPermission All Users
  * @apiHeader nothing
@@ -48,6 +46,6 @@ router
  * @apiSuccess {Object[]} full product information
  * @apiError no data available in database
  */
-.get("/categories/:cat_name/products", getProductsByCategory);
+.get("/:cat_name/products", getProductsByCategory);
 
 export default router;
