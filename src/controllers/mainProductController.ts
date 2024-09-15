@@ -84,6 +84,79 @@ export const getAllSubCategories = async (req: Request, res: Response) => {
   }
 };
 
+export const addProduct = async (req: Request, res: Response) => {
+  const {
+    item_name,
+    item_desc,
+    generic_name,
+    images,
+    inventory,
+    cat_id,
+    cat_name,
+    manufacturers,
+    manufacturers_alias,
+    sku_type,
+    item_type,
+    is_featured,
+    comes_under,
+    is_prescription_required,
+    alias,
+    generic_alias,
+    is_available,
+    alternative_items,
+    related_items,
+    available_stock_qty_in_pc,
+  } = req.body;
+
+  // Backend validation
+  if (!item_name || typeof item_name !== 'string' || item_name.trim() === '') {
+    return res.status(400).json({ message: 'Item name is required and must be a valid string' });
+  }
+  if (!cat_name || typeof cat_name !== 'string' || cat_name.trim() === '') {
+    return res.status(400).json({ message: 'Category name is required and must be a valid string' });
+  }
+  if (!inventory || !Array.isArray(inventory) || inventory.length === 0 || inventory[0].price <= 0) {
+    return res.status(400).json({ message: 'Price is required and must be greater than 0' });
+  }
+  if (inventory[0].stock_qty <= 0) {
+    return res.status(400).json({ message: 'Stock quantity must be greater than 0' });
+  }
+
+  const newProduct = {
+    item_name,
+    item_desc,
+    generic_name,
+    images,
+    inventory,
+    cat_id,
+    cat_name,
+    manufacturers,
+    manufacturers_alias,
+    sku_type,
+    item_type,
+    is_featured,
+    comes_under,
+    is_prescription_required,
+    alias,
+    generic_alias,
+    is_available,
+    alternative_items,
+    related_items,
+    available_stock_qty_in_pc,
+  };
+
+  try {
+    const result = await mainProductsColl.insertOne(newProduct);
+    const insertedId = result.insertedId;
+    res.status(201).json({
+      message: 'Product added successfully',
+      data: { ...newProduct, _id: insertedId },
+    });
+  } catch (error:any) {
+    res.status(500).json({ message: 'Error adding product', error: error.message });
+  }
+};
+
 export const addFieldToAllProducts = async (req: Request, res: Response) => {
   const { fieldName, fieldValue } = req.body;
 

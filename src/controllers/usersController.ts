@@ -197,3 +197,150 @@ export const deleteUser = async (req: Request, res: Response) => {
     });
   }
 };
+
+export const addToCart = async (req: Request, res: Response) => {
+  const { productId, quantity, user } = req.body;
+  const userId = user._id;
+  try {
+    const product = await db.collection("products").findOne({ _id: new ObjectId(productId) });
+
+    if (!product) {
+      return res.status(404).json({ success: false, message: "Product not found" });
+    }
+
+    const cartItem = {
+      userId: new ObjectId(userId),
+      productId: new ObjectId(productId),
+      quantity: quantity || 1,
+      addedAt: new Date(),
+    };
+
+    // Insert or update cart item
+    await db.collection("cart").updateOne(
+      { userId: new ObjectId(user._id), productId: new ObjectId(productId) },
+      { $set: cartItem },
+      { upsert: true }
+    );
+
+    return res.status(200).json({ success: true, message: "Product added to cart" });
+  } catch (error) {
+    return res.status(500).json({ success: false, message: "Internal server error", error });
+  }
+};
+
+export const addToFavorites = async (req: Request, res: Response) => {
+  const { productId, user } = req.body;
+  const userId = user._id;
+
+  try {
+    const product = await db.collection("products").findOne({ _id: new ObjectId(productId) });
+
+    if (!product) {
+      return res.status(404).json({ success: false, message: "Product not found" });
+    }
+
+    // Add product to user's favorites
+    await db.collection("favorites").updateOne(
+      { userId: new ObjectId(userId) },
+      { $addToSet: { products: new ObjectId(productId) } }, // Add productId to favorites array
+      { upsert: true }
+    );
+
+    return res.status(200).json({ success: true, message: "Product added to favorites" });
+  } catch (error) {
+    return res.status(500).json({ success: false, message: "Internal server error", error });
+  }
+};
+
+export const placeOrder = async (req: Request, res: Response) => {
+  const { items, shippingAddress, user } = req.body;
+  const userId = user._id;
+
+  try {
+    const order = {
+      userId: new ObjectId(userId),
+      items: items.map((item: any) => ({
+        productId: new ObjectId(item.productId),
+        quantity: item.quantity,
+      })),
+      totalPrice: items.reduce((total: number, item: any) => total + item.price * item.quantity, 0),
+      shippingAddress,
+      createdAt: new Date(),
+      status: "pending", // Initial order status
+    };
+
+    // Insert the order
+    const result = await db.collection("orders").insertOne(order);
+
+    // Clear the user's cart after the order is placed
+    await db.collection("cart").deleteMany({ userId: new ObjectId(userId) });
+
+    return res.status(201).json({ success: true, orderId: result.insertedId });
+  } catch (error) {
+    return res.status(500).json({ success: false, message: "Internal server error", error });
+  }
+};
+
+export const cancelOrder = async (req: Request, res: Response) => {
+  const { orderId, user } = req.body;
+  const userId = user._id;
+
+  try {
+    // Find the order
+    const order = await db.collection("orders").findOne({ _id: new ObjectId(orderId), userId: new ObjectId(userId) });
+    
+    if (!order) {
+      return res.status(404).json({ success: false, message: "Order not found or not authorized" });
+    }
+
+    // Update order status to "cancelled"
+    await db.collection("orders").updateOne(
+      { _id: new ObjectId(orderId), userId: new ObjectId(userId) },
+      { $set: { status: "cancelled" } }
+    );
+
+    return res.status(200).json({ success: true, message: "Order cancelled successfully" });
+  } catch (error) {
+    return res.status(500).json({ success: false, message: "Internal server error", error });
+  }
+};
+
+export const removeFromCart = async (req: Request, res: Response) => {
+  const { productId, user } = req.body;
+  const userId = user._id;
+
+  try {
+    const result = await db.collection("cart").deleteOne({
+      userId: new ObjectId(userId),
+      productId: new ObjectId(productId),
+    });
+
+    if (result.deletedCount === 0) {
+      return res.status(404).json({ success: false, message: "Product not found in cart" });
+    }
+
+    return res.status(200).json({ success: true, message: "Product removed from cart" });
+  } catch (error) {
+    return res.status(500).json({ success: false, message: "Internal server error", error });
+  }
+};
+
+// export const removeFromFavorites = async (req: Request, res: Response) => {
+//   const { productId, user } = req.body;
+//   const userId = user._id;
+
+//   try {
+//     const result = await db.collection("favorites").updateOne(
+//       { userId: new ObjectId(userId) },
+//       { $pull: { products: new ObjectId(productId) } }
+//     );
+
+//     if (result.modifiedCount === 0) {
+//       return res.status(404).json({ success: false, message: "Product not found in favorites" });
+//     }
+
+//     return res.status(200).json({ success: true, message: "Product removed from favorites" });
+//   } catch (error) {
+//     return res.status(500).json({ success: false, message: "Internal server error", error });
+//   }
+// };

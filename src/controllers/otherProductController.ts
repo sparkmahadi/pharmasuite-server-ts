@@ -50,6 +50,49 @@ export const getProductsByCategory = async (req: Request, res: Response) => {
   }
 };
 
+
+export const addProduct = async (req: Request, res: Response) => {
+  const { item_name, cat_name, price, stock_qty, ...otherFields } = req.body;
+
+  // Backend validation
+  if (!item_name || typeof item_name !== 'string' || item_name.trim() === '') {
+    return res.status(400).json({ message: 'Item name is required and must be a valid string' });
+  }
+  if (!cat_name || typeof cat_name !== 'string' || cat_name.trim() === '') {
+    return res.status(400).json({ message: 'Category name is required and must be a valid string' });
+  }
+  if (typeof price !== 'number' || price <= 0) {
+    return res.status(400).json({ message: 'Price must be a number greater than 0' });
+  }
+  if (typeof stock_qty !== 'number' || stock_qty <= 0) {
+    return res.status(400).json({ message: 'Stock quantity must be a number greater than 0' });
+  }
+
+  const newProduct = {
+    item_name,
+    cat_name,
+    price,
+    stock_qty,
+    ...otherFields,
+  };
+
+  try {
+    const result = await otherProductsColl.insertOne(newProduct);
+    const insertedId = result.insertedId;
+
+    res.status(201).json({
+      message: 'Product added successfully',
+      data: { ...newProduct, _id: insertedId },
+    });
+  } catch (error: any) {
+    res.status(500).json({
+      message: 'Error adding product',
+      error: error.message,
+    });
+  }
+};
+
+
 export const addFieldToAllProducts = async (req: Request, res: Response) => {
   const { fieldName, fieldValue } = req.body;
 
@@ -100,6 +143,7 @@ export const addFieldToProduct = async (req: Request, res: Response) => {
   const { fieldName, fieldValue } = req.body;
 
   try {
+    // Validate ObjectId
     if (!ObjectId.isValid(id)) {
       return res.status(400).json({ message: 'Invalid product ID' });
     }
@@ -110,11 +154,14 @@ export const addFieldToProduct = async (req: Request, res: Response) => {
     );
 
     if (result.modifiedCount === 0) {
-      return res.status(404).json({ message: 'Product not found' });
+      return res.status(404).json({ message: 'product not found' });
     }
 
     res.status(200).json({ message: 'Field added to product', modifiedCount: result.modifiedCount });
   } catch (error: any) {
+    // Log the error for debugging
+    console.error('Error adding field to product:', error);
+
     res.status(500).json({ message: 'Error adding field to product', error: error.message });
   }
 };

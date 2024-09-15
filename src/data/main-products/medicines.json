@@ -1,443 +1,1211 @@
-[
-  {
-    "_id": "5f69cb125ac1c82f568a42c2",
-    "item_desc": "A topical ointment used to treat skin conditions like eczema, dermatitis, and allergies.",
-    "generic_name": [
-      "Betamethasone 0.10%",
-      "Neomycin Sulphate 0.50%"
-    ],
-    "images": [
-      {
-        "img": "medicine/901-neocort-1629602228027.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 4,
-        "item_variation_option_id": 3026,
-        "variation_option_id": 2,
-        "price": 17.79,
-        "regular_price": 18.53,
-        "variation_option_name": "1 Pc",
-        "qty_in_pcs": 1,
-        "stock_qty": 14,
-        "capacity": "1 Pc",
-        "qty": 0
-      }
-    ],
-    "discount": 4,
-    "cat_id": null,
-    "cat_name": "Topical Ointment",
-    "manufacturers": "The IBN SINA Pharmaceutical Industry Ltd.",
-    "manufacturers_alias": "the-ibn-sina-pharmaceutical-industry-ltd.",
-    "sku_type": "Ointment",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Neocort",
-    "item_type_id": 1,
-    "alias": "neocort-ointment",
-    "generic_alias": "betamethasone-0.10-percentage-and-neomycin-sulphate-0.50-percentage",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 3
+[{
+  "item_desc": "A topical ointment used to treat skin conditions like eczema, dermatitis, and allergies.",
+  "generic_name": [
+    "Betamethasone 0.10%",
+    "Neomycin Sulphate 0.50%"
+  ],
+  "images": [
+    {
+      "img": "medicine/901-neocort-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 4,
+      "item_variation_option_id": 3026,
+      "variation_option_id": 2,
+      "price": 17.79,
+      "regular_price": 18.53,
+      "variation_option_name": "1 Pc",
+      "qty_in_pcs": 1,
+      "stock_qty": 14,
+      "capacity": "1 Pc",
+      "qty": 0
+    }
+  ],
+  "discount": 4,
+  "cat_id": null,
+  "cat_name": "Topical Ointment",
+  "manufacturers": "The IBN SINA Pharmaceutical Industry Ltd.",
+  "manufacturers_alias": "the-ibn-sina-pharmaceutical-industry-ltd.",
+  "sku_type": "Ointment",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Neocort",
+  "item_type_id": 1,
+  "alias": "neocort-ointment",
+  "generic_alias": "betamethasone-0.10-percentage-and-neomycin-sulphate-0.50-percentage",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 3
+},
+{
+  "item_desc": "A pain reliever and fever reducer used to treat mild to moderate pain.",
+  "generic_name": [
+    "Ibuprofen 200 mg"
+  ],
+  "images": [
+    {
+      "img": "medicine/902-ibuprofen-1629602228030.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 5,
+      "item_variation_option_id": 3027,
+      "variation_option_id": 3,
+      "price": 5.5,
+      "regular_price": 5.79,
+      "variation_option_name": "1 Bottle",
+      "qty_in_pcs": 50,
+      "stock_qty": 100,
+      "capacity": "1 Bottle",
+      "qty": 0
+    }
+  ],
+  "discount": 5,
+  "cat_id": null,
+  "cat_name": "Pain Reliever",
+  "manufacturers": "XYZ Pharmaceuticals Ltd.",
+  "manufacturers_alias": "xyz-pharmaceuticals-ltd.",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Ibuprofen",
+  "item_type_id": 2,
+  "alias": "ibuprofen-tablet",
+  "generic_alias": "ibuprofen-200-mg",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 50
+},
+{
+  "item_desc": "An antacid used to relieve heartburn, acid indigestion, and upset stomach.",
+  "generic_name": [
+    "Calcium Carbonate 500 mg"
+  ],
+  "images": [
+    {
+      "img": "medicine/903-tums-1629602228035.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3028,
+      "variation_option_id": 4,
+      "price": 3.29,
+      "regular_price": 3.39,
+      "variation_option_name": "1 Pack",
+      "qty_in_pcs": 24,
+      "stock_qty": 60,
+      "capacity": "1 Pack",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Antacid",
+  "manufacturers": "ABC Pharma Inc.",
+  "manufacturers_alias": "abc-pharma-inc.",
+  "sku_type": "Chewable Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Tums",
+  "item_type_id": 3,
+  "alias": "tums-chewable-tablet",
+  "generic_alias": "calcium-carbonate-500-mg",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 24
+},
+{
+  "item_desc": "An antihistamine used to relieve allergy symptoms such as runny nose, sneezing, and itching.",
+  "generic_name": [
+    "Loratadine 10 mg"
+  ],
+  "images": [
+    {
+      "img": "medicine/904-loratadine-1629602228040.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 2,
+      "item_variation_option_id": 3029,
+      "variation_option_id": 5,
+      "price": 8.99,
+      "regular_price": 9.19,
+      "variation_option_name": "1 Box",
+      "qty_in_pcs": 30,
+      "stock_qty": 80,
+      "capacity": "1 Box",
+      "qty": 0
+    }
+  ],
+  "discount": 2,
+  "cat_id": null,
+  "cat_name": "Antihistamine",
+  "manufacturers": "DEF Healthcare Pvt. Ltd.",
+  "manufacturers_alias": "def-healthcare-pvt-ltd.",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Loratadine",
+  "item_type_id": 4,
+  "alias": "loratadine-tablet",
+  "generic_alias": "loratadine-10-mg",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 30
+},
+{
+  "item_desc": "A cough suppressant used to relieve cough caused by minor throat and bronchial irritation.",
+  "generic_name": [
+    "Dextromethorphan 15 mg"
+  ],
+  "images": [
+    {
+      "img": "medicine/905-dextromethorphan-1629602228045.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3030,
+      "variation_option_id": 6,
+      "price": 6.49,
+      "regular_price": 6.69,
+      "variation_option_name": "1 Bottle",
+      "qty_in_pcs": 100,
+      "stock_qty": 50,
+      "capacity": "1 Bottle",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Cough Suppressant",
+  "manufacturers": "GHI Pharma Ltd.",
+  "manufacturers_alias": "ghi-pharma-ltd.",
+  "sku_type": "Syrup",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Dextromethorphan",
+  "item_type_id": 5,
+  "alias": "dextromethorphan-syrup",
+  "generic_alias": "dextromethorphan-15-mg",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 100
+},
+{
+  "item_desc": "An anti-inflammatory gel used to relieve pain and reduce inflammation in muscles and joints.",
+  "generic_name": [
+    "Diclofenac Sodium 1%"
+  ],
+  "images": [
+    {
+      "img": "medicine/906-diclofenac-1629602228050.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 4,
+      "item_variation_option_id": 3031,
+      "variation_option_id": 7,
+      "price": 12.99,
+      "regular_price": 13.49,
+      "variation_option_name": "1 Tube",
+      "qty_in_pcs": 20,
+      "stock_qty": 75,
+      "capacity": "1 Tube",
+      "qty": 0
+    }
+  ],
+  "discount": 4,
+  "cat_id": null,
+  "cat_name": "Anti-Inflammatory",
+  "manufacturers": "JKL Pharmaceuticals",
+  "manufacturers_alias": "jkl-pharmaceuticals",
+  "sku_type": "Gel",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Diclofenac Gel",
+  "item_type_id": 6,
+  "alias": "diclofenac-gel",
+  "generic_alias": "diclofenac-sodium-1-percentage",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 20
+},
+{
+  "item_desc": "A laxative used to relieve occasional constipation and irregularity.",
+  "generic_name": [
+    "Polyethylene Glycol 3350"
+  ],
+  "images": [
+    {
+      "img": "medicine/907-peg-1629602228055.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3032,
+      "variation_option_id": 8,
+      "price": 14.99,
+      "regular_price": 15.49,
+      "variation_option_name": "1 Bottle",
+      "qty_in_pcs": 500,
+      "stock_qty": 40,
+      "capacity": "1 Bottle",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Laxative",
+  "manufacturers": "MNO Pharmaceuticals",
+  "manufacturers_alias": "mno-pharmaceuticals",
+  "sku_type": "Powder",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Polyethylene Glycol",
+  "item_type_id": 7,
+  "alias": "peg-powder",
+  "generic_alias": "polyethylene-glycol-3350",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 500
+},
+{
+  "item_desc": "A decongestant used to relieve nasal congestion due to colds, allergies, or sinus infections.",
+  "generic_name": [
+    "Pseudoephedrine 30 mg"
+  ],
+  "images": [
+    {
+      "img": "medicine/908-pseudoephedrine-1629602228060.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 2,
+      "item_variation_option_id": 3033,
+      "variation_option_id": 9,
+      "price": 7.99,
+      "regular_price": 8.19,
+      "variation_option_name": "1 Box",
+      "qty_in_pcs": 24,
+      "stock_qty": 65,
+      "capacity": "1 Box",
+      "qty": 0
+    }
+  ],
+  "discount": 2,
+  "cat_id": null,
+  "cat_name": "Decongestant",
+  "manufacturers": "PQR Healthcare Ltd.",
+  "manufacturers_alias": "pqr-healthcare-ltd.",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Pseudoephedrine",
+  "item_type_id": 8,
+  "alias": "pseudoephedrine-tablet",
+  "generic_alias": "pseudoephedrine-30-mg",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 24
+},
+{
+  "item_desc": "An antidiarrheal used to control symptoms of diarrhea.",
+  "generic_name": [
+    "Loperamide 2 mg"
+  ],
+  "images": [
+    {
+      "img": "medicine/909-loperamide-1629602228065.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3034,
+      "variation_option_id": 10,
+      "price": 4.99,
+      "regular_price": 5.19,
+      "variation_option_name": "1 Box",
+      "qty_in_pcs": 20,
+      "stock_qty": 100,
+      "capacity": "1 Box",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Antidiarrheal",
+  "manufacturers": "STU Pharmaceuticals",
+  "manufacturers_alias": "stu-pharmaceuticals",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Loperamide",
+  "item_type_id": 9,
+  "alias": "loperamide-tablet",
+  "generic_alias": "loperamide-2-mg",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 20
+},
+{
+  "item_desc": "An antifungal cream used to treat athlete's foot, jock itch, and ringworm.",
+  "generic_name": [
+    "Clotrimazole 1%"
+  ],
+  "images": [
+    {
+      "img": "medicine/910-clotrimazole-1629602228070.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 4,
+      "item_variation_option_id": 3035,
+      "variation_option_id": 11,
+      "price": 9.99,
+      "regular_price": 10.39,
+      "variation_option_name": "1 Tube",
+      "qty_in_pcs": 15,
+      "stock_qty": 55,
+      "capacity": "1 Tube",
+      "qty": 0
+    }
+  ],
+  "discount": 4,
+  "cat_id": null,
+  "cat_name": "Antifungal",
+  "manufacturers": "VWX Pharmaceuticals",
+  "manufacturers_alias": "vwx-pharmaceuticals",
+  "sku_type": "Cream",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "otc",
+  "is_prescription_required": 0,
+  "item_name": "Clotrimazole Cream",
+  "item_type_id": 10,
+  "alias": "clotrimazole-cream",
+  "generic_alias": "clotrimazole-1-percentage",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 15
+},
+{
+  "item_desc": "Fluclox is an antibiotic used to treat bacterial infections, including skin and soft tissue infections.",
+  "generic_name": [
+    "Flucloxacillin Sodium"
+  ],
+  "images": [
+    {
+      "img": "medicine/fluclox-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 5,
+      "item_variation_option_id": 3027,
+      "variation_option_id": 1,
+      "price": 12.5,
+      "regular_price": 13.15,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 25,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 5,
+  "cat_id": null,
+  "cat_name": "Antibiotic",
+  "manufacturers": "ACI Limited",
+  "manufacturers_alias": "aci-limited",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Fluclox",
+  "item_type_id": 2,
+  "alias": "fluclox-tablet",
+  "generic_alias": "flucloxacillin-sodium",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 20
+},
+{
+  "item_desc": "Febus is used to lower uric acid levels in patients with gout.",
+  "generic_name": [
+    "Febuxostat"
+  ],
+  "images": [
+    {
+      "img": "medicine/febus-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3028,
+      "variation_option_id": 1,
+      "price": 9.99,
+      "regular_price": 10.3,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 30,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Gout",
+  "manufacturers": "Square Pharmaceuticals Ltd.",
+  "manufacturers_alias": "square-pharmaceuticals-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Febus",
+  "item_type_id": 2,
+  "alias": "febus-tablet",
+  "generic_alias": "febuxostat",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 15
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832ea8"
   },
-  {
-    "_id": "5f69cb125ac1c82f568a42d3",
-    "item_desc": "A pain reliever and fever reducer used to treat mild to moderate pain.",
-    "generic_name": [
-      "Ibuprofen 200 mg"
-    ],
-    "images": [
-      {
-        "img": "medicine/902-ibuprofen-1629602228030.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 5,
-        "item_variation_option_id": 3027,
-        "variation_option_id": 3,
-        "price": 5.50,
-        "regular_price": 5.79,
-        "variation_option_name": "1 Bottle",
-        "qty_in_pcs": 50,
-        "stock_qty": 100,
-        "capacity": "1 Bottle",
-        "qty": 0
-      }
-    ],
-    "discount": 5,
-    "cat_id": null,
-    "cat_name": "Pain Reliever",
-    "manufacturers": "XYZ Pharmaceuticals Ltd.",
-    "manufacturers_alias": "xyz-pharmaceuticals-ltd.",
-    "sku_type": "Tablet",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Ibuprofen",
-    "item_type_id": 2,
-    "alias": "ibuprofen-tablet",
-    "generic_alias": "ibuprofen-200-mg",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 50
+  "item_desc": "Fluclox is an antibiotic used to treat bacterial infections, including skin and soft tissue infections.",
+  "generic_name": [
+    "Flucloxacillin Sodium"
+  ],
+  "images": [
+    {
+      "img": "medicine/fluclox-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 5,
+      "item_variation_option_id": 3027,
+      "variation_option_id": 1,
+      "price": 12.5,
+      "regular_price": 13.15,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 25,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 5,
+  "cat_id": null,
+  "cat_name": "Antibiotic",
+  "manufacturers": "ACI Limited",
+  "manufacturers_alias": "aci-limited",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Fluclox",
+  "item_type_id": 2,
+  "alias": "fluclox-tablet",
+  "generic_alias": "flucloxacillin-sodium",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 20
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832ea9"
   },
-  {
-    "_id": "5f69cb125ac1c82f568a42e4",
-    "item_desc": "An antacid used to relieve heartburn, acid indigestion, and upset stomach.",
-    "generic_name": [
-      "Calcium Carbonate 500 mg"
-    ],
-    "images": [
-      {
-        "img": "medicine/903-tums-1629602228035.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 3,
-        "item_variation_option_id": 3028,
-        "variation_option_id": 4,
-        "price": 3.29,
-        "regular_price": 3.39,
-        "variation_option_name": "1 Pack",
-        "qty_in_pcs": 24,
-        "stock_qty": 60,
-        "capacity": "1 Pack",
-        "qty": 0
-      }
-    ],
-    "discount": 3,
-    "cat_id": null,
-    "cat_name": "Antacid",
-    "manufacturers": "ABC Pharma Inc.",
-    "manufacturers_alias": "abc-pharma-inc.",
-    "sku_type": "Chewable Tablet",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Tums",
-    "item_type_id": 3,
-    "alias": "tums-chewable-tablet",
-    "generic_alias": "calcium-carbonate-500-mg",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 24
+  "item_desc": "Febus is used to lower uric acid levels in patients with gout.",
+  "generic_name": [
+    "Febuxostat"
+  ],
+  "images": [
+    {
+      "img": "medicine/febus-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3028,
+      "variation_option_id": 1,
+      "price": 9.99,
+      "regular_price": 10.3,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 30,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Gout",
+  "manufacturers": "Square Pharmaceuticals Ltd.",
+  "manufacturers_alias": "square-pharmaceuticals-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Febus",
+  "item_type_id": 2,
+  "alias": "febus-tablet",
+  "generic_alias": "febuxostat",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 15
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eaa"
   },
-  {
-    "_id": "5f69cb125ac1c82f568a42f5",
-    "item_desc": "An antihistamine used to relieve allergy symptoms such as runny nose, sneezing, and itching.",
-    "generic_name": [
-      "Loratadine 10 mg"
-    ],
-    "images": [
-      {
-        "img": "medicine/904-loratadine-1629602228040.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 2,
-        "item_variation_option_id": 3029,
-        "variation_option_id": 5,
-        "price": 8.99,
-        "regular_price": 9.19,
-        "variation_option_name": "1 Box",
-        "qty_in_pcs": 30,
-        "stock_qty": 80,
-        "capacity": "1 Box",
-        "qty": 0
-      }
-    ],
-    "discount": 2,
-    "cat_id": null,
-    "cat_name": "Antihistamine",
-    "manufacturers": "DEF Healthcare Pvt. Ltd.",
-    "manufacturers_alias": "def-healthcare-pvt-ltd.",
-    "sku_type": "Tablet",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Loratadine",
-    "item_type_id": 4,
-    "alias": "loratadine-tablet",
-    "generic_alias": "loratadine-10-mg",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 30
+  "item_desc": "Anaflex is a muscle relaxant used to relieve pain and discomfort caused by strains, sprains, and other muscle injuries.",
+  "generic_name": [
+    "Cyclobenzaprine"
+  ],
+  "images": [
+    {
+      "img": "medicine/anaflex-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 6,
+      "item_variation_option_id": 3029,
+      "variation_option_id": 1,
+      "price": 14.5,
+      "regular_price": 15.5,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 20,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 6,
+  "cat_id": null,
+  "cat_name": "Muscle Relaxant",
+  "manufacturers": "Beximco Pharmaceuticals Ltd.",
+  "manufacturers_alias": "beximco-pharmaceuticals-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Anaflex",
+  "item_type_id": 2,
+  "alias": "anaflex-tablet",
+  "generic_alias": "cyclobenzaprine",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 18
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eab"
   },
-  {
-    "_id": "5f69cb125ac1c82f568a4306",
-    "item_desc": "A cough suppressant used to relieve cough caused by minor throat and bronchial irritation.",
-    "generic_name": [
-      "Dextromethorphan 15 mg"
-    ],
-    "images": [
-      {
-        "img": "medicine/905-dextromethorphan-1629602228045.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 3,
-        "item_variation_option_id": 3030,
-        "variation_option_id": 6,
-        "price": 6.49,
-        "regular_price": 6.69,
-        "variation_option_name": "1 Bottle",
-        "qty_in_pcs": 100,
-        "stock_qty": 50,
-        "capacity": "1 Bottle",
-        "qty": 0
-      }
-    ],
-    "discount": 3,
-    "cat_id": null,
-    "cat_name": "Cough Suppressant",
-    "manufacturers": "GHI Pharma Ltd.",
-    "manufacturers_alias": "ghi-pharma-ltd.",
-    "sku_type": "Syrup",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Dextromethorphan",
-    "item_type_id": 5,
-    "alias": "dextromethorphan-syrup",
-    "generic_alias": "dextromethorphan-15-mg",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 100
+  "item_desc": "Doximar is an antibiotic used to treat various bacterial infections, including respiratory tract infections.",
+  "generic_name": [
+    "Doxycycline"
+  ],
+  "images": [
+    {
+      "img": "medicine/doximar-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 7,
+      "item_variation_option_id": 3030,
+      "variation_option_id": 1,
+      "price": 11.5,
+      "regular_price": 12.35,
+      "variation_option_name": "10 Capsules",
+      "qty_in_pcs": 10,
+      "stock_qty": 22,
+      "capacity": "10 Capsules",
+      "qty": 0
+    }
+  ],
+  "discount": 7,
+  "cat_id": null,
+  "cat_name": "Antibiotic",
+  "manufacturers": "Renata Limited",
+  "manufacturers_alias": "renata-limited",
+  "sku_type": "Capsule",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Doximar",
+  "item_type_id": 2,
+  "alias": "doximar-capsule",
+  "generic_alias": "doxycycline",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 17
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eac"
   },
-  {
-    "_id": "5f69cb125ac1c82f568a4317",
-    "item_desc": "An anti-inflammatory gel used to relieve pain and reduce inflammation in muscles and joints.",
-    "generic_name": [
-      "Diclofenac Sodium 1%"
-    ],
-    "images": [
-      {
-        "img": "medicine/906-diclofenac-1629602228050.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 4,
-        "item_variation_option_id": 3031,
-        "variation_option_id": 7,
-        "price": 12.99,
-        "regular_price": 13.49,
-        "variation_option_name": "1 Tube",
-        "qty_in_pcs": 20,
-        "stock_qty": 75,
-        "capacity": "1 Tube",
-        "qty": 0
-      }
-    ],
-    "discount": 4,
-    "cat_id": null,
-    "cat_name": "Anti-Inflammatory",
-    "manufacturers": "JKL Pharmaceuticals",
-    "manufacturers_alias": "jkl-pharmaceuticals",
-    "sku_type": "Gel",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Diclofenac Gel",
-    "item_type_id": 6,
-    "alias": "diclofenac-gel",
-    "generic_alias": "diclofenac-sodium-1-percentage",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 20
+  "item_desc": "Atasin is used to lower cholesterol levels in the blood, particularly in patients with hyperlipidemia.",
+  "generic_name": [
+    "Atorvastatin"
+  ],
+  "images": [
+    {
+      "img": "medicine/atasin-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 4,
+      "item_variation_option_id": 3031,
+      "variation_option_id": 1,
+      "price": 8.5,
+      "regular_price": 8.85,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 30,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 4,
+  "cat_id": null,
+  "cat_name": "Cholesterol",
+  "manufacturers": "Opsonin Pharma Limited",
+  "manufacturers_alias": "opsonin-pharma-limited",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Atasin",
+  "item_type_id": 2,
+  "alias": "atasin-tablet",
+  "generic_alias": "atorvastatin",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 25
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832ead"
   },
-  {
-    "_id": "5f69cb125ac1c82f568a4328",
-    "item_desc": "A laxative used to relieve occasional constipation and irregularity.",
-    "generic_name": [
-      "Polyethylene Glycol 3350"
-    ],
-    "images": [
-      {
-        "img": "medicine/907-peg-1629602228055.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 3,
-        "item_variation_option_id": 3032,
-        "variation_option_id": 8,
-        "price": 14.99,
-        "regular_price": 15.49,
-        "variation_option_name": "1 Bottle",
-        "qty_in_pcs": 500,
-        "stock_qty": 40,
-        "capacity": "1 Bottle",
-        "qty": 0
-      }
-    ],
-    "discount": 3,
-    "cat_id": null,
-    "cat_name": "Laxative",
-    "manufacturers": "MNO Pharmaceuticals",
-    "manufacturers_alias": "mno-pharmaceuticals",
-    "sku_type": "Powder",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Polyethylene Glycol",
-    "item_type_id": 7,
-    "alias": "peg-powder",
-    "generic_alias": "polyethylene-glycol-3350",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 500
+  "item_desc": "Cefim 3 DS is a cephalosporin antibiotic used to treat a variety of bacterial infections.",
+  "generic_name": [
+    "Cefixime"
+  ],
+  "images": [
+    {
+      "img": "medicine/cefim-3ds-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3032,
+      "variation_option_id": 1,
+      "price": 15.2,
+      "regular_price": 15.68,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 28,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Antibiotic",
+  "manufacturers": "Eskayef Pharmaceuticals Ltd.",
+  "manufacturers_alias": "eskayef-pharmaceuticals-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Cefim 3 DS",
+  "item_type_id": 2,
+  "alias": "cefim-3ds-tablet",
+  "generic_alias": "cefixime",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 20
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eae"
   },
-  {
-    "_id": "5f69cb125ac1c82f568a4339",
-    "item_desc": "A decongestant used to relieve nasal congestion due to colds, allergies, or sinus infections.",
-    "generic_name": [
-      "Pseudoephedrine 30 mg"
-    ],
-    "images": [
-      {
-        "img": "medicine/908-pseudoephedrine-1629602228060.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 2,
-        "item_variation_option_id": 3033,
-        "variation_option_id": 9,
-        "price": 7.99,
-        "regular_price": 8.19,
-        "variation_option_name": "1 Box",
-        "qty_in_pcs": 24,
-        "stock_qty": 65,
-        "capacity": "1 Box",
-        "qty": 0
-      }
-    ],
-    "discount": 2,
-    "cat_id": null,
-    "cat_name": "Decongestant",
-    "manufacturers": "PQR Healthcare Ltd.",
-    "manufacturers_alias": "pqr-healthcare-ltd.",
-    "sku_type": "Tablet",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Pseudoephedrine",
-    "item_type_id": 8,
-    "alias": "pseudoephedrine-tablet",
-    "generic_alias": "pseudoephedrine-30-mg",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 24
+  "item_desc": "Brodil 4 is a bronchodilator used to treat asthma and other conditions involving breathing difficulties.",
+  "generic_name": [
+    "Salbutamol"
+  ],
+  "images": [
+    {
+      "img": "medicine/brodil-4-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 5,
+      "item_variation_option_id": 3033,
+      "variation_option_id": 1,
+      "price": 8.75,
+      "regular_price": 9.21,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 35,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 5,
+  "cat_id": null,
+  "cat_name": "Bronchodilator",
+  "manufacturers": "Incepta Pharmaceuticals Ltd.",
+  "manufacturers_alias": "incepta-pharmaceuticals-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Brodil 4",
+  "item_type_id": 2,
+  "alias": "brodil-4-tablet",
+  "generic_alias": "salbutamol",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 22
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eaf"
   },
-  {
-    "_id": "5f69cb125ac1c82f568a434a",
-    "item_desc": "An antidiarrheal used to control symptoms of diarrhea.",
-    "generic_name": [
-      "Loperamide 2 mg"
-    ],
-    "images": [
-      {
-        "img": "medicine/909-loperamide-1629602228065.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 3,
-        "item_variation_option_id": 3034,
-        "variation_option_id": 10,
-        "price": 4.99,
-        "regular_price": 5.19,
-        "variation_option_name": "1 Box",
-        "qty_in_pcs": 20,
-        "stock_qty": 100,
-        "capacity": "1 Box",
-        "qty": 0
-      }
-    ],
-    "discount": 3,
-    "cat_id": null,
-    "cat_name": "Antidiarrheal",
-    "manufacturers": "STU Pharmaceuticals",
-    "manufacturers_alias": "stu-pharmaceuticals",
-    "sku_type": "Tablet",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Loperamide",
-    "item_type_id": 9,
-    "alias": "loperamide-tablet",
-    "generic_alias": "loperamide-2-mg",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 20
+  "item_desc": "Crtilex D is an antihistamine and decongestant combination used to relieve allergy symptoms.",
+  "generic_name": [
+    "Cetirizine",
+    "Pseudoephedrine"
+  ],
+  "images": [
+    {
+      "img": "medicine/crtilex-d-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 4,
+      "item_variation_option_id": 3034,
+      "variation_option_id": 1,
+      "price": 13.2,
+      "regular_price": 13.75,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 25,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 4,
+  "cat_id": null,
+  "cat_name": "Antihistamine",
+  "manufacturers": "Renata Limited",
+  "manufacturers_alias": "renata-limited",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Crtilex D",
+  "item_type_id": 2,
+  "alias": "crtilex-d-tablet",
+  "generic_alias": "cetirizine-and-pseudoephedrine",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 18
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eb0"
   },
-  {
-    "_id": "5f69cb125ac1c82f568a435b",
-    "item_desc": "An antifungal cream used to treat athlete's foot, jock itch, and ringworm.",
-    "generic_name": [
-      "Clotrimazole 1%"
-    ],
-    "images": [
-      {
-        "img": "medicine/910-clotrimazole-1629602228070.webp"
-      }
-    ],
-    "inventory": [
-      {
-        "discount": 4,
-        "item_variation_option_id": 3035,
-        "variation_option_id": 11,
-        "price": 9.99,
-        "regular_price": 10.39,
-        "variation_option_name": "1 Tube",
-        "qty_in_pcs": 15,
-        "stock_qty": 55,
-        "capacity": "1 Tube",
-        "qty": 0
-      }
-    ],
-    "discount": 4,
-    "cat_id": null,
-    "cat_name": "Antifungal",
-    "manufacturers": "VWX Pharmaceuticals",
-    "manufacturers_alias": "vwx-pharmaceuticals",
-    "sku_type": "Cream",
-    "item_type": "medicine",
-    "is_featured": false,
-    "comes_under": "otc",
-    "is_prescription_required": 0,
-    "item_name": "Clotrimazole Cream",
-    "item_type_id": 10,
-    "alias": "clotrimazole-cream",
-    "generic_alias": "clotrimazole-1-percentage",
-    "is_available": true,
-    "alternative_items": [],
-    "related_items": [],
-    "available_stock_qty_in_pc": 15
-  }
-]
+  "item_desc": "Ritch 50 ml is a cough syrup used to treat symptoms of cough and cold.",
+  "generic_name": [
+    "Dextromethorphan",
+    "Guaifenesin"
+  ],
+  "images": [
+    {
+      "img": "medicine/ritch-50ml-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 2,
+      "item_variation_option_id": 3035,
+      "variation_option_id": 1,
+      "price": 5.99,
+      "regular_price": 6.15,
+      "variation_option_name": "50 ml",
+      "qty_in_pcs": 1,
+      "stock_qty": 40,
+      "capacity": "50 ml",
+      "qty": 0
+    }
+  ],
+  "discount": 2,
+  "cat_id": null,
+  "cat_name": "Cough Syrup",
+  "manufacturers": "ACI Limited",
+  "manufacturers_alias": "aci-limited",
+  "sku_type": "Syrup",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Ritch 50 ml",
+  "item_type_id": 2,
+  "alias": "ritch-50ml-syrup",
+  "generic_alias": "dextromethorphan-and-guaifenesin",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 35
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eb1"
+  },
+  "item_desc": "Acical-D is a calcium supplement with vitamin D used to treat and prevent calcium deficiency.",
+  "generic_name": [
+    "Calcium Carbonate",
+    "Vitamin D3"
+  ],
+  "images": [
+    {
+      "img": "medicine/acical-d-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3036,
+      "variation_option_id": 1,
+      "price": 7.5,
+      "regular_price": 7.75,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 32,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Calcium Supplement",
+  "manufacturers": "Aristopharma Ltd.",
+  "manufacturers_alias": "aristopharma-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Acical-D",
+  "item_type_id": 2,
+  "alias": "acical-d-tablet",
+  "generic_alias": "calcium-carbonate-and-vitamin-d3",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 28
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eb2"
+  },
+  "item_desc": "Ebasten 10 is an antihistamine used to treat allergic conditions such as hay fever and urticaria.",
+  "generic_name": [
+    "Ebastine"
+  ],
+  "images": [
+    {
+      "img": "medicine/ebasten-10-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 4,
+      "item_variation_option_id": 3037,
+      "variation_option_id": 1,
+      "price": 10.5,
+      "regular_price": 10.95,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 27,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 4,
+  "cat_id": null,
+  "cat_name": "Antihistamine",
+  "manufacturers": "Square Pharmaceuticals Ltd.",
+  "manufacturers_alias": "square-pharmaceuticals-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Ebasten 10",
+  "item_type_id": 2,
+  "alias": "ebasten-10-tablet",
+  "generic_alias": "ebastine",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 21
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eb3"
+  },
+  "item_desc": "Biocal-D is a calcium and vitamin D3 supplement used to treat and prevent osteoporosis.",
+  "generic_name": [
+    "Calcium Carbonate",
+    "Vitamin D3"
+  ],
+  "images": [
+    {
+      "img": "medicine/biocal-d-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3038,
+      "variation_option_id": 1,
+      "price": 8.2,
+      "regular_price": 8.45,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 30,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Calcium Supplement",
+  "manufacturers": "General Pharmaceuticals Ltd.",
+  "manufacturers_alias": "general-pharmaceuticals-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Biocal-D",
+  "item_type_id": 2,
+  "alias": "biocal-d-tablet",
+  "generic_alias": "calcium-carbonate-and-vitamin-d3",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 25
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eb4"
+  },
+  "item_desc": "Micosone 10 is an antifungal medication used to treat fungal skin infections.",
+  "generic_name": [
+    "Miconazole"
+  ],
+  "images": [
+    {
+      "img": "medicine/micosone-10-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 4,
+      "item_variation_option_id": 3039,
+      "variation_option_id": 1,
+      "price": 9.5,
+      "regular_price": 9.9,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 22,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 4,
+  "cat_id": null,
+  "cat_name": "Antifungal",
+  "manufacturers": "Beximco Pharmaceuticals Ltd.",
+  "manufacturers_alias": "beximco-pharmaceuticals-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Micosone 10",
+  "item_type_id": 2,
+  "alias": "micosone-10-tablet",
+  "generic_alias": "miconazole",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 20
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eb5"
+  },
+  "item_desc": "Prosma 1 is a bronchodilator used to prevent and treat symptoms of asthma.",
+  "generic_name": [
+    "Salbutamol"
+  ],
+  "images": [
+    {
+      "img": "medicine/prosma-1-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 5,
+      "item_variation_option_id": 3040,
+      "variation_option_id": 1,
+      "price": 6.5,
+      "regular_price": 6.85,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 30,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 5,
+  "cat_id": null,
+  "cat_name": "Bronchodilator",
+  "manufacturers": "Healthcare Pharmaceuticals Ltd.",
+  "manufacturers_alias": "healthcare-pharmaceuticals-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Prosma 1",
+  "item_type_id": 2,
+  "alias": "prosma-1-tablet",
+  "generic_alias": "salbutamol",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 25
+},
+{
+  "_id": {
+    "$oid": "66d8392294467d9d92832eb6"
+  },
+  "item_desc": "Xeldrin 40 is a proton pump inhibitor used to treat gastric conditions such as acid reflux.",
+  "generic_name": [
+    "Esomeprazole"
+  ],
+  "images": [
+    {
+      "img": "medicine/xeldrin-40-1629602228027.webp"
+    }
+  ],
+  "inventory": [
+    {
+      "discount": 3,
+      "item_variation_option_id": 3041,
+      "variation_option_id": 1,
+      "price": 11.2,
+      "regular_price": 11.55,
+      "variation_option_name": "10 Tablets",
+      "qty_in_pcs": 10,
+      "stock_qty": 28,
+      "capacity": "10 Tablets",
+      "qty": 0
+    }
+  ],
+  "discount": 3,
+  "cat_id": null,
+  "cat_name": "Proton Pump Inhibitor",
+  "manufacturers": "Opsonin Pharma Ltd.",
+  "manufacturers_alias": "opsonin-pharma-ltd",
+  "sku_type": "Tablet",
+  "item_type": "medicine",
+  "is_featured": false,
+  "comes_under": "prescription",
+  "is_prescription_required": 1,
+  "item_name": "Xeldrin 40",
+  "item_type_id": 2,
+  "alias": "xeldrin-40-tablet",
+  "generic_alias": "esomeprazole",
+  "is_available": true,
+  "alternative_items": [],
+  "related_items": [],
+  "available_stock_qty_in_pc": 24
+}]

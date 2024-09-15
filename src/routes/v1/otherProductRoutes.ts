@@ -1,5 +1,5 @@
 import { Router } from 'express';
-import { addFieldToAllProducts, deleteFieldFromAllProducts, getOtherProducts, getProductById, updateFieldInAllProducts } from '../../controllers/otherProductController';
+import { addFieldToAllProducts, deleteFieldFromAllProducts,addFieldToProduct, updateFieldInProduct, deleteFieldFromProduct, getOtherProducts, getProductById, updateFieldInAllProducts } from '../../controllers/otherProductController';
 const router = Router();
 
 router
@@ -27,12 +27,12 @@ router
  */
 .get('/:id', getProductById);
 
+router.patch("/:id/add-field", addFieldToProduct);
+router.patch("/:id/update-field", updateFieldInProduct);
+router.patch("/:id/delete-field", deleteFieldFromProduct);
+
 router.patch("/add-field", addFieldToAllProducts);
 router.patch("/update-field", updateFieldInAllProducts);
 router.patch("/delete-field", deleteFieldFromAllProducts);
-
-router.patch("/:id/add-field", addFieldToAllProducts);
-router.patch("/:id/update-field", updateFieldInAllProducts);
-router.patch("/:id/delete-field", deleteFieldFromAllProducts);
 
 export default router;
