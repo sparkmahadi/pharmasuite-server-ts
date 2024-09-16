@@ -8,6 +8,7 @@ router.get('/:id', getUserById);
 
 router.post('/register', postUser);
 
+
 router.patch("/update-role/:id", updateUserRole);
 
 router.delete('/delete/:id', deleteUser);

@@ -5,6 +5,8 @@ import otherProductRoutes from "./routes/v1/otherProductRoutes";
 import otherProductCatRoutes from "./routes/v1/otherProductCatRoutes";
 import usersRoutes from "./routes/v1/usersRoutes";
 import adminRoutes from "./routes/v1/adminRoutes";
+import cartRoutes from "./routes/v1/cartRoutes";
+import orderRoutes from "./routes/v1/orderRoutes";
 const { connectToDB } = require('./db/connectToDB');
 
 const app = express();
@@ -17,6 +19,8 @@ app.use("/api/v1/main-products", mainProductRoutes);
 app.use("/api/v1/other-products/categories", otherProductCatRoutes);
 app.use("/api/v1/other-products", otherProductRoutes);
 app.use("/api/v1/users", usersRoutes);
+app.use("/api/v1/carts", cartRoutes);
+app.use("/api/v1/orders", orderRoutes);
 app.use("/api/v1/admin", adminRoutes);
 
 connectToDB()
