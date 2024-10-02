@@ -35,6 +35,10 @@ connectToDB()
     console.error("Error starting server:", err);
   });
 
+// app.get("/", (req, res)=>{
+//   res.send("Pharmasuite server is running!!!")
+// })
+
   app.all("*", (req, res) => {
     res.send("No routes found in server");
 })

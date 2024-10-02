@@ -19,7 +19,7 @@ export const getCategoryByName = async (req: Request, res: Response) => {
     if (category) {
       res.json(category);
     } else {
-      res.status(404).json({ message: 'Product not found' });
+      res.status(204).json({ message: 'Product not found' });
     }
   } catch (error) {
     res.status(500).json({ message: 'Server error' });
@@ -53,7 +53,7 @@ export const updateCategoryById = async (req: Request, res: Response) => {
     );
 
     if (result.matchedCount === 0) {
-      return res.status(404).json({ message: 'Category not found' });
+      return res.status(200).json({ message: 'Category not found' });
     }
 
     res.status(200).json({ message: 'Category updated successfully' });
@@ -75,7 +75,7 @@ export const deleteCategory = async (req: Request, res: Response) => {
     const result = await categoryColl.deleteOne({ _id: new ObjectId(id) });
 
     if (result.deletedCount === 0) {
-      return res.status(404).json({ message: 'Category not found' });
+      return res.status(200).json({ message: 'Category not found' });
     }
 
     res.status(200).json({ message: 'Category deleted successfully' });
@@ -157,7 +157,7 @@ export const addFieldToCategory = async (req: Request, res: Response) => {
     );
 
     if (result.modifiedCount === 0) {
-      return res.status(404).json({ message: 'Category not found' });
+      return res.status(200).json({ message: 'Category not found' });
     }
 
     res.status(200).json({ message: 'Field added to category', modifiedCount: result.modifiedCount });
@@ -185,7 +185,7 @@ export const updateFieldInCategory = async (req: Request, res: Response) => {
     );
 
     if (result.modifiedCount === 0) {
-      return res.status(404).json({ message: 'Category not found or field not updated' });
+      return res.status(200).json({ message: 'Category not found or field not updated' });
     }
 
     res.status(200).json({ message: 'Field updated in category', modifiedCount: result.modifiedCount });
@@ -213,7 +213,7 @@ export const deleteFieldFromCategory = async (req: Request, res: Response) => {
     );
 
     if (result.modifiedCount === 0) {
-      return res.status(404).json({ message: 'Category not found or field not deleted' });
+      return res.status(200).json({ message: 'Category not found or field not deleted' });
     }
 
     res.status(200).json({ message: 'Field deleted from category', modifiedCount: result.modifiedCount });

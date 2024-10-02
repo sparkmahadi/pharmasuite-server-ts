@@ -10,7 +10,7 @@ const cartsColl = db.collection("carts");
 export const addToCart = async (req: Request, res: Response) => {
   console.log('hit addtocart');
   const { productId, productName, quantity, price, userId } = req.body;
-
+  console.log(productId, productName, quantity, price, userId);
   try {
     const productIdObj = new ObjectId(productId);
     const userIdObj = new ObjectId(userId);
@@ -22,7 +22,7 @@ export const addToCart = async (req: Request, res: Response) => {
     }
 
     if (!product) {
-      return res.status(404).json({ success: false, message: "Product not found" });
+      return res.status(200).json({ success: false, message: "Product not found" });
     }
 
     const cartItem = {
@@ -70,7 +70,7 @@ export const updateCart = async (req: Request, res: Response) => {
     );
 
     if (result.modifiedCount === 0 && result.upsertedCount === 0) {
-      return res.status(404).json({ success: false, message: 'Cart not found' });
+      return res.status(200).json({ success: false, message: 'Cart not found' });
     }
 
     return res.status(200).json({ success: true, message: 'Cart saved successfully' });
@@ -91,7 +91,7 @@ export const removeFromCart = async (req: Request, res: Response) => {
     });
 
     if (result.deletedCount === 0) {
-      return res.status(404).json({ success: false, message: "Product not found in cart" });
+      return res.status(200).json({ success: false, message: "Product not found in cart" });
     }
 
     return res.status(200).json({ success: true, message: "Product removed from cart" });
@@ -107,7 +107,7 @@ export const getCartItems = async (req: Request, res: Response) => {
   try {
     const cart = await cartsColl.find({ userId: new ObjectId(userId) }).toArray();
     if (!cart) {
-      return res.status(404).json({ success: false, message: "Cart not found" });
+      return res.status(200).json({ success: false, message: "Cart not found" });
     }
     return res.status(200).json({ success: true, cart });
   } catch (error: any) {

@@ -5,7 +5,7 @@ let uri: string;
 if (process.env.ENVIRONMENT === "PRODUCTION") {
   uri = process.env.MONGO_URI as string;
 } else {
-  uri = 'mongodb://localhost:27017';
+  uri = 'mongodb://localhost:27017/';
 }
 
 const dbName = 'pharmasuite';

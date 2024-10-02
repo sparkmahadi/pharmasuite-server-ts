@@ -26,7 +26,7 @@ export const getProductById = async (req: Request, res: Response) => {
     if (product) {
       res.json(product);
     } else {
-      res.status(404).json({ message: "Product not found" });
+      res.status(204).json({ message: "Product not found" });
     }
   } catch (error) {
     res.status(500).json({ message: "Server error" });
@@ -43,7 +43,7 @@ export const getProductsByCategory = async (req: Request, res: Response) => {
     if (products) {
       res.status(200).json(products);
     } else {
-      res.status(404).json({ message: "Product not found" });
+      res.status(204).json({ message: "Product not found" });
     }
   } catch (error) {
     res.status(500).json({ message: "Server error" });
@@ -60,7 +60,7 @@ export const getProductsBySubCategory = async (req: Request, res: Response) => {
       if (products) {
         res.status(200).json(products);
       } else {
-        res.status(404).json({ message: "Product not found" });
+        res.status(204).json({ message: "Product not found" });
       }
     } catch (error) {
       res.status(500).json({ message: "Server error" });
@@ -218,7 +218,7 @@ export const addFieldToProduct = async (req: Request, res: Response) => {
     );
 
     if (result.modifiedCount === 0) {
-      return res.status(404).json({ message: 'Product not found' });
+      return res.status(200).json({ message: 'Product not found' });
     }
 
     res.status(200).json({ message: 'Field added to product', modifiedCount: result.modifiedCount });
@@ -242,7 +242,7 @@ export const updateFieldInProduct = async (req: Request, res: Response) => {
     );
 
     if (result.modifiedCount === 0) {
-      return res.status(404).json({ message: 'Product not found or field not updated' });
+      return res.status(200).json({ message: 'Product not found or field not updated' });
     }
 
     res.status(200).json({ message: 'Field updated in product', modifiedCount: result.modifiedCount });
@@ -266,7 +266,7 @@ export const deleteFieldFromProduct = async (req: Request, res: Response) => {
     );
 
     if (result.modifiedCount === 0) {
-      return res.status(404).json({ message: 'Product not found or field not deleted' });
+      return res.status(200).json({ message: 'Product not found or field not deleted' });
     }
 
     res.status(200).json({ message: 'Field deleted from product', modifiedCount: result.modifiedCount });

@@ -59,7 +59,7 @@ console.log("hit cancelOrder");
     const order = await ordersColl.findOne({ _id: new ObjectId(orderId) });
 
     if (!order) {
-      return res.status(404).json({ success: false, message: 'Order not found' });
+      return res.status(200).json({ success: false, message: 'Order not found' });
     }
 
     const currentTime = new Date().getTime();
@@ -94,7 +94,7 @@ export const getOrderHistory = async (req: Request, res: Response) => {
   try {
     const orders = await ordersColl.find({ userId: new ObjectId(userId) }).toArray();
     if (orders?.length === 0) {
-      return res.status(404).json({ success: false, message: "No orders found" });
+      return res.status(200).json({ success: false, message: "No orders found" });
     }
     return res.status(200).json({ success: true, orders });
   } catch (error: any) {

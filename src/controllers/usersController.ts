@@ -73,7 +73,7 @@ export const getUserById = async (req: Request, res: Response) => {
     });
 
     if (!result) {
-      return res.status(404).json({
+      return res.status(200).json({
         success: false,
         message: "User not found",
       });
@@ -180,7 +180,7 @@ export const deleteUser = async (req: Request, res: Response) => {
     const filter = { _id: new ObjectId(id) };
     const result = await usersColl.deleteOne(filter);
     if (result.deletedCount === 0) {
-      return res.status(404).json({
+      return res.status(200).json({
         success: false,
         message: "User not found.",
       });
