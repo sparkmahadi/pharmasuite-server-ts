@@ -127,7 +127,7 @@ export const getFavourites = async (req: Request, res: Response) => {
     const { userId } = req.params;
     const userIdObj = new ObjectId(userId);
     console.log('hit getfavs', userIdObj);
-    const favourites = await favouritesColl.find({ userId: userIdObj }).toArray();
+    const favourites = await favouritesColl.findOne({ userId: userIdObj });
     console.log('hit getfavs', favourites);
     if (!favourites) {
       return res.status(200).json({ success: false, message: "Favourites not found" });
