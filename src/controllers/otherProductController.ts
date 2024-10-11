@@ -6,18 +6,31 @@ import { ObjectId } from 'mongodb';
 const otherProductsColl = db.collection('other-products');
 
 export const getOtherProducts = async (req: Request, res: Response) => {
-  const { limit } = req.query;
-  console.log(limit);
+  const { page = 1, limit = 10 } = req.query; // Default to page 1 and limit 10
   try {
-    // Convert limit to a number if it's provided, otherwise default to no limit
-    const limitNum = limit ? parseInt(limit as string, 10) : 0;
-    const products = await otherProductsColl.find().limit(limitNum).toArray();
+    const pageNum = parseInt(page as string, 10);
+    const limitNum = parseInt(limit as string, 10);
 
-    res.json(products);
+    const skip = (pageNum - 1) * limitNum;
+    const totalProductsCount = await otherProductsColl.countDocuments();
+    const products = await otherProductsColl.find().skip(skip).limit(limitNum).toArray();
+
+    // Calculate total pages
+    const totalPages = Math.ceil(totalProductsCount / limitNum);
+
+    // Send paginated response
+    res.json({
+      page: pageNum,
+      limit: limitNum,
+      totalProducts: totalProductsCount,
+      totalPages,
+      products,
+    });
   } catch (error) {
     res.status(500).json({ message: "Server error" });
   }
 };
+
 
 export const getProductById = async (req: Request, res: Response) => {
   try {
